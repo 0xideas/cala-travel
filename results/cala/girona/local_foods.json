@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "name": "Xuixo",
+      "category": "Pastry / Sweet",
+      "locality": "Girona city",
+      "short_description": "Deep-fried laminated pastry filled with crema catalana and coated in sugar. Invented at Pastisseria Puig on Carrer de la Cort Reial in Girona in the 1920s. Designated a Producte de la Terra by the Catalan government. Girona hosts the annual Concurs Mundial del Xuixo (World Xuixo Contest) since 2018.",
+      "strength_of_local_association": "Very strong — invented in and iconic to Girona city",
+      "source_url": null
+    },
+    {
+      "name": "Botifarra dolça",
+      "category": "Cured meat / Sausage",
+      "locality": "Girona city",
+      "short_description": "A sweet sausage of medieval origin, made with pork, sugar, lemon zest and cinnamon, available fresh or cured. Its legend is tied to the Jardins de la Francesa behind Girona Cathedral.",
+      "strength_of_local_association": "Very strong — specifically a Girona city tradition",
+      "source_url": null
+    },
+    {
+      "name": "Poma de Girona",
+      "category": "Fruit",
+      "locality": "Gironès / Empordà",
+      "short_description": "Apples grown in the plains of Gironès, Baix Empordà and Alt Empordà, holding a Protected Geographical Indication (IGP). Traditional cultivation in the region since ancient times.",
+      "strength_of_local_association": "Strong — carries the Girona name in its IGP designation",
+      "source_url": null
+    },
+    {
+      "name": "Ratafia",
+      "category": "Liqueur",
+      "locality": "Girona / Gironès",
+      "short_description": "A sweet herbal liqueur made by macerating green walnuts and local herbs and spices in spirit. Deeply rooted in Girona's gastronomic identity and commonly offered alongside xuixos on food tours.",
+      "strength_of_local_association": "Strong — traditional Girona and surrounding area drink",
+      "source_url": null
+    },
+    {
+      "name": "Empordà olive oil",
+      "category": "Condiment / Oil",
+      "locality": "Empordà (near Girona)",
+      "short_description": "Extra-virgin olive oil produced from Argudell and other local olive varieties in the Empordà plains surrounding Girona. Holds DO Empordà status.",
+      "strength_of_local_association": "Strong — immediate Girona hinterland product",
+      "source_url": null
+    },
+    {
+      "name": "Empordà wines and cavas",
+      "category": "Beverage / Wine",
+      "locality": "Empordà (near Girona)",
+      "short_description": "Wines and sparkling cavas produced under the DO Empordà appellation from vineyards in the immediate Girona surroundings and Costa Brava hinterland.",
+      "strength_of_local_association": "Strong — listed by Girona City Council as a signature local product",
+      "source_url": null
+    },
+    {
+      "name": "Embotits gironins",
+      "category": "Charcuterie",
+      "locality": "Girona / Gironès",
+      "short_description": "Artisanal cured sausages and cold cuts (fuet, llonganissa, bull) produced in the Girona area, traditionally sold at the Mercat del Lleó in Girona.",
+      "strength_of_local_association": "Strong — core Girona market and gastronomy staple",
+      "source_url": null
+    },
+    {
+      "name": "Pa amb tomàquet",
+      "category": "Snack / Tapa",
+      "locality": "Girona city & surroundings",
+      "short_description": "Toasted bread rubbed with ripe tomato, drizzled with olive oil and salt. While pan-Catalan, it is the standard accompaniment to Girona's local cheeses and embotits and a centrepiece of Girona food culture.",
+      "strength_of_local_association": "Moderate — pan-Catalan but integral to Girona dining",
+      "source_url": null
+    },
+    {
+      "name": "Chocolates de Girona",
+      "category": "Confectionery",
+      "locality": "Girona city",
+      "short_description": "Artisan chocolates inspired by the legends and history of the city (e.g. the Girona fly motif). Girona has a notable chocolate-making tradition.",
+      "strength_of_local_association": "Moderate-strong — specifically themed to Girona's legends",
+      "source_url": null
+    },
+    {
+      "name": "Crema catalana",
+      "category": "Dessert",
+      "locality": "Girona / Catalonia",
+      "short_description": "A custard dessert with caramelised sugar top, closely linked to Girona as the filling of the xuixo and a staple of local restaurant menus. While broadly Catalan, it is inseparable from Girona's pastry identity.",
+      "strength_of_local_association": "Moderate — broadly Catalan but deeply embedded in Girona cuisine",
+      "source_url": null
+    }
+  ],
+  "entities": null
+}
