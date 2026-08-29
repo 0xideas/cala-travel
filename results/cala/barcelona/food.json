@@ -1,75 +1,170 @@
 {
   "results": [
     {
-      "name": "Bomba de la Barceloneta",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Barceloneta",
-      "why_it_is_special": "La Cova Fumada (open since 1944) claims to have invented the bomba — a deep-fried garlicky potato ball stuffed with ground beef, served with spicy sauce. Still priced at around €2.20, it's a working-class classic in a no-frills, cash-only bar packed with locals. Arrive by 11 am to avoid long waits.",
-      "source_url": "https://theinfatuation.com/barcelona/reviews/la-cova-fumada"
+      "name": "Bomba",
+      "recommendation_type": "La Cova Fumada",
+      "locality_or_neighbourhood": "La Barceloneta",
+      "why_it_is_special": "Family-run bodega opened in 1944, widely credited as the birthplace of the bomba. No sign on the door, no reservations — just marble tables, chalkboard menus, and fiercely loyal locals. A full tapas feast still costs under €20.",
+      "source_url": "https://www.theinfatuation.com/barcelona/reviews/la-cova-fumada"
     },
     {
-      "name": "Pa amb Tomàquet",
-      "recommendation_type": "Dish + Restaurant",
+      "name": "Pa amb tomàquet",
+      "recommendation_type": "Taverna El Glop",
       "locality_or_neighbourhood": "Gràcia",
-      "why_it_is_special": "Bread rubbed with ripe tomato, drizzled with olive oil and salt — the most elemental Catalan dish. Bodega Can Ros (Carrer de Roger de Flor 303, metro Joanic) is a small neighbourhood bar that makes one of the best versions in the city.",
-      "source_url": "https://barcelonahacks.com/what-to-eat-in-barcelona"
-    },
-    {
-      "name": "Esqueixada de Bacallà",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Gràcia",
-      "why_it_is_special": "A refreshing shredded salt-cod salad with tomatoes, onions, and olives — a Catalan summer staple. Polleria Fontana (Carrer de Sant Lluís 9, metro Joanic) is an informal, welcoming tapas spot in the heart of Gràcia.",
-      "source_url": "https://barcelonahacks.com/what-to-eat-in-barcelona"
-    },
-    {
-      "name": "Fideuà",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Sarrià",
-      "why_it_is_special": "Fideuà is the Catalan noodle-based alternative to paella, cooked with short pasta and seafood. Restaurant Canet (Carrer Canet 38, metro Sarrià) is a quaint family restaurant in a quiet corner of the Sarrià neighbourhood, serving one of Barcelona's best versions.",
-      "source_url": "https://barcelonahacks.com/what-to-eat-in-barcelona"
-    },
-    {
-      "name": "Calçots amb Romesco",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Gràcia",
-      "why_it_is_special": "Calçots are flame-grilled sweet onions dipped in romesco or salvitxada sauce — a seasonal Catalan ritual (roughly November–March). Can Cargol is one of the best places in Barcelona proper to enjoy them in season.",
-      "source_url": "https://www.tripsavvy.com/food-you-have-to-try-in-barcelona-4693195"
-    },
-    {
-      "name": "Botifarra amb Mongetes",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Gothic Quarter (Barri Gòtic)",
-      "why_it_is_special": "Traditional Catalan pork sausage served with white beans — hearty, simple, and deeply local. Bar La Plata is a tiny, legendary bar with only four tapas on its menu, and botifarra is one of them. Its stripped-back approach is a hallmark of authentic Barcelona dining.",
-      "source_url": "https://www.tripsavvy.com/food-you-have-to-try-in-barcelona-4693195"
-    },
-    {
-      "name": "Crema Catalana",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Gothic Quarter (Barri Gòtic)",
-      "why_it_is_special": "Catalonia's answer to crème brûlée — a custard flavoured with cinnamon and lemon zest, with a caramelised sugar crust. Granja Dulcinea, a historic granja (milk bar) on Carrer de Petritxol, is a beloved local institution for this dessert.",
-      "source_url": "https://www.tasteatlas.com/crema-catalana"
-    },
-    {
-      "name": "Vermouth hour",
-      "recommendation_type": "Drink + Bar",
-      "locality_or_neighbourhood": "Sant Antoni",
-      "why_it_is_special": "The hora del vermut (vermouth hour) is a deeply Catalan pre-lunch ritual. Els Sortidors del Parlament, a beautiful old bar on Carrer del Parlament, specialises in vermouth and local wine alongside an extensive tapas menu — an ideal starting point for a vermouth crawl in the trendy Sant Antoni neighbourhood.",
-      "source_url": "https://www.eater.com/barcelona/22627931/vermouth-bar-guide-barcelona"
+      "why_it_is_special": "Founded in 1978 during the Gràcia neighbourhood festival, this cosy institution serves classic Catalan cuisine with fresh, local produce. Pa amb tomàquet is so fundamental here it doesn't even need to be on the menu — just ask. A 10-minute walk from Gaudí's Casa Vicens.",
+      "source_url": "https://elglop.com/en/taverna-el-glop"
     },
     {
       "name": "Escalivada",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Gothic Quarter (Barri Gòtic)",
-      "why_it_is_special": "Smoky grilled vegetables (aubergine, peppers, onions) — the name comes from the Catalan escalivar (\"to cook in ashes\"). Can Culleretes, founded in 1786 and one of Barcelona's oldest restaurants, serves classic Catalan dishes including escalivada, cannelloni, and Catalan-style piglet.",
-      "source_url": "https://mana75.es/en/blog/catalan-restaurants-barcelona"
+      "recommendation_type": "Bar Casi",
+      "locality_or_neighbourhood": "Gràcia (near Joanic metro)",
+      "why_it_is_special": "An unassuming neighbourhood bar where vocal locals crowd in for some of the best home-cooked food in the city at an outstanding quality-to-price ratio. A great stop before or after Park Güell.",
+      "source_url": "https://barcelonahacks.com/what-to-eat-in-barcelona"
     },
     {
-      "name": "Suquet de Peix & classic Catalan menu",
-      "recommendation_type": "Dish + Restaurant",
-      "locality_or_neighbourhood": "Port Vell / Barceloneta",
-      "why_it_is_special": "Suquet is a traditional Catalan fisherman's stew of fish and potatoes. 7 Portes, open since 1836 at Port Vell Marina, is a grand Catalan institution serving suquet, daily-changing paellas, and regional classics in a historic dining room.",
-      "source_url": "https://mana75.es/en/blog/catalan-restaurants-barcelona"
+      "name": "Pescadito frito",
+      "recommendation_type": "Bar La Plata",
+      "locality_or_neighbourhood": "Barri Gòtic (Gothic Quarter)",
+      "why_it_is_special": "Open since 1945, serving exactly four tapas — fried butifarra, anchovies, tomato salad, and the star: crispy pescaditos (€3). Named best tapas bar in Barcelona by Time Out and best tiny bar in Europe by The Guardian. Chef Ferran Adrià calls it \"a magical place.\"",
+      "source_url": "https://www.theinfatuation.com/barcelona/reviews/la-plata"
+    },
+    {
+      "name": "Crema catalana",
+      "recommendation_type": "Granja Dulcinea",
+      "locality_or_neighbourhood": "Ciutat Vella (Carrer de Petritxol, Gothic Quarter)",
+      "why_it_is_special": "A historic granja (tea room) on Barcelona's famed \"Chocolate Street,\" open since 1941. Generations of locals have come for its thick hot chocolate and traditional Catalan sweets. The interior has barely changed since the 1950s — a genuine time capsule of mid-20th-century Barcelona.",
+      "source_url": "https://atlasobscura.com/places/granja-dulcinea"
     }
   ],
-  "entities": null
+  "entities": [
+    {
+      "id": "ab44dad5-782a-4a19-afb7-c8f553c2d513",
+      "name": "La Cova Fumada",
+      "entity_type": "Organization",
+      "mentions": [
+        "La Cova Fumada"
+      ]
+    },
+    {
+      "id": "cb4adafe-858a-4500-9ad5-f1a573902041",
+      "name": "Barceloneta",
+      "entity_type": "Location",
+      "mentions": [
+        "Barceloneta"
+      ]
+    },
+    {
+      "id": "858f2624-da22-4594-9a39-da1c76fb0104",
+      "name": "Gràcia",
+      "entity_type": "Location",
+      "mentions": [
+        "Gràcia"
+      ]
+    },
+    {
+      "id": "1ac54800-e6fc-43ef-bdec-dfd69c8e85d0",
+      "name": "Bar Casi",
+      "entity_type": "Organization",
+      "mentions": [
+        "Bar Casi"
+      ]
+    },
+    {
+      "id": "b6d78624-5f63-4710-96cf-cbd175da4c42",
+      "name": "Joanic metro",
+      "entity_type": "Facility",
+      "mentions": [
+        "Joanic metro"
+      ]
+    },
+    {
+      "id": "2979f74b-38a1-43ab-a92a-3464c5a88c86",
+      "name": "Barri Gòtic",
+      "entity_type": "Location",
+      "mentions": [
+        "Barri Gòtic",
+        "Gothic Quarter"
+      ]
+    },
+    {
+      "id": "c2465bf7-a354-4405-8c3a-e42feeb36b1d",
+      "name": "Time Out",
+      "entity_type": "Organization",
+      "mentions": [
+        "Time Out"
+      ]
+    },
+    {
+      "id": "b3dbf423-ee4b-4ca2-a432-e1b3df5732ae",
+      "name": "The Guardian",
+      "entity_type": "Organization",
+      "mentions": [
+        "The Guardian"
+      ]
+    },
+    {
+      "id": "e9bd1769-2c1f-4c2e-9d53-a66a41e75ce1",
+      "name": "Ferran Adrià",
+      "entity_type": "Person",
+      "mentions": [
+        "Ferran Adrià"
+      ]
+    },
+    {
+      "id": "d3f48db9-2222-4d67-9831-3ed633c95e4d",
+      "name": "Granja Dulcinea",
+      "entity_type": "Organization",
+      "mentions": [
+        "Granja Dulcinea"
+      ]
+    },
+    {
+      "id": "856ba195-109d-4a85-98db-e7bb7c9d4fdc",
+      "name": "Ciutat Vella",
+      "entity_type": "Location",
+      "mentions": [
+        "Ciutat Vella"
+      ]
+    },
+    {
+      "id": "6b4887d7-eea3-4c30-a09b-0afadaaa77aa",
+      "name": "Carrer de Petritxol",
+      "entity_type": "Location",
+      "mentions": [
+        "Carrer de Petritxol"
+      ]
+    },
+    {
+      "id": "cba2cfd7-9080-41a8-b984-0ed1edffe5ef",
+      "name": "theinfatuation.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "theinfatuation.com"
+      ]
+    },
+    {
+      "id": "25d1c6bd-5f63-44da-bed0-e14360a6a6d8",
+      "name": "elglop.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "elglop.com"
+      ]
+    },
+    {
+      "id": "f6f3e257-b760-4bfe-9875-59941599d070",
+      "name": "barcelonahacks.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "barcelonahacks.com"
+      ]
+    },
+    {
+      "id": "25f1ced8-813a-4fe3-b616-d722b42d978a",
+      "name": "atlasobscura.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "atlasobscura.com"
+      ]
+    }
+  ]
 }

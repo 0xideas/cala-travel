@@ -2,109 +2,144 @@
   "results": [
     {
       "name": "Basílica de la Sagrada Família",
-      "recommendation_type": "Architecture",
+      "recommendation_type": "Historic building / Basilica",
       "locality_or_neighbourhood": "Eixample",
-      "why_it_is_special": "Antoni Gaudí's unfinished masterpiece and UNESCO World Heritage Site; an extraordinary fusion of Gothic and Art Nouveau forms inspired by nature, geometry, and spirituality — one of nine UNESCO sites in the city.",
-      "source_url": "https://parkguell-entradas.org/en/tickets/gaudis-barcelona-tickets-sagrada-familia-park-guell-casa-batllo-pedrera"
-    },
-    {
-      "name": "Park Güell",
-      "recommendation_type": "Architecture / Park",
-      "locality_or_neighbourhood": "Gràcia (El Carmel)",
-      "why_it_is_special": "A Gaudí-designed public park and UNESCO World Heritage Site featuring mosaic-covered structures, organic forms, and panoramic views over the city.",
-      "source_url": "https://parkguell-entradas.org/en/tickets/gaudis-barcelona-tickets-sagrada-familia-park-guell-casa-batllo-pedrera"
-    },
-    {
-      "name": "Casa Batlló",
-      "recommendation_type": "Architecture",
-      "locality_or_neighbourhood": "Eixample (Passeig de Gràcia)",
-      "why_it_is_special": "Remodelled by Gaudí between 1904 and 1906 for textile industrialist Josep Batlló; its undulating façade, skeletal balconies, and dragon-scale roof make it one of the most imaginative buildings in European modernism.",
-      "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
-    },
-    {
-      "name": "Casa Milà (La Pedrera)",
-      "recommendation_type": "Architecture",
-      "locality_or_neighbourhood": "Eixample (Passeig de Gràcia, 92)",
-      "why_it_is_special": "Gaudí's last civil work before dedicating himself to the Sagrada Família; a UNESCO-listed apartment building with a sculptural stone façade and a rooftop of surreal chimneys.",
-      "source_url": "https://app.architecturehelper.com/building_library/styles/modernism"
+      "why_it_is_special": "Designed by Antoni Gaudí and under construction since 1882, it is the largest unfinished Catholic church in the world. Its Nativity Facade and crypt are a UNESCO World Heritage Site (2005), and it was consecrated as a minor basilica in 2010. The interior's tree-like columns and spectacular stained glass are unlike any other church.",
+      "source_url": "https://www.lonelyplanet.com/spain/barcelona/leixample/attractions/la-sagrada-familia/a/poi-sig/374867/1320680"
     },
     {
       "name": "Museu Picasso",
-      "recommendation_type": "Museum",
-      "locality_or_neighbourhood": "Ciutat Vella (El Born / La Ribera)",
-      "why_it_is_special": "Housed in five medieval palaces, it holds one of the most extensive collections of Pablo Picasso's early works, offering deep insight into the artist's formative years in Barcelona.",
-      "source_url": "https://fr.barcelona-museum.com/les-musees-d-art.html"
-    },
-    {
-      "name": "Fundació Joan Miró",
-      "recommendation_type": "Museum",
-      "locality_or_neighbourhood": "Montjuïc",
-      "why_it_is_special": "Opened in 1975 in a light-filled building in Parc de Montjuïc, the foundation houses over 14,000 pieces by Joan Miró and hosts rotating temporary exhibitions — an intimate, curated experience overlooking the city.",
-      "source_url": "https://www.barcelona-metropolitan.com/locations/fundacio-joan-miro"
-    },
-    {
-      "name": "MACBA (Museu d'Art Contemporani de Barcelona)",
-      "recommendation_type": "Museum",
-      "locality_or_neighbourhood": "Ciutat Vella (El Raval)",
-      "why_it_is_special": "A striking white geometric building designed by Richard Meier; it showcases thought‑provoking contemporary art from the late 20th century to the present and anchors El Raval's creative scene.",
-      "source_url": "https://travelabc.org/places-to-visit-in-barcelona"
-    },
-    {
-      "name": "MNAC (Museu Nacional d'Art de Catalunya)",
-      "recommendation_type": "Museum",
-      "locality_or_neighbourhood": "Montjuïc",
-      "why_it_is_special": "Occupying the Palau Nacional, it spans a thousand years of Catalan art — from Romanesque church murals to modernisme — making it the most comprehensive survey of regional art anywhere.",
-      "source_url": "https://fr.barcelona-museum.com/les-musees-d-art.html"
-    },
-    {
-      "name": "Mercat de la Boqueria",
-      "recommendation_type": "Market",
-      "locality_or_neighbourhood": "Ciutat Vella (La Rambla)",
-      "why_it_is_special": "Barcelona's oldest and most famous food market, dating back to the 13th century; a sensory explosion of fresh produce, seafood, and local specialties that captures the city's deep relationship with food culture.",
-      "source_url": "https://barcelonahacks.com/is-barcelona-worth-visiting"
-    },
-    {
-      "name": "Mercat de Santa Caterina",
-      "recommendation_type": "Market",
-      "locality_or_neighbourhood": "Ciutat Vella (Sant Pere, Santa Caterina i la Ribera)",
-      "why_it_is_special": "Built in 1845 on the site of a former convent, it features a spectacular undulating mosaic roof by Enric Miralles and Benedetta Tagliabue — a less touristy alternative to La Boqueria with excellent local produce.",
-      "source_url": "https://www.meet.barcelona/en/visit-and-love-it/points-interest-city/mercat-de-santa-caterina-92086009448"
-    },
-    {
-      "name": "Mercat dels Encants (Fira de Bellcaire)",
-      "recommendation_type": "Market",
-      "locality_or_neighbourhood": "Eixample / Glòries",
-      "why_it_is_special": "One of Europe's oldest flea markets and a treasure trove for vintage lovers, now housed under a striking mirrored canopy — a Barcelona off-the-beaten-path favourite.",
-      "source_url": "https://barcelonahacks.com/is-barcelona-worth-visiting"
+      "recommendation_type": "Art museum",
+      "locality_or_neighbourhood": "El Born (La Ribera)",
+      "why_it_is_special": "Housed in five medieval Gothic palaces on Carrer de Montcada, the museum holds over 4,200 works and offers the world's most comprehensive collection of Picasso's formative and early years. Highlights include the complete Las Meninas series and Blue Period works. Opened in 1963 at Picasso's own request.",
+      "source_url": "https://museupicassobcn.cat/en/collection/documentary-fund/museu-picasso-de-barcelona-collection"
     },
     {
       "name": "Palau de la Música Catalana",
-      "recommendation_type": "Local Institution / Concert Hall",
-      "locality_or_neighbourhood": "Ciutat Vella (Sant Pere, Santa Caterina i la Ribera)",
-      "why_it_is_special": "A UNESCO World Heritage concert hall designed by Lluís Domènech i Montaner in the Catalan modernista style; its stained‑glass skylight and ornate interior make it one of the most beautiful music venues in the world.",
-      "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
+      "recommendation_type": "Concert hall / Cultural institution",
+      "locality_or_neighbourhood": "Sant Pere (Old Town)",
+      "why_it_is_special": "Built 1905–1908 by architect Lluís Domènech i Montaner for the Orfeó Català choral society, it is the only Modernista concert hall declared a UNESCO World Heritage Site (1997). Its steel-framed auditorium is flooded with natural light through extraordinary stained-glass walls and an inverted dome ceiling.",
+      "source_url": "https://www.catalannews.com/culture/item/palau-de-la-musica-catalana-modernist-gem-in-the-heart-of-barcelona"
     },
     {
-      "name": "Recinte Modernista de Sant Pau",
-      "recommendation_type": "Architecture / Local Institution",
-      "locality_or_neighbourhood": "El Guinardó (Sant Pau)",
-      "why_it_is_special": "Designed by Lluís Domènech i Montaner, this former hospital is a breathtaking Modernist complex and UNESCO World Heritage Site, now repurposed as a cultural centre and knowledge hub.",
-      "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
+      "name": "Casa Batlló",
+      "recommendation_type": "Historic building / House-museum",
+      "locality_or_neighbourhood": "Passeig de Gràcia, Eixample",
+      "why_it_is_special": "Radically remodelled by Gaudí between 1904 and 1906, this residential building is known locally as the \"House of Bones\" for its skeletal façade. Its undulating exterior, colourful broken-tile mosaics (trencadís), and nature-inspired interiors earned it UNESCO World Heritage status in 2005. Now features immersive galleries exploring Gaudí's creative process.",
+      "source_url": "https://www.barcelonaturisme.com/wv3/en/page/1098/casa-batllo-gaudi-barcelona.html"
     },
     {
-      "name": "El Born Centre de Cultura i Memòria",
-      "recommendation_type": "Local Institution / Cultural Centre",
-      "locality_or_neighbourhood": "Ciutat Vella (El Born / La Ribera)",
-      "why_it_is_special": "A 19th-century iron-and-glass market hall converted into a cultural centre after a €84 million renovation; beneath its floor lie archaeological remains of 18th-century Barcelona, making it both a museum and a monument to the city's memory.",
-      "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
-    },
-    {
-      "name": "CaixaForum Barcelona",
-      "recommendation_type": "Museum / Cultural Centre",
-      "locality_or_neighbourhood": "Montjuïc (Av. Francesc Ferrer i Guàrdia)",
-      "why_it_is_special": "A former Modernist textile factory converted into a dynamic arts centre hosting world‑class travelling exhibitions, film cycles, and educational programmes — a top attraction on Barcelona's official tourism list.",
-      "source_url": "https://www.barcelonaturisme.com/wv3/en/prods/3/barcelona-top-attractions.html"
+      "name": "Museu Nacional d'Art de Catalunya (MNAC)",
+      "recommendation_type": "Art museum",
+      "locality_or_neighbourhood": "Montjuïc",
+      "why_it_is_special": "Housed in the Palau Nacional, a neo-Baroque palace built for the 1929 International Exposition, MNAC holds the world's finest collection of Romanesque mural paintings alongside Gothic, Renaissance, Baroque, and Modernisme galleries. Works by El Greco, Velázquez, Gaudí, Ramon Casas, and Dalí feature in a collection spanning over 1,000 years of Catalan art.",
+      "source_url": "https://artsandculture.google.com/partner/museu-nacional-dart-de-catalunya"
     }
   ],
-  "entities": null
+  "entities": [
+    {
+      "id": "c3990a3a-cf62-4130-8ce4-116870fa2241",
+      "name": "La Sagrada Familia",
+      "entity_type": "Facility",
+      "mentions": [
+        "Basílica de la Sagrada Família"
+      ]
+    },
+    {
+      "id": "f499c871-e2b0-4f53-a23a-de44c4c7debc",
+      "name": "Antoni Gaudí",
+      "entity_type": "Person",
+      "mentions": [
+        "Antoni Gaudí"
+      ]
+    },
+    {
+      "id": "3a5f3fae-ecce-4fad-9462-e1129b893c63",
+      "name": "Museu Picasso",
+      "entity_type": "Organization",
+      "mentions": [
+        "Museu Picasso"
+      ]
+    },
+    {
+      "id": "19d849ee-e6f4-423b-82c0-b20e071b339a",
+      "name": "Lluís Domènech i Montaner",
+      "entity_type": "Person",
+      "mentions": [
+        "Lluís Domènech i Montaner"
+      ]
+    },
+    {
+      "id": "0d7478f0-cfc7-4e6a-af15-9fd718bf0043",
+      "name": "Palau de la Música Catalana",
+      "entity_type": "Facility",
+      "mentions": [
+        "Palau de la Música Catalana"
+      ]
+    },
+    {
+      "id": "1009d216-cf52-45bb-9d08-142da4ebec85",
+      "name": "Casa Batlló",
+      "entity_type": "Facility",
+      "mentions": [
+        "Casa Batlló"
+      ]
+    },
+    {
+      "id": "3587fdce-b88c-4492-9f23-cfdffd0095f1",
+      "name": "Museu Nacional d'Art de Catalunya (MNAC)",
+      "entity_type": "Organization",
+      "mentions": [
+        "Museu Nacional d'Art de Catalunya"
+      ]
+    },
+    {
+      "id": "1d6db960-ed44-5d03-a69c-1ccdd46b6377",
+      "name": "UNESCO",
+      "entity_type": "IntergovernmentalOrganization",
+      "mentions": [
+        "UNESCO"
+      ]
+    },
+    {
+      "id": "264c0e74-561c-4b54-aba2-99165a536d02",
+      "name": "El Born",
+      "entity_type": "Location",
+      "mentions": [
+        "El Born"
+      ]
+    },
+    {
+      "id": "4a573a0b-a8b4-42e1-ac5f-6f5447cfeee7",
+      "name": "Eixample",
+      "entity_type": "Location",
+      "mentions": [
+        "Eixample"
+      ]
+    },
+    {
+      "id": "f60f8800-18d0-4ffd-afd5-d1c9072b7704",
+      "name": "Sant Pere",
+      "entity_type": "Location",
+      "mentions": [
+        "Sant Pere"
+      ]
+    },
+    {
+      "id": "07ac35c3-c22e-48b3-be68-01bfa4158328",
+      "name": "Passeig de Gràcia",
+      "entity_type": "Location",
+      "mentions": [
+        "Passeig de Gràcia"
+      ]
+    },
+    {
+      "id": "3510ef37-3698-4d97-b72b-14996a0f7d35",
+      "name": "Montjuïc",
+      "entity_type": "Location",
+      "mentions": [
+        "Montjuïc"
+      ]
+    }
+  ]
 }

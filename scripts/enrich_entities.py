@@ -155,11 +155,6 @@ def main() -> None:
     print(f"Resolving {len(candidates)} unique recommendations", flush=True)
     resolved = run_in_rate_limited_batches(candidates, search_entity, api_key, args.timeout)
     directory = ROOT / "results" / "cala" / city_slug(city)
-    search_file = directory / "entity_search_enrichment.json"
-    search_file.write_text(
-        json.dumps({"city": city, "entities": resolved}, indent=2, ensure_ascii=False) + "\n"
-    )
-    print(f"Wrote {search_file}", flush=True)
     profiles = run_in_rate_limited_batches(resolved, retrieve_profile, api_key, args.timeout)
 
     output_file = directory / "entity_enrichment.json"

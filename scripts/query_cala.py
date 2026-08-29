@@ -17,6 +17,8 @@ ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://api.cala.ai/v1/knowledge/query"
 DEMO_CITIES = ["Valencia", "Barcelona", "Mexico City", "Tokyo"]
 STARTER_REQUESTS_PER_MINUTE = 10
+DEFAULT_RETRIES = 2
+DEFAULT_RETRY_DELAY = 60.0
 
 
 def cala_api_key() -> str:
@@ -50,16 +52,17 @@ def output_file(city: str, category: str) -> Path:
 def queries(city: str) -> dict[str, str]:
     return {
         "food": (
-            f"For {city}, recommend its most distinctive local foods and essential "
-            "places to try them. Return one structured row per recommendation with: "
+            f"Name five traditional foods strongly associated with {city}. For each food, "
+            "recommend one local place that serves it. Return one structured row per food with: "
             "name, recommendation_type, locality_or_neighbourhood, why_it_is_special, "
-            "and source_url. Prioritize locally meaningful choices over generic tourist lists."
+            "and source_url. Prioritize locally meaningful choices over generic tourist lists"
         ),
         "culture": (
-            f"For {city}, recommend distinctive cultural places worth visiting, including "
-            "museums, architecture, markets, and local institutions. Return one structured "
-            "row per recommendation with: name, recommendation_type, locality_or_neighbourhood, "
-            "why_it_is_special, and source_url."
+            f"Recommend five specific cultural landmarks in {city}. Focus on museums, historic "
+            "buildings, or cultural institutions rather than neighbourhoods or general activities. "
+            "Return one structured row per landmark with: name, recommendation_type, "
+            "locality_or_neighbourhood, why_it_is_special, and source_url. Keep each "
+            "explanation concise."
         ),
         "outdoors": (
             f"For {city}, recommend worthwhile outdoor and nature experiences in the city "
@@ -85,25 +88,44 @@ def is_successful_result(result: object) -> bool:
     )
 
 
-def fetch_query(city: str, category: str, query: str, api_key: str, timeout: int) -> Path:
-    request = Request(
-        API_URL,
-        data=json.dumps({"input": query, "return_entities": True}).encode(),
-        headers={"Content-Type": "application/json", "X-API-KEY": api_key},
-        method="POST",
-    )
-    try:
-        with urlopen(request, timeout=timeout) as response:
-            result = json.load(response)
-    except (HTTPError, URLError, socket.timeout, TimeoutError) as error:
-        result = {
-            "results": [],
-            "entities": None,
-            "error": {"type": type(error).__name__, "message": str(error)},
-        }
-
+def fetch_query(
+    city: str,
+    category: str,
+    query: str,
+    api_key: str,
+    timeout: int,
+    retries: int,
+    retry_delay: float,
+) -> Path:
     file = output_file(city, category)
-    file.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
+    for attempt in range(retries + 1):
+        request = Request(
+            API_URL,
+            data=json.dumps({"input": query, "return_entities": True}).encode(),
+            headers={"Content-Type": "application/json", "X-API-KEY": api_key},
+            method="POST",
+        )
+        try:
+            with urlopen(request, timeout=timeout) as response:
+                result = json.load(response)
+        except (HTTPError, URLError, socket.timeout, TimeoutError, json.JSONDecodeError) as error:
+            result = {
+                "results": [],
+                "entities": None,
+                "error": {"type": type(error).__name__, "message": str(error)},
+            }
+
+        file.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
+        if is_successful_result(result) or attempt == retries:
+            return file
+
+        print(
+            f"Retrying {city}/{category} in {retry_delay:g}s "
+            f"(attempt {attempt + 2} of {retries + 1})",
+            flush=True,
+        )
+        sleep(retry_delay)
+
     return file
 
 
@@ -127,7 +149,26 @@ def main() -> None:
         action="store_true",
         help="Skip categories that already have a non-error response file.",
     )
+    parser.add_argument(
+        "--retries",
+        type=int,
+        default=DEFAULT_RETRIES,
+        help=f"Number of retries after a failed subquery (default: {DEFAULT_RETRIES}).",
+    )
+    parser.add_argument(
+        "--retry-delay",
+        type=float,
+        default=DEFAULT_RETRY_DELAY,
+        help=(
+            "Seconds to wait before retrying a failed subquery "
+            f"(default: {DEFAULT_RETRY_DELAY:g})."
+        ),
+    )
     args = parser.parse_args()
+    if args.retries < 0:
+        parser.error("--retries must be zero or greater")
+    if args.retry_delay < 0:
+        parser.error("--retry-delay must be zero or greater")
     cities = [city.strip() for city in args.cities] or DEMO_CITIES
     if invalid_cities := [city for city in cities if not city_slug(city)]:
         parser.error(f"Cities must contain letters or numbers: {', '.join(invalid_cities)}")
@@ -154,7 +195,16 @@ def main() -> None:
         print(f"Starting batch {batch_number}: {len(batch)} requests", flush=True)
         with ThreadPoolExecutor(max_workers=len(batch)) as executor:
             futures = [
-                executor.submit(fetch_query, city, category, query, api_key, args.timeout)
+                executor.submit(
+                    fetch_query,
+                    city,
+                    category,
+                    query,
+                    api_key,
+                    args.timeout,
+                    args.retries,
+                    args.retry_delay,
+                )
                 for city, category, query in batch
             ]
             for future in as_completed(futures):

@@ -1,89 +1,161 @@
 {
   "results": [
     {
-      "name": "City of Arts and Sciences (Ciudad de las Artes y las Ciencias)",
-      "recommendation_type": "Architecture / Science",
-      "locality_or_neighbourhood": "Turia Gardens (eastern end)",
-      "why_it_is_special": "A futuristic complex designed by Santiago Calatrava featuring an arts centre, IMAX cinema (L'Hemisfèric), Europe's largest aquarium (Oceanogràfic), and a science museum — ultra-modern architecture set amid shallow blue pools and gardens.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-see-valencia/museums-monuments"
+      "name": "La Lonja de la Seda (Silk Exchange)",
+      "recommendation_type": "Historic Building (UNESCO World Heritage Site)",
+      "locality_or_neighbourhood": "Ciutat Vella (city centre)",
+      "why_it_is_special": "A stunning 15th-century Gothic masterpiece and UNESCO World Heritage Site that served as Valencia's silk trading hall — one of the finest examples of late-Gothic civil architecture in Europe.",
+      "source_url": "https://visitvalencia.com/en/what-to-see-valencia/museums-monuments"
     },
     {
-      "name": "La Lonja de la Seda (The Silk Exchange)",
-      "recommendation_type": "Architecture / UNESCO Heritage",
-      "locality_or_neighbourhood": "Ciutat Vella (historic centre)",
-      "why_it_is_special": "UNESCO World Heritage Site since 1996. A masterpiece of late Gothic civic architecture built 1482–1533, with spectacular helical columns, star-shaped ribbed vaults, and the grandiose Sala de Contratación — testimony to Valencia's power as a Mediterranean trading hub.",
-      "source_url": "https://whc.unesco.org/en/list/782"
+      "name": "Valencia Cathedral & Micalet Bell Tower",
+      "recommendation_type": "Historic Building / Religious Monument",
+      "locality_or_neighbourhood": "Plaza de la Reina, Ciutat Vella",
+      "why_it_is_special": "A Gothic cathedral blending Romanesque, Baroque, and Gothic styles, famous for claiming to house the Holy Grail. The Micalet bell tower offers panoramic city views and is one of the largest Gothic bell ensembles in Spain.",
+      "source_url": "https://spaintours.com/discover-the-best-of-valencia-top-things-to-do"
     },
     {
-      "name": "Mercado Central (Central Market)",
-      "recommendation_type": "Market",
-      "locality_or_neighbourhood": "Ciutat Vella (Plaza del Mercado)",
-      "why_it_is_special": "One of Europe's largest and most impressive indoor fresh-produce markets, celebrated for its grand Art Nouveau architecture with decorative domes and ironwork. A living hub of local food culture and daily life.",
-      "source_url": "https://blog.tourtailors.com/spains-best-city-markets"
+      "name": "City of Arts and Sciences – Science Museum (Museu de les Ciències)",
+      "recommendation_type": "Museum / Cultural Complex",
+      "locality_or_neighbourhood": "Jardín del Turia (south-east)",
+      "why_it_is_special": "Designed by Santiago Calatrava, this futuristic whale-skeleton-shaped building houses interactive exhibits on the human body, space, robotics, and physics — a symbol of Valencia's modern cultural ambition.",
+      "source_url": "https://spainvoyages.com/en/guide/cities/things-to-do-in-valencia-a-green-city-on-the-mediterranean-coast"
     },
     {
-      "name": "Museo de Bellas Artes de Valencia (Museum of Fine Arts)",
-      "recommendation_type": "Museum",
-      "locality_or_neighbourhood": "North of Turia Gardens (San Pio V)",
-      "why_it_is_special": "The second-largest art museum in Spain after the Prado. Housed in a 17th-century building, it holds over 2,000 works spanning the Middle Ages to the 20th century, including masterpieces by El Greco, Goya, Velázquez, and the Valencian painter Joaquín Sorolla.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-do-valencia/valencian-culture/top-museums-in-valencia"
-    },
-    {
-      "name": "IVAM — Institut Valencià d'Art Modern",
-      "recommendation_type": "Museum (Modern Art)",
-      "locality_or_neighbourhood": "El Carmen",
-      "why_it_is_special": "The first modern art museum created in Spain (founded 1989). Its collection of over 11,000 works from the 20th and 21st centuries includes paintings, photography, sculpture, video, and comics, with a permanent focus on Julio González. Free entry on Sundays.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-do-valencia/valencian-culture/top-museums-in-valencia"
-    },
-    {
-      "name": "National Museum of Ceramics and Decorative Arts (Marqués de Dos Aguas Palace)",
-      "recommendation_type": "Museum / Architecture",
-      "locality_or_neighbourhood": "Ciutat Vella",
-      "why_it_is_special": "Housed in the Marqués de Dos Aguas Palace, instantly recognisable by its spectacular Baroque façade. The collection spans ceramic works from the 8th century to the present, reflecting Valencia's historically important ceramics industry.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-see-valencia/museums-monuments"
-    },
-    {
-      "name": "Bombas Gens Centre d'Art",
-      "recommendation_type": "Museum (Contemporary / Digital Art)",
-      "locality_or_neighbourhood": "Marxalenes",
-      "why_it_is_special": "A former industrial workshop transformed in 2014 into a striking contemporary art centre specialising in immersive and audiovisual projects. Spacious, kid-friendly, and architecturally unique.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-do-valencia/valencian-culture/top-museums-in-valencia"
-    },
-    {
-      "name": "Church of San Nicolás de Bari y San Pedro Mártir",
-      "recommendation_type": "Architecture / Religious Heritage",
-      "locality_or_neighbourhood": "Ciutat Vella",
-      "why_it_is_special": "Often called \"the Valencian Sistine Chapel\" for its breathtaking restored Baroque frescoes covering the entire ceiling and walls — one of the city's most visually stunning hidden treasures.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-see-valencia/museums-monuments"
-    },
-    {
-      "name": "Hortensia Herrero Art Center",
+      "name": "IVAM (Institut Valencià d'Art Modern)",
       "recommendation_type": "Museum (Contemporary Art)",
-      "locality_or_neighbourhood": "Ciutat Vella",
-      "why_it_is_special": "A recently opened centre housing over 100 works by major international artists such as Anselm Kiefer, Anish Kapoor, Tony Cragg, and Andreas Gursky, quickly becoming a flagship cultural venue.",
-      "source_url": "https://www.visitvalencia.com/en/news-room/valencia-will-open-museum-dedicated-sorolla-2026"
+      "locality_or_neighbourhood": "El Carmen, Ciutat Vella",
+      "why_it_is_special": "Opened in 1989 as one of Spain's first modern-art museums, IVAM showcases 20th- and 21st-century art and positions Valencia as a leading centre for contemporary culture.",
+      "source_url": "https://spainvoyages.com/en/guide/cities/things-to-do-in-valencia-a-green-city-on-the-mediterranean-coast"
     },
     {
-      "name": "Museo Fallero (Fallas Museum)",
-      "recommendation_type": "Museum / Local Institution",
-      "locality_or_neighbourhood": "Ciutat Vella",
-      "why_it_is_special": "Dedicated to Valencia's most iconic festival, Las Fallas (UNESCO Intangible Cultural Heritage). Displays the *ninots indultats* — the figures saved each year from the bonfires — preserving the artistic and festive heritage of the city.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-do-valencia/valencian-culture/top-museums-in-valencia"
-    },
-    {
-      "name": "Mercado de Colón",
-      "recommendation_type": "Market / Architecture",
-      "locality_or_neighbourhood": "Eixample (Ruzafa area)",
-      "why_it_is_special": "A beautifully restored Art Nouveau market building designed by architect Francisco Mora Berenguer, now functioning as a gourmet food hall and social meeting point — a perfect blend of heritage architecture and modern gastronomy.",
-      "source_url": "https://www.whereverimayroamblog.com/valencia-spain-a-must-see-destination"
-    },
-    {
-      "name": "Torres de Serranos",
-      "recommendation_type": "Architecture / Monument",
-      "locality_or_neighbourhood": "Ciutat Vella (northern gate)",
-      "why_it_is_special": "One of the two surviving fortified medieval city gates and the largest Gothic city gate in Europe — offering panoramic views of the old town and the Turia Gardens from its towers.",
-      "source_url": "https://www.visitvalencia.com/en/what-to-see-valencia/museums-monuments"
+      "name": "National Museum of Ceramics – Marqués de Dos Aguas Palace",
+      "recommendation_type": "Museum / Historic Palace",
+      "locality_or_neighbourhood": "Ciutat Vella (Calle del Poeta Querol)",
+      "why_it_is_special": "Housed in a Rococo palace with a spectacular alabaster façade, this museum displays one of Spain's finest ceramics collections alongside period rooms that showcase aristocratic Valencian life.",
+      "source_url": "https://visitvalencia.com/en/what-to-see-valencia/museums-monuments"
     }
   ],
-  "entities": null
+  "entities": [
+    {
+      "id": "74ff2e4b-b589-5646-9432-f3b8dc2c2592",
+      "name": "Valencia",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Valencia"
+      ]
+    },
+    {
+      "id": "cfc32f7f-524f-487b-94a7-3b9be0576277",
+      "name": "Spain",
+      "entity_type": "Country",
+      "mentions": [
+        "Spain"
+      ]
+    },
+    {
+      "id": "d5445d3e-021c-4a1b-b57b-28a24c8ae69d",
+      "name": "La Lonja de la Seda",
+      "entity_type": "Facility",
+      "mentions": [
+        "La Lonja de la Seda"
+      ]
+    },
+    {
+      "id": "444b9830-dd0d-4afb-88ee-f4b132d4ddad",
+      "name": "Ciutat Vella",
+      "entity_type": "Location",
+      "mentions": [
+        "Ciutat Vella"
+      ]
+    },
+    {
+      "id": "871a16a9-b378-44d7-bf21-2f1e1c53876b",
+      "name": "Valencia Cathedral",
+      "entity_type": "Facility",
+      "mentions": [
+        "Valencia Cathedral"
+      ]
+    },
+    {
+      "id": "1adb38be-c6ae-47c2-8741-68244065c4f6",
+      "name": "Micalet Bell Tower",
+      "entity_type": "Facility",
+      "mentions": [
+        "Micalet Bell Tower"
+      ]
+    },
+    {
+      "id": "1271fde3-ef7c-45dd-a153-af264c8f67a6",
+      "name": "Plaza de la Reina",
+      "entity_type": "Location",
+      "mentions": [
+        "Plaza de la Reina"
+      ]
+    },
+    {
+      "id": "f4134f3a-f3f8-4d53-85a1-95648a8e2afd",
+      "name": "City of Arts and Sciences",
+      "entity_type": "Facility",
+      "mentions": [
+        "City of Arts and Sciences"
+      ]
+    },
+    {
+      "id": "681c2c27-55f5-48a5-b9af-d0d9b3b40703",
+      "name": "Science Museum",
+      "entity_type": "Facility",
+      "mentions": [
+        "Science Museum"
+      ]
+    },
+    {
+      "id": "66da7271-af6f-41fb-8019-efe4fedf0ac8",
+      "name": "Santiago Calatrava",
+      "entity_type": "Person",
+      "mentions": [
+        "Santiago Calatrava"
+      ]
+    },
+    {
+      "id": "1ed65110-a1a0-4fd3-b389-6fbb18361146",
+      "name": "IVAM",
+      "entity_type": "Organization",
+      "mentions": [
+        "IVAM"
+      ]
+    },
+    {
+      "id": "225d2bc2-40a6-4e92-927c-cd15431b116c",
+      "name": "Institut Valencià d'Art Modern",
+      "entity_type": "Organization",
+      "mentions": [
+        "Institut Valencià d'Art Modern"
+      ]
+    },
+    {
+      "id": "d21405c4-95f6-402c-a9c8-88507cbecb9d",
+      "name": "El Carmen",
+      "entity_type": "Location",
+      "mentions": [
+        "El Carmen"
+      ]
+    },
+    {
+      "id": "3e6ee8d7-4475-4708-9fc9-761510aef0a5",
+      "name": "National Museum of Ceramics",
+      "entity_type": "Facility",
+      "mentions": [
+        "National Museum of Ceramics"
+      ]
+    },
+    {
+      "id": "86ec8c36-8807-4d7e-8cda-e8c12eca09cd",
+      "name": "Marqués de Dos Aguas Palace",
+      "entity_type": "Facility",
+      "mentions": [
+        "Marqués de Dos Aguas Palace"
+      ]
+    }
+  ]
 }

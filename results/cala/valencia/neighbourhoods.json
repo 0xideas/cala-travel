@@ -2,39 +2,216 @@
   "results": [
     {
       "name": "Ruzafa",
-      "character": "Vibrant, hipster, artistic, mixing tradition and modernity",
-      "what_to_do_there": "Wander the colorful streets to see street art, browse quirky boutiques, sip coffee in trendy cafés, visit the Mercadillo de Ruzafa market for vintage finds",
-      "why_it_is_special": "Known for its lively creative scene, it blends historic architecture with a youthful, multicultural vibe, attracting locals and artists",
-      "source_url": null
-    },
-    {
-      "name": "El Carmen",
-      "character": "Historic heart, open‑air museum of street art, lively nightlife",
-      "what_to_do_there": "Explore narrow medieval lanes, admire murals, hop between tapas bars and cafés, climb the Serranos and Quart towers, visit the Cathedral (Holy Grail)",
-      "why_it_is_special": "The oldest part of Valencia, it juxtaposes centuries‑old stone with contemporary graffiti, offering an authentic local atmosphere",
-      "source_url": null
-    },
-    {
-      "name": "Benimaclet",
-      "character": "Village‑like, progressive, multicultural, youthful “independent republic”",
-      "what_to_do_there": "Meet locals at Plaza de Benimaclet, enjoy poetry nights and live music in bars like La Murta, browse the Saturday market, admire ever‑changing murals",
-      "why_it_is_special": "Retains a tight‑knit community spirit from its former village roots while hosting a vibrant student and artistic scene",
-      "source_url": null
+      "character": "Valencia's coolest barrio — hipster, multicultural, and creative. Home to young professionals, digital nomads, and artists. Narrow streets buzz with an alternative, laid-back energy.",
+      "what_to_do_there": "Browse independent vintage clothing shops and avant-garde art galleries; eat at vegetarian/vegan cafés and inventive tapas bars; drink at hidden bars tucked inside bookshops and antique stores; visit the iconic Mercado de Ruzafa.",
+      "why_it_is_special": "It's the city's creative engine — a genuinely diverse neighbourhood where the nightlife, food scene, and street culture are driven by locals and long-term residents rather than tourist footfall.",
+      "source_url": "https://breathingtravel.com/where-to-stay-in-valencia"
     },
     {
       "name": "El Cabanyal",
-      "character": "Seaside neighbourhood with colorful houses, maritime heritage, up‑and‑coming",
-      "what_to_do_there": "Stroll historic streets, admire the colourful façades, visit Casa Montaña for traditional tapas, enjoy cultural events at La Fábrica de Hielo and Naves, relax on the nearby beach",
-      "why_it_is_special": "Once a poor fishing district, it now offers a blend of authentic maritime culture, colourful architecture and a growing creative scene",
-      "source_url": null
+      "character": "A former fishermen's quarter right behind the beach, with low-rise streets running parallel to the sea and a proud working-class identity. Ranked by The Guardian as the third coolest neighbourhood in Europe (2020).",
+      "what_to_do_there": "Buy fish straight from fishermen at the small port; eat a hearty menú del día (often paella) at old-school bodegas like Bodega La Pascuala; admire the extraordinary ceramic-tiled façades unique to this barrio; catch a show at TEM (Teatre El Musical), a cultural centre that doubles as a community hub.",
+      "why_it_is_special": "Its social fabric is the real draw — a tight-knit community that fought for years to save the neighbourhood from demolition plans. The Marinero and Modernist architecture, the Semana Santa Marinera processions, and the raw local atmosphere are unlike anything in the city centre.",
+      "source_url": "https://theculturetrip.com/europe/spain/valencia/articles/an-insiders-guide-to-el-cabanyal-valencia"
     },
     {
-      "name": "Arrancapins",
-      "character": "Authentic, family‑friendly, old‑town charm with renovated buildings",
-      "what_to_do_there": "Walk the central plaza, shop in local stores, admire the renovated Finca Roja, enjoy the quiet residential atmosphere",
-      "why_it_is_special": "Preserves a genuine Valencian neighbourhood feel, with traditional shops and a sense of community away from tourist crowds",
-      "source_url": null
+      "name": "El Carmen",
+      "character": "The medieval heart of the old town (Ciutat Vella), framed by 14th-century walls and the Torres de Serranos and Quart gates. A quintessentially Mediterranean maze of narrow lanes.",
+      "what_to_do_there": "Wander the streets to discover some of Valencia's best street-art murals; drink and eat at bustling neighbourhood bars and clubs; explore the Gothic cathedral, La Lonja de la Seda, and the Fine Arts Museum; get lost in the labyrinth of alleys after dark for the city's liveliest nightlife.",
+      "why_it_is_special": "Despite being central, El Carmen retains a gritty, lived-in character — street art covers crumbling walls, tiny plazas fill with locals at aperitivo hour, and the layers of Roman, Arab, and medieval history are visible on every corner rather than behind a ticket booth.",
+      "source_url": "https://teyxo.com/lifestyle/10-things-to-see-in-valencia"
+    },
+    {
+      "name": "Benimaclet",
+      "character": "A bohemian, multicultural village-within-a-city near the university. Affordable, creative, and fiercely community-minded, with a rhythm all its own.",
+      "what_to_do_there": "Visit La Casa de Trencadís (a 1930s Gaudí-inspired mosaic house); browse Estudio 64 (illustration bookshop) and Galería Xavier Carrillo; drink craft beer at indie breweries; attend open-mic nights and live-music gigs; shop at the weekend Mercadillo Indu for artisan goods.",
+      "why_it_is_special": "Benimaclet resists gentrification with intention — local businesses must \"fit the barrio.\" Its festivals, community collectives, and small galleries give it a grassroots energy that feels genuinely uncommercial.",
+      "source_url": "https://www.skyscanner.co.nz/destinations/neighbourhood-destinations/204215062/valencia/benimaclet"
+    },
+    {
+      "name": "El Botànic",
+      "character": "A quiet, leafy pocket of the Extramurs district, centred on the University of Valencia's Botanical Garden (founded 1802). Residential and unhurried, with a distinctly local pace.",
+      "what_to_do_there": "Stroll the Jardí Botànic and its tropical greenhouses; walk through the majestic Torres de Quart; linger in neighbourhood cervecerías on Carrer Quart; explore the surrounding streets of Borrull for independent shops and calm café terraces.",
+      "why_it_is_special": "It feels like a secret — sandwiched between the old town and the Turia gardens, El Botànic has almost no tourist infrastructure, just locals going about their day around one of Europe's oldest university botanical gardens.",
+      "source_url": "https://www.wikiwand.com/en/articles/Botanical_Garden_of_Valencia"
     }
   ],
-  "entities": null
+  "entities": [
+    {
+      "id": "74ff2e4b-b589-5646-9432-f3b8dc2c2592",
+      "name": "Valencia",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Valencia"
+      ]
+    },
+    {
+      "id": "859ed1b7-e8bd-405a-8674-e35525469e4a",
+      "name": "Ruzafa",
+      "entity_type": "Location",
+      "mentions": [
+        "Ruzafa"
+      ]
+    },
+    {
+      "id": "39ec0cb4-cd16-4a5c-bf06-a5f079c7bc80",
+      "name": "El Cabanyal",
+      "entity_type": "Location",
+      "mentions": [
+        "El Cabanyal"
+      ]
+    },
+    {
+      "id": "6d191afc-c5b8-4f1b-8aa4-2fbb4ae33228",
+      "name": "The Guardian",
+      "entity_type": "Organization",
+      "mentions": [
+        "The Guardian"
+      ]
+    },
+    {
+      "id": "f34b2576-0efd-4a4d-a729-4517fc30bae4",
+      "name": "Bodega La Pascuala",
+      "entity_type": "Organization",
+      "mentions": [
+        "Bodega La Pascuala"
+      ]
+    },
+    {
+      "id": "d21405c4-95f6-402c-a9c8-88507cbecb9d",
+      "name": "El Carmen",
+      "entity_type": "Location",
+      "mentions": [
+        "El Carmen"
+      ]
+    },
+    {
+      "id": "b1b604e5-cd0d-43d6-a76a-4cde086e45e3",
+      "name": "Torres de Serranos",
+      "entity_type": "Facility",
+      "mentions": [
+        "Torres de Serranos"
+      ]
+    },
+    {
+      "id": "5f2c3f8f-4c9b-42e2-b1db-e6fa50f1f765",
+      "name": "Torres de Quart",
+      "entity_type": "Facility",
+      "mentions": [
+        "Torres de Quart"
+      ]
+    },
+    {
+      "id": "d5445d3e-021c-4a1b-b57b-28a24c8ae69d",
+      "name": "La Lonja de la Seda",
+      "entity_type": "Facility",
+      "mentions": [
+        "La Lonja de la Seda"
+      ]
+    },
+    {
+      "id": "4ff08f23-b5f1-492b-b279-4020303b3f90",
+      "name": "Fine Arts Museum",
+      "entity_type": "Organization",
+      "mentions": [
+        "Fine Arts Museum"
+      ]
+    },
+    {
+      "id": "6e3996b6-5293-4bcb-91af-1ecb09c00a57",
+      "name": "Benimaclet",
+      "entity_type": "Location",
+      "mentions": [
+        "Benimaclet"
+      ]
+    },
+    {
+      "id": "6e70f517-4fd7-414f-b1cc-5a52b4c61040",
+      "name": "La Casa de Trencadís",
+      "entity_type": "Facility",
+      "mentions": [
+        "La Casa de Trencadís"
+      ]
+    },
+    {
+      "id": "d11b205c-a2ad-4496-aad9-7d86d159b5ac",
+      "name": "Estudio 64",
+      "entity_type": "Organization",
+      "mentions": [
+        "Estudio 64"
+      ]
+    },
+    {
+      "id": "4e3a6412-d816-462d-ac34-69822530662f",
+      "name": "Galería Xavier Carrillo",
+      "entity_type": "Organization",
+      "mentions": [
+        "Galería Xavier Carrillo"
+      ]
+    },
+    {
+      "id": "4d68fbca-a630-4a57-9dcc-8fff404f40e9",
+      "name": "Mercadillo Indu",
+      "entity_type": "Organization",
+      "mentions": [
+        "Mercadillo Indu"
+      ]
+    },
+    {
+      "id": "c7963d77-357d-44dd-9b13-9f4bb42c503e",
+      "name": "El Botànic",
+      "entity_type": "Location",
+      "mentions": [
+        "El Botànic"
+      ]
+    },
+    {
+      "id": "7674c2a7-a56d-4ee0-9891-ccde4709aa4c",
+      "name": "University of Valencia",
+      "entity_type": "Organization",
+      "mentions": [
+        "University of Valencia"
+      ]
+    },
+    {
+      "id": "997da0f5-22e2-403b-ac10-93e5ee0e9dc8",
+      "name": "wikiwand.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "wikiwand.com"
+      ]
+    },
+    {
+      "id": "65cbb51d-d86f-4d67-8e74-ca01089b99de",
+      "name": "breathingtravel.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "breathingtravel.com"
+      ]
+    },
+    {
+      "id": "bf42e630-5e14-40a6-a5c9-c2120fceed57",
+      "name": "theculturetrip.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "theculturetrip.com"
+      ]
+    },
+    {
+      "id": "ab237920-ffa8-41d4-aceb-d2626bf2021b",
+      "name": "teyxo.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "teyxo.com"
+      ]
+    },
+    {
+      "id": "c4b3c0a6-bc3a-4d37-8fce-45bc254dd2fc",
+      "name": "skyscanner.co.nz",
+      "entity_type": "Organization",
+      "mentions": [
+        "skyscanner.co.nz"
+      ]
+    }
+  ]
 }

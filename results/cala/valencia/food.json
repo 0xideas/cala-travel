@@ -1,54 +1,201 @@
 {
   "results": [
     {
-      "name": "Paella Valenciana (Casa Carmela)",
-      "recommendation_type": "food",
-      "locality_or_neighbourhood": "Cabanyal (near La Malvarrosa beach)",
-      "why_it_is_special": "Traditional wood‑fire paella using orange wood, chicken, rabbit, beans and saffron; a family‑run institution preserving Valencia’s iconic rice dish.",
-      "source_url": null
+      "name": "Paella Valenciana",
+      "recommendation_type": "Casa Carmela",
+      "locality_or_neighbourhood": "La Malvarrosa (Poblats Marítims)",
+      "why_it_is_special": "Family-run since 1922, every paella is cooked over an open wood fire — the traditional method that produces the prized socarrat (crispy caramelised rice crust). Locals and food critics consistently rank it among the city's best.",
+      "source_url": "theinfatuation.com/valencia/reviews/casa-carmela"
     },
     {
-      "name": "All i Pebre (Bon Aire Restaurante)",
-      "recommendation_type": "food",
-      "locality_or_neighbourhood": "El Palmar (Albufera Natural Park)",
-      "why_it_is_special": "Classic eel stew seasoned with garlic, paprika and potatoes; a signature dish of the Albufera region that reflects local fishing heritage.",
-      "source_url": null
+      "name": "Horchata con Fartons",
+      "recommendation_type": "Horchatería Daniel",
+      "locality_or_neighbourhood": "Alboraya (Avenida de la Horchata)",
+      "why_it_is_special": "Operating since 1949, Daniel crafts 100 % natural, artisan horchata from locally grown tiger nuts (chufas). Salvador Dalí and Rafael Alberti were among its famous patrons. The soft, sugar-glazed fartons are baked in-house for dipping.",
+      "source_url": "visitvalencia.com/en/what-to-do-valencia/gastronomy/spaces-gastronomic-valencia/horchateria-daniel"
     },
     {
-      "name": "Horchata & Fartons (Horchatería Daniel)",
-      "recommendation_type": "drink/snack",
-      "locality_or_neighbourhood": "Avenida de la Horchata, central Valencia",
-      "why_it_is_special": "Iconic chufa‑based horchata served with freshly baked fartons; a beloved Valencian tradition celebrated since 1949.",
-      "source_url": null
+      "name": "All i Pebre",
+      "recommendation_type": "Bon Aire",
+      "locality_or_neighbourhood": "El Palmar (Albufera Natural Park)",
+      "why_it_is_special": "A bold garlic-and-paprika eel stew born in the fishing villages around L'Albufera lake. Chef Raúl Magraner runs this family project using local rice, fish, and vegetables from the park's own environment. Bon Aire holds a We're Smart Green Guide distinction.",
+      "source_url": "visitvalencia.com/en/what-to-do-valencia/gastronomy/where-to-eat-restaurant-valencia/bon-aire-restaurante"
     },
     {
-      "name": "Horchata & Fartons (Horchatería Alboraya)",
-      "recommendation_type": "drink/snack",
-      "locality_or_neighbourhood": "Alboraya (suburb of Valencia)",
-      "why_it_is_special": "100 % Chufa Denominación de Origen Valencia, artisanal preparation; the go‑to spot for authentic horchata and fartons.",
-      "source_url": null
+      "name": "Fideuà",
+      "recommendation_type": "Goya Gallery",
+      "locality_or_neighbourhood": "L'Eixample (Carrer de Borriana, 3)",
+      "why_it_is_special": "A Michelin Guide–listed restaurant that started as a bar in 1950 and won the title of best fideuà in the world in 2022. Its loyal local following and superb selection of rice and noodle dishes make it a neighbourhood institution rather than a tourist stop.",
+      "source_url": "guide.michelin.com/hu/en/comunidad-valenciana/valencia/restaurant/goya-gallery"
     },
     {
-      "name": "Fideuà (Mercat Central)",
-      "recommendation_type": "food",
-      "locality_or_neighbourhood": "City centre (Mercat Central)",
-      "why_it_is_special": "Seafood noodle dish cooked with fresh local seafood; a staple of Valencian cuisine available at stalls inside the historic market.",
-      "source_url": null
-    },
-    {
-      "name": "Buñuelos de Calabaza (Horchatería Daniel)",
-      "recommendation_type": "snack",
-      "locality_or_neighbourhood": "Avenida de la Horchata",
-      "why_it_is_special": "Pumpkin‑flavoured fritters, a traditional sweet treat that showcases Valencia’s festive pastry heritage.",
-      "source_url": null
-    },
-    {
-      "name": "Paella (Restaurante El Palmar)",
-      "recommendation_type": "food",
-      "locality_or_neighbourhood": "El Palmar (Albufera Natural Park)",
-      "why_it_is_special": "Offers a range of paellas, including seafood and traditional versions, in a setting surrounded by rice fields and the Albufera lagoon.",
-      "source_url": null
+      "name": "Esgarraet",
+      "recommendation_type": "Casa Montaña",
+      "locality_or_neighbourhood": "El Cabanyal",
+      "why_it_is_special": "A historic bodega in Valencia's old fishermen's quarter, Casa Montaña is the kind of place where locals linger over vermouth and traditional tapas. Esgarraet — hand-shredded salt cod with smoky roasted red peppers and olive oil — is a house staple that showcases the simplicity of Valencian coastal cooking.",
+      "source_url": "theinfatuation.com/valencia/reviews/casa-montana"
     }
   ],
-  "entities": null
+  "entities": [
+    {
+      "id": "2d474209-bfa2-40f4-a216-dd679520a60e",
+      "name": "Paella Valenciana",
+      "entity_type": "Product",
+      "mentions": [
+        "Paella Valenciana"
+      ]
+    },
+    {
+      "id": "e1f40460-cbf1-4fcf-983f-d8b0896cb5c7",
+      "name": "Casa Carmela",
+      "entity_type": "Organization",
+      "mentions": [
+        "Casa Carmela"
+      ]
+    },
+    {
+      "id": "a32e956d-5b06-4384-a506-97872e6d904f",
+      "name": "La Malvarrosa",
+      "entity_type": "Location",
+      "mentions": [
+        "La Malvarrosa"
+      ]
+    },
+    {
+      "id": "b63d5860-f908-41cd-85c0-43abadbdf184",
+      "name": "Horchata con Fartons",
+      "entity_type": "Product",
+      "mentions": [
+        "Horchata con Fartons"
+      ]
+    },
+    {
+      "id": "b186a0c3-aa8f-4058-a41e-633df389628f",
+      "name": "Horchatería Daniel",
+      "entity_type": "Organization",
+      "mentions": [
+        "Horchatería Daniel"
+      ]
+    },
+    {
+      "id": "ae3665bc-af72-520e-a56a-03b8de83a40e",
+      "name": "Alboraia",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Alboraya"
+      ]
+    },
+    {
+      "id": "309f1cc5-2f85-447f-8a92-e4c5e02ee82a",
+      "name": "Avenida de la Horchata",
+      "entity_type": "Location",
+      "mentions": [
+        "Avenida de la Horchata"
+      ]
+    },
+    {
+      "id": "509eb478-c714-4631-ae24-f4d8f33b6db0",
+      "name": "Salvador Dalí",
+      "entity_type": "Person",
+      "mentions": [
+        "Salvador Dalí"
+      ]
+    },
+    {
+      "id": "4eb970eb-38a0-42f2-8804-ffaed095b530",
+      "name": "Rafael Alberti",
+      "entity_type": "Person",
+      "mentions": [
+        "Rafael Alberti"
+      ]
+    },
+    {
+      "id": "6798e134-db3a-4aa3-98fd-a001250ea3f0",
+      "name": "All i Pebre",
+      "entity_type": "Product",
+      "mentions": [
+        "All i Pebre"
+      ]
+    },
+    {
+      "id": "7b8bbcdd-9a6d-4e5e-8339-5a1aab673e43",
+      "name": "Bon Aire",
+      "entity_type": "Organization",
+      "mentions": [
+        "Bon Aire"
+      ]
+    },
+    {
+      "id": "de9f4360-de09-4b76-9f25-14c2d29f56ce",
+      "name": "La Albufera de Valencia",
+      "entity_type": "Location",
+      "mentions": [
+        "Albufera Natural Park"
+      ]
+    },
+    {
+      "id": "2cdbfafd-56b7-4ac7-88a7-f599e8558600",
+      "name": "Fideuà",
+      "entity_type": "Product",
+      "mentions": [
+        "Fideuà"
+      ]
+    },
+    {
+      "id": "07af096d-c2b0-4d8c-962a-aab077aec9af",
+      "name": "Goya Gallery",
+      "entity_type": "Organization",
+      "mentions": [
+        "Goya Gallery"
+      ]
+    },
+    {
+      "id": "1d13db80-f2f0-40f5-943f-71bc01bc97ca",
+      "name": "L'Eixample",
+      "entity_type": "Location",
+      "mentions": [
+        "L'Eixample"
+      ]
+    },
+    {
+      "id": "c409326b-4ba4-44c6-98b0-3a81e2b8a0f4",
+      "name": "Carrer de Borriana, 3",
+      "entity_type": "Location",
+      "mentions": [
+        "Carrer de Borriana, 3"
+      ]
+    },
+    {
+      "id": "a85e6a05-b7d1-4d76-a3c7-ba2d30169668",
+      "name": "Esgarraet",
+      "entity_type": "Product",
+      "mentions": [
+        "Esgarraet"
+      ]
+    },
+    {
+      "id": "1977cb73-6e14-4aa7-9f1b-0232f2799700",
+      "name": "Casa Montaña",
+      "entity_type": "Organization",
+      "mentions": [
+        "Casa Montaña"
+      ]
+    },
+    {
+      "id": "39ec0cb4-cd16-4a5c-bf06-a5f079c7bc80",
+      "name": "El Cabanyal",
+      "entity_type": "Location",
+      "mentions": [
+        "El Cabanyal"
+      ]
+    },
+    {
+      "id": "4fdd0dad-049e-4db6-bd6b-6a195a7a952f",
+      "name": "Michelin Guide",
+      "entity_type": "Organization",
+      "mentions": [
+        "Michelin Guide"
+      ]
+    }
+  ]
 }
