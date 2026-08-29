@@ -1,388 +1,85 @@
 {
-  "content": "## Local Foods & Traditional Dishes to Try in Toulouse and Occitanie\n\nToulouse and the wider Occitanie region are a paradise for food lovers, with a cuisine rooted in hearty, rustic traditions and high-quality local ingredients. Here are the must-try dishes and specialties:\n\n---\n\n### 🍲 Cassoulet de Toulouse\nThe quintessential dish of the region. This rich, slow-cooked stew combines **white beans** (ideally *haricots tarbais*), **duck confit**, **Toulouse sausage** (*saucisse de Toulouse*), pork belly, and aromatic broth. It's ubiquitous in Toulouse — nearly every traditional restaurant serves its own version.\n\n### 🦆 Duck Confit (*Confit de Canard*)\nAn ancestral preservation technique where duck legs are slow-cooked in their own fat until meltingly tender. Duck is central to southwestern French cuisine, and confit de canard is a true symbol of the terroir. You'll also find **duck breast** (*magret de canard*) on many menus.\n\n### 🍖 Saucisse de Toulouse\nA celebrated pork sausage made according to traditional, artisanal methods. Only sausages produced in or near Toulouse following the authentic recipe may carry the full designation. It's a key ingredient in cassoulet but also delicious grilled on its own.\n\n### 🫕 Foie Gras\nThe Gers department, just west of Toulouse, is one of France's premier foie gras–producing areas. Whether served as a block, mi-cuit, or pan-seared, duck and goose foie gras are iconic regional delicacies.\n\n### 🥣 Garbure\nA thick, hearty peasant soup from the Gascony area combining **cabbage, seasonal root vegetables, confit meat, and Tarbais beans**. It varies by season and cook — every version is different, and it's the ultimate comfort food of the southwest.\n\n### 🧀 Aligot\nA spectacular dish from the Aveyron area (within Occitanie): mashed potatoes blended with **fresh Tomme cheese, cream, and garlic** until incredibly stretchy and elastic. It's a must-try — head to a dedicated aligot restaurant for the full experience.\n\n### 🧀 Roquefort\nThe famous blue cheese from the caves of Roquefort-sur-Soulzon in Aveyron, made from raw sheep's milk. A cornerstone of Occitanie's cheese heritage.\n\n### 🧀 Pélardon\nA small, soft goat's cheese from the Cévennes mountains in eastern Occitanie — delicate and tangy.\n\n### 🍝 Gratin de Macaronis Toulousain\nA comforting local take on baked pasta: macaroni in creamy béchamel sauce with Toulouse sausage and cheese.\n\n### 💜 Violettes de Toulouse\nToulouse is famous for its violets, used in a surprising range of foods and drinks. The most iconic treat is **candied violet petals**, but you'll also find violet-flavored chocolates, liqueurs, and pastries. *La Maison de la Violette*, on a barge on the Canal du Midi, is the best place to explore these.\n\n### 🍬 Cachou Lajaunie\nA distinctive Toulouse confection — small liquorice-flavored pastilles that have been a local favorite for generations.\n\n### 🦪 Oysters\nThanks to Toulouse's proximity to the Atlantic and Mediterranean coasts, fresh oysters are hugely popular, especially around the festive season.\n\n### 🍷 Regional Wines & Drinks\nOccitanie has been a wine-growing region for over 2,000 years. Look for **Corbières** reds, **Blanquette de Limoux** (one of the world's oldest sparkling wines), Gascony whites, and local **Armagnac** brandy.\n\n---\n\nToulouse's **Marché Victor Hugo** is an excellent starting point to sample many of these specialties under one roof. Bon appétit!",
-  "explainability": [
+  "results": [
     {
-      "content": "Cassoulet de Toulouse is highlighted as a quintessential regional stew that combines white beans, duck confit, Toulouse sausage, and pork, matching the description of the dish in the answer.",
-      "references": [
-        "e3e8688e-fae2-4af8-9013-2f5400f4a69b",
-        "6e190182-fa99-4b5b-873e-b5d057f91ea5",
-        "12b3b088-c740-4a1d-9152-345ed11bf9e5"
-      ]
-    },
-    {
-      "content": "Duck confit is presented as an ancestral preservation technique where duck legs are slow‑cooked in their own fat, aligning with the answer’s explanation of this specialty.",
-      "references": [
-        "12b3b088-c740-4a1d-9152-345ed11bf9e5",
-        "4f88a8ee-5636-4da3-b5d3-2740c74a94ef"
-      ]
-    },
-    {
-      "content": "Saucisse de Toulouse is defined as a traditional pork sausage produced in or near Toulouse according to authentic artisanal methods, supporting its inclusion in the answer.",
-      "references": [
-        "e3e8688e-fae2-4af8-9013-2f5400f4a69b",
-        "6e190182-fa99-4b5b-873e-b5d057f91ea5"
-      ]
-    },
-    {
-      "content": "Foie gras from the Gers department is identified as a premier regional delicacy, confirming its recommendation in the answer.",
-      "references": [
-        "12b3b088-c740-4a1d-9152-345ed11bf9e5",
-        "b0cb86dc-0de7-426a-85ac-0cbdc3349184"
-      ]
-    },
-    {
-      "content": "Garbure is described as a hearty cabbage‑based soup with seasonal vegetables, confit meat, and Tarbais beans, which matches the answer’s portrayal of this peasant dish.",
-      "references": [
-        "e3e8688e-fae2-4af8-9013-2f5400f4a69b",
-        "12b3b088-c740-4a1d-9152-345ed11bf9e5",
-        "4f88a8ee-5636-4da3-b5d3-2740c74a94ef"
-      ]
-    },
-    {
-      "content": "Aligot is noted as a stretchy mashed‑potato dish blended with fresh Tomme cheese, cream, and garlic from the Aveyron area, confirming its recommendation.",
-      "references": [
-        "b0cb86dc-0de7-426a-85ac-0cbdc3349184",
-        "56eeb303-a03f-4856-8e46-e147c9a5665a"
-      ]
-    },
-    {
-      "content": "Roquefort is identified as the famous blue cheese made from raw sheep’s milk in the caves of Roquefort‑sur‑Soulzon, supporting its inclusion.",
-      "references": [
-        "b0cb86dc-0de7-426a-85ac-0cbdc3349184"
-      ]
-    },
-    {
-      "content": "Pélardon is described as a small soft goat’s cheese from the Cévennes mountains in eastern Occitanie, aligning with the answer’s suggestion.",
-      "references": [
-        "b0cb86dc-0de7-426a-85ac-0cbdc3349184"
-      ]
-    },
-    {
-      "content": "Gratin de Macaronis Toulousain is presented as baked macaroni in a creamy béchamel sauce with Toulouse sausage and cheese, matching the answer’s description.",
-      "references": [
-        "6e190182-fa99-4b5b-873e-b5d057f91ea5"
-      ]
-    },
-    {
-      "content": "Violettes de Toulouse are highlighted as versatile violet‑flavored ingredients, with candied violet petals and a dedicated shop on the Canal du Midi, supporting the answer’s recommendation.",
-      "references": [
-        "e3e8688e-fae2-4af8-9013-2f5400f4a69b"
-      ]
-    },
-    {
-      "content": "Cachou Lajaunie is mentioned as a distinctive liquorice‑flavored confection popular in Toulouse, confirming its place in the answer.",
-      "references": [
-        "6e190182-fa99-4b5b-873e-b5d057f91ea5"
-      ]
-    },
-    {
-      "content": "Oysters are noted as an incredibly popular food in Toulouse, especially around festive seasons, validating their inclusion.",
-      "references": [
-        "e3e8688e-fae2-4af8-9013-2f5400f4a69b"
-      ]
-    },
-    {
-      "content": "Regional wines and drinks such as Corbières reds, Blanquette de Limoux sparkling wine, and Armagnac brandy are identified as key Occitanie beverages, supporting the answer’s wine recommendations.",
-      "references": [
-        "b0cb86dc-0de7-426a-85ac-0cbdc3349184",
-        "12b3b088-c740-4a1d-9152-345ed11bf9e5"
-      ]
-    }
-  ],
-  "context": [
-    {
-      "id": "e3e8688e-fae2-4af8-9013-2f5400f4a69b",
-      "content": "find the dish. ## Saucisse de Toulouse. Only those who make the saucisse in/near Toulouse with respect for the traditional recipe and artisanal methods are allowed to use this full designation. You can read more about the Saucisse de Toulouse here. ## Violettes de Toulouse. But the Violettes de Toulouse are not just a thing of beauty, they’re a remarkably versatile ingredient for food and drinks. The most famous violet-flavored food in Toulouse, though, is candied violet petals. The best place [...] The best place to try and buy almost anything made with Toulouse violets is La Maison de la Violette, which is located on a picturesque barge on the Canal du Midi. Especially prevalent around Christmas time and New Year, oysters are an incredibly popular food with the citizens of Toulouse (as they are across France). Continuing this tradition, you will find a great deal of variety in the Garbure found across Toulouse depending on the season and availability of ingredients. ### Where to Find [...] June 14, 2024 In Best Eats, French food, Toulouse. # What Typical Foods Should I Try in Toulouse? So, you’ve arrived in Toulouse and want a taste of local life and culture, the city’s atmosphere and history. So, what to eat in Toulouse? What food is Toulouse famous for? Join us today as we explore some of our favorite classic Toulouse dishes and ingredients. This is a Toulouse food you cannot miss out on! Cassoulet is ubiquitous in Toulouse so you won’t be stuck for places to find the dish. ##",
-      "origins": [
-        {
-          "source": {
-            "name": "tasteoftoulouse.com",
-            "url": "https://www.tasteoftoulouse.com/what-typical-foods-should-i-try-in-toulouse"
-          },
-          "document": {
-            "name": "What Typical Foods Should I Try in Toulouse? – Taste of Toulouse food tours",
-            "url": "https://www.tasteoftoulouse.com/what-typical-foods-should-i-try-in-toulouse"
-          },
-          "breadcrumb": [
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6e190182-fa99-4b5b-873e-b5d057f91ea5",
-      "content": "date, one of the best things to do in Toulouse for couples. ## FAQs: What To Eat in Toulouse. This iconic dish features a hearty mix of ingredients like white beans, pork, duck confit, pork belly, lamb, and the distinctive Toulouse sausage. Toulouse-style cassoulet is a traditional dish featuring duck fat, duck confit, various pork cuts, and the famous Toulouse sausage, known locally as la saucisse de Toulouse. This hearty stew is a staple of the region, showcasing the rich flavors and culinary [...] foods to try in Toulouse. ### How to eat the best Cachou Lajaunie in Toulouse? ## Discover local food in Toulouse. Typically made with layers of potatoes or pasta, local cheese, and Toulouse sausage, it’s bound together with creamy béchamel or fresh cream. For something unique, try gratin de macaronis Toulousain, which features macaroni baked in a creamy béchamel sauce with Toulouse sausage and cheese, creating a comforting bake. Gratin is the perfect dish for a romantic dinner date, one of the [...] # The best food in Toulouse: What to eat and where. Rich, rustic, and regional, food in Toulouse features slow-cooked comfort dishes, southern French ingredients, and sweet treats. Warm up with a bowl of cassoulet de Toulouse, a hearty mix of white beans, duck, and local sausage. Cassoulet is a classic Toulouse dish. What sets Toulouse cassoulet apart is the use of local ingredients like haricots tarbais and Toulouse sausage, resulting in a dish that’s rich and deeply satisfying. ### How to eat",
-      "origins": [
-        {
-          "source": {
-            "name": "getyourguide.com",
-            "url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
-          },
-          "document": {
-            "name": "The Best Food in Toulouse: 10 Local Dishes To Devour",
-            "url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
-          },
-          "breadcrumb": [
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "id": "56eeb303-a03f-4856-8e46-e147c9a5665a",
-      "content": "dish that relies on perfectly ripe produce and isn’t regularly featured on restaurant menus. If you want, you can read more about the 5 Best Food Markets in Toulouse. Bouillabaisse is a traditional fish stew that originates from Marseille, and it’s a must-try dish when visiting the south of France. If you’re a food lover, the south of France is a must-visit destination, and Toulouse is a fantastic city to begin your culinary adventure. From cassoulet to jambon de Bayonne, and everything in [...] delightful dish at Le Genty Magre, which won the 2023 World Championship of the Cassoulet de Toulouse. Read our Typical Foods to Try in Toulouse blog to discover more about cassoulet and other iconic Toulouse dishes (and where to eat them)! To sample this tasty dish in Toulouse, visit Poissonnerie Bellocq at the Marché Victor Hugo, where they serve an exquisite version of this coastal delicacy. In Toulouse, finding tian might be challenging, as it’s a highly seasonal dish that relies on [...] when exploring this beautiful region. We’ll also suggest where to find each dish in Toulouse, one of France’s great foodie capitals. To try this dish in Toulouse, head over to Aligot Bar and prepare to be amazed. Cassoulet is one of the most quintessential dishes from southwest France, combining other several Toulouse specialties – saucisse de Toulouse and duck confit – with white beans and broth to create a rich, satisfying meal. When in Toulouse, we recommend savoring this delightful dish at",
-      "origins": [
-        {
-          "source": {
-            "name": "tasteoftoulouse.com",
-            "url": "https://www.tasteoftoulouse.com/dishes-you-have-to-try-from-the-south-of-france-and-where-to-find-them-in-toulouse"
-          },
-          "document": {
-            "name": "Dishes You Have to Try from the South of France (And Where to Find Them in Toulouse) – Taste of Toulouse food tours",
-            "url": "https://www.tasteoftoulouse.com/dishes-you-have-to-try-from-the-south-of-france-and-where-to-find-them-in-toulouse"
-          },
-          "breadcrumb": [
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b0cb86dc-0de7-426a-85ac-0cbdc3349184",
-      "content": "like aligot, Roquefort, cassoulet, poultry from Gers, garbure, cod brandade, Corbières wine, Blanquette de Limoux, Pélardon and Cévennes honey, make Occitanie a wonderful place to enjoy good food and drink. As throughout Southwest France, duck and confit de canard feature prominently on menus in the Occitanie. But there is more than it’s great food and wine; Occitanie is also a region of sea and mountains and boasts 8 UNESCO heritage sites at Carcassonne, Canal du Midi, Pont du Gard, Arles, [...] of landscapes and remarkable architectural heritage, the Occitanie region is filled with countless natural, architectural, traditional and gastronomic wonders. Occitanie has been a traditional wine-growing area for centuries. 2000 years ago the Romans planted the first vineyards around Narbonne and Béziers and one in ten bottles of wine worldwide during the 20th century came from Occitanie! Traditional festivals, markets full of colours and flavours, and gastronomic specialities like aligot, [...] Occitanie. ## Find More Fabulous Wedding Suppliers in France. The magnificent region of Occitanie is full of history, coastal treasures, amazing food and wine and a rich cultural heritage. ### More About the Occitanie Region of France. Occitanie in Southern France was formed from when the Midi-Pyrénées and Languedoc-Rousillon regions merged; the name Occitanie refers to the Langue d’Oc or Occitan language which is widely spoken in this southern region. Boasting a wide variety of landscapes and",
-      "origins": [
-        {
-          "source": {
-            "name": "simply-wed.com",
-            "url": "https://simply-wed.com/wedding-florist-flowers-occitanie-france"
-          },
-          "document": {
-            "name": "Wedding Flowers & Florist for French Weddings in Occitanie, SW France",
-            "url": "https://simply-wed.com/wedding-florist-flowers-occitanie-france"
-          },
-          "breadcrumb": [
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "id": "12b3b088-c740-4a1d-9152-345ed11bf9e5",
-      "content": "traditional cuisine rooted in a strong terroir. ## What defines South-West cuisine? South-West cuisine is a true gastronomic gem of France, known for its authenticity and diversity. It features generous dishes based on meats—particularly poultry (duck and goose) and pork—as well as hearty vegetable-based recipes. Traditional dishes are crafted from high-quality local ingredients. Iconic recipes such as cassoulet, duck confit and garbure embody the essence of this generous cuisine. ## Cassoulet: [...] ## Cassoulet: the ultimate South-West dish. Cassoulet is a culinary emblem of South-West France. This hearty dish highlights regional ingredients such as duck confit, Toulouse sausage and white beans, slowly simmered in aromatic stock. Garbure is more than a soup—it is a peasant dish combining cabbage, seasonal vegetables, confit meat and Tarbais beans. ## Duck confit: a true symbol of terroir. Confit is an ancestral preservation technique involving slow cooking meat in its own fat. For a [...] GersBlock of duck foie gras Du Gers. Foie gras specialties from the GersOur fresh productsGourmet gift sets with Foie GrasOur Gourmet Boxes. Confits, Prepared dishes, Pie fillings. Bayonne HamSouth-West PGI charcuterie. Gascony white winesLes Armagnacs du GersRed wines from the South WestGascon beers. # 3 Iconic Dishes from South-West France. South-West France boasts a unique and flavorful gastronomy. Situated between the Pyrenees and the Atlantic Ocean, this region offers authentic traditional",
-      "origins": [
-        {
-          "source": {
-            "name": "foie-gras-ramajo.com",
-            "url": "https://www.foie-gras-ramajo.com/en/blog/3-iconic-dishes-from-south-west-france-n20"
-          },
-          "document": {
-            "name": "3 Iconic Dishes from South-West France",
-            "url": "https://www.foie-gras-ramajo.com/en/blog/3-iconic-dishes-from-south-west-france-n20"
-          },
-          "breadcrumb": [
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4f88a8ee-5636-4da3-b5d3-2740c74a94ef",
-      "content": "Updated on February 17, 2023. Warming and satisfying with large chunks of root vegetables and charcuterie, this soup evokes the many garbures—thick cabbage stews made with ham or bacon and stale bread—in the Gascony region of southwestern France. This garbure recipe was inspired by a dish writer and cooking instructor Kate Hill enjoyed at a cafe in Salies-de-Béarn. It calls for ventrèche, an unsmoked, French cured pork belly similar to pancetta; you can find both it and duck confit via the [...] and satisfying with large chunks of root vegetables and charcuterie, this soup evokes the many garbures—thick cabbage stews made with ham or bacon and stale bread—in the Gascony region of southwestern France. This garbure recipe was inspired by a dish writer and cooking instructor Kate Hill enjoyed at a cafe in Salies-de-Béarn. It calls for ventrèche, an unsmoked, French cured pork belly similar to pancetta; you can find both it and duck confit via the online retailer D’Artagnan, a [...] Garbure Recipe (French Vegetable Stew With Duck Confit) | Saveur",
-      "origins": [
-        {
-          "source": {
-            "name": "Home",
-            "url": "https://www.saveur.com/hearty-vegetable-stew-duck-confit-cabbage-recipe"
-          },
-          "document": {
-            "name": "Garbure Recipe (French Vegetable Stew With Duck Confit) | Saveur",
-            "url": "https://www.saveur.com/hearty-vegetable-stew-duck-confit-cabbage-recipe"
-          },
-          "breadcrumb": [
-            ""
-          ]
-        }
-      ]
-    }
-  ],
-  "entities": [
-    {
-      "id": "dcc503da-d56f-442e-82aa-efcef5ccc413",
       "name": "Cassoulet de Toulouse",
-      "entity_type": "Product",
-      "mentions": [
-        "Cassoulet de Toulouse"
-      ]
+      "category": "Main dish (stew)",
+      "locality": "Toulouse",
+      "short_description": "Hearty casserole of white beans (lingots from the Lauragais plain), Toulouse sausage, duck or goose confit, pork belly, and pork rind, slow-cooked in an earthenware cassole.",
+      "strength_of_local_association": "★★★★★ — The city's most iconic dish; Toulouse is one of the three \"cassoulet capitals\" and claims its own distinct recipe.",
+      "source_url": "https://www.toulouse-tourisme.com/en/eat-and-drink/toulouse-culinary-specialties"
     },
     {
-      "id": "65d82b84-b97e-4339-b4cd-de7d4940f1d0",
-      "name": "haricots tarbais",
-      "entity_type": "Product",
-      "mentions": [
-        "haricots tarbais",
-        "Tarbais beans"
-      ]
+      "name": "Saucisse de Toulouse",
+      "category": "Charcuterie (fresh sausage)",
+      "locality": "Toulouse",
+      "short_description": "Thick, coiled pork sausage lightly seasoned with garlic, pepper, and nutmeg, sold in a characteristic snail-shaped coil. Grilled, pan-fried, or used in cassoulet.",
+      "strength_of_local_association": "★★★★★ — Bears the city's name; ubiquitous at every Toulouse market stall.",
+      "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
     },
     {
-      "id": "ea278426-5852-4d38-b307-f641ebfb44c1",
-      "name": "duck confit",
-      "entity_type": "Product",
-      "mentions": [
-        "duck confit"
-      ]
-    },
-    {
-      "id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
-      "name": "saucisse de Toulouse",
-      "entity_type": "Product",
-      "mentions": [
-        "Toulouse sausage",
-        "saucisse de Toulouse"
-      ]
-    },
-    {
-      "id": "0d390ebe-7fdf-4a92-b657-4a60d970a996",
-      "name": "Foie Gras",
-      "entity_type": "Product",
-      "mentions": [
-        "Foie Gras"
-      ]
-    },
-    {
-      "id": "a8937c94-b32f-441c-a26b-991a0b9b3568",
-      "name": "Gers",
-      "entity_type": "CountrySubdivision",
-      "mentions": [
-        "Gers"
-      ]
-    },
-    {
-      "id": "4aa986e1-4949-4da1-a973-c4cf131ab320",
-      "name": "Garbure",
-      "entity_type": "Product",
-      "mentions": [
-        "Garbure"
-      ]
-    },
-    {
-      "id": "3a63591e-ba49-473c-883d-41be69e93fa2",
-      "name": "Aligot",
-      "entity_type": "Product",
-      "mentions": [
-        "Aligot"
-      ]
-    },
-    {
-      "id": "f4c593a4-78db-4fd5-b6dd-f026a2d6119b",
-      "name": "Aveyron",
-      "entity_type": "CountrySubdivision",
-      "mentions": [
-        "Aveyron"
-      ]
-    },
-    {
-      "id": "cf0c0d88-efcf-4943-88c9-fdfe8eb4cbb7",
-      "name": "Tomme cheese",
-      "entity_type": "Product",
-      "mentions": [
-        "Tomme cheese"
-      ]
-    },
-    {
-      "id": "d54b8d66-3e0f-47f0-b04c-15ef4e5ae184",
-      "name": "Roquefort",
-      "entity_type": "Product",
-      "mentions": [
-        "Roquefort"
-      ]
-    },
-    {
-      "id": "0917155b-b42e-4d1f-a027-bd523bdd6a96",
-      "name": "Pélardon",
-      "entity_type": "Product",
-      "mentions": [
-        "Pélardon"
-      ]
-    },
-    {
-      "id": "af681574-2c8c-4f96-95f4-a6cb0055e733",
-      "name": "Cévennes mountains",
-      "entity_type": "Location",
-      "mentions": [
-        "Cévennes mountains"
-      ]
-    },
-    {
-      "id": "b56b9b5b-b252-4f28-abfc-858bf02420a6",
-      "name": "Gratin de Macaronis Toulousain",
-      "entity_type": "Product",
-      "mentions": [
-        "Gratin de Macaronis Toulousain"
-      ]
-    },
-    {
-      "id": "6faaa564-3a9d-4fa0-a512-2d70dd540aaf",
       "name": "Violettes de Toulouse",
-      "entity_type": "Product",
-      "mentions": [
-        "Violettes de Toulouse"
-      ]
+      "category": "Confectionery / edible flower",
+      "locality": "Toulouse",
+      "short_description": "Crystallised violet petals coated in sugar, used in bonbons, liqueurs, syrups, and pastries. Toulouse has cultivated violets since the 19th century.",
+      "strength_of_local_association": "★★★★★ — Trademarked Toulouse specialty; the violet is one of the city's official symbols.",
+      "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
     },
     {
-      "id": "421f4521-1b80-493e-955d-bd4303935a57",
-      "name": "La Maison de la Violette",
-      "entity_type": "Organization",
-      "mentions": [
-        "La Maison de la Violette"
-      ]
+      "name": "Fénétra",
+      "category": "Pastry / cake",
+      "locality": "Toulouse",
+      "short_description": "Medieval-origin layered tart with shortcrust pastry, almond cream, apricot or quince jam, and candied lemon. Traditionally baked for the Fête de la Fénétra.",
+      "strength_of_local_association": "★★★★★ — Unique to Toulouse; linked to the city's own annual festival.",
+      "source_url": "https://www.mollyjwilk.com/la-fenetra-french-apricot-tart-recipe-from-toulouse"
     },
     {
-      "id": "557bc025-82b5-4112-9ac4-e3fe19ce22a2",
-      "name": "Canal du Midi",
-      "entity_type": "Facility",
-      "mentions": [
-        "Canal du Midi"
-      ]
+      "name": "Confit de canard",
+      "category": "Main dish (preserved meat)",
+      "locality": "Toulouse & surrounding Haute-Garonne",
+      "short_description": "Duck legs slow-cooked and preserved in their own fat. A cornerstone of south-west French cuisine, prominently featured in Toulouse's cassoulet and market stalls.",
+      "strength_of_local_association": "★★★★ — Staple of Toulouse gastronomy, though shared with the wider south-west.",
+      "source_url": "https://www.toulouse-tourisme.com/en/eat-and-drink/toulouse-culinary-specialties"
     },
     {
-      "id": "915a981a-064a-4294-b077-d29031272de4",
+      "name": "Magret de canard",
+      "category": "Main dish (duck breast)",
+      "locality": "Toulouse & Lauragais",
+      "short_description": "Breast of a Moulard duck (raised for foie gras), seared like a steak and served pink. Often smoked as well.",
+      "strength_of_local_association": "★★★★ — A signature dish on virtually every Toulouse restaurant menu.",
+      "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
+    },
+    {
+      "name": "Foie gras de canard",
+      "category": "Charcuterie / delicacy",
+      "locality": "Toulouse & Haute-Garonne",
+      "short_description": "Fattened duck liver, served mi-cuit (semi-cooked) or in terrines. Toulouse's Marché Victor Hugo is one of France's premier foie gras markets.",
+      "strength_of_local_association": "★★★★ — Central to Toulouse's culinary identity, though produced across the wider south-west.",
+      "source_url": "https://www.toulouse-tourisme.com/en/eat-and-drink/toulouse-culinary-specialties"
+    },
+    {
+      "name": "Croustade aux pommes",
+      "category": "Pastry / dessert",
+      "locality": "Toulouse & Midi-Pyrénées",
+      "short_description": "Paper-thin, hand-stretched pastry layered with sliced apples, butter, and Armagnac. Also called *pastis gascon* or *tourtière* in neighbouring areas.",
+      "strength_of_local_association": "★★★★ — Widely sold in Toulouse bakeries and markets; closely tied to the city and its immediate hinterland.",
+      "source_url": "https://www.legourmeur.fr/specialites-de-toulouse/specialites-plats-toulouse"
+    },
+    {
       "name": "Cachou Lajaunie",
-      "entity_type": "Product",
-      "mentions": [
-        "Cachou Lajaunie"
-      ]
+      "category": "Confectionery (liquorice pastille)",
+      "locality": "Toulouse",
+      "short_description": "Small liquorice-flavoured pastilles created in 1880 by Toulouse pharmacist Léon Lajaunie, sold in a distinctive yellow tin.",
+      "strength_of_local_association": "★★★★★ — Invented and historically produced in Toulouse; an iconic local sweet.",
+      "source_url": "https://www.legourmeur.fr/specialites-de-toulouse/specialites-epicerie-fine-de-toulouse"
     },
     {
-      "id": "3ffe011a-8005-4bcd-87b6-b20f68afc531",
-      "name": "Corbières",
-      "entity_type": "Product",
-      "mentions": [
-        "Corbières"
-      ]
-    },
-    {
-      "id": "8ba206f5-4590-407b-87ec-eb77c632ed9c",
-      "name": "Blanquette de Limoux",
-      "entity_type": "Product",
-      "mentions": [
-        "Blanquette de Limoux"
-      ]
-    },
-    {
-      "id": "998ac123-9c19-4624-b96e-19cfd4da51b4",
-      "name": "Armagnac",
-      "entity_type": "Product",
-      "mentions": [
-        "Armagnac"
-      ]
-    },
-    {
-      "id": "f1a6bc85-5518-4e7d-97f6-8a53a92b5dc5",
-      "name": "Marché Victor Hugo",
-      "entity_type": "Organization",
-      "mentions": [
-        "Marché Victor Hugo"
-      ]
+      "name": "Pavé du Capitole",
+      "category": "Confectionery (chocolate)",
+      "locality": "Toulouse",
+      "short_description": "Small chocolate praline shaped like the cobblestones of the Place du Capitole, Toulouse's main square.",
+      "strength_of_local_association": "★★★★★ — Created as a tribute to Toulouse's most famous square; sold exclusively as a Toulouse souvenir.",
+      "source_url": "https://www.legourmeur.fr/specialites-de-toulouse/specialites-epicerie-fine-de-toulouse"
     }
-  ]
+  ],
+  "entities": null
 }
