@@ -1,0 +1,528 @@
+{
+  "content": "## Toulouse & Occitanie: Local Drinks, Nightlife, Bars & Party Experiences\n\n### 🍷 Characteristic Local Drinks\n\n- **Wines of Fronton** — The nearest wine appellation to Toulouse, located about 20 miles north on the left bank of the Tarn River. Fronton wines are built around the **Négrette** grape, a variety unique to the area, producing reds and rosés with notes of fresh cherry, licorice, spice, and a hallmark violet character. These are everyday-priced wines that pair beautifully with regional dishes like cassoulet and pork sausages.\n\n- **Wines of Gaillac** — One of the oldest wine regions in France (winemaking heritage dating back to the 2nd century BC), located about 50 km northeast of Toulouse. Gaillac produces reds, rosés, sweet whites, sparkling wines, and the famous lightly fizzy **\"Perlé.\"** Look for indigenous grape varieties such as **Braucol** (Fer Servadou), **Duras**, **Loin de l'Œil**, **Mauzac**, and the rare **Prunelard**.\n\n- **Wines of Cahors & Corbières** — Occitanie is France's biggest wine region, also encompassing robust Cahors (Malbec-based), Côtes du Roussillon, and Corbières wines.\n\n- **Pousse Rapière** — A signature cocktail of the Gers department (southwest of Toulouse). It combines a liqueur made from **Armagnac** flavoured with bitter orange (produced exclusively at the Château de Monluc in Saint-Puy since 1963) with sparkling wine. A festive, bubbly apéritif deeply tied to Gascon tradition.\n\n- **Armagnac** — The broader Occitanie/Gascony region is the home of France's oldest brandy. Sipped neat or used as a base for cocktails and liqueurs.\n\n- **Pastis** — While associated with Marseille, pastis (anise-flavoured spirit diluted with water) is widely enjoyed across southern France, including Toulouse, as a classic apéritif.\n\n- **Violet Liqueur** — Toulouse is famously known as the \"City of Violets,\" and violet-flavoured liqueurs and syrups are a local specialty, used in cocktails and desserts.\n\n---\n\n### 🍸 Nightlife Neighbourhoods & Bars\n\n- **Carmes** — The heart of Toulouse's nightlife scene. A hip neighbourhood with charming narrow streets, tiny squares filled with terrace restaurants, and a concentration of cocktail bars. Notable spots include **Marché Noir** (minimalist interior, fresh cocktails) and **Vicente** (a French-style bodega surrounded by funky restaurants).\n\n- **Jean Jaurès** — Widely considered the best area for nightlife in Toulouse, with a lively mix of bars, clubs, and late-night venues. The area around Place Jean Jaurès and rue de Bayard buzzes after dark.\n\n- **Place Saint-Pierre** — A riverside square where numerous bars are invaded each night by raucous, rugby-loving crowds. Toulouse is passionate about rugby, and match nights here are electric.\n\n- **Place des Carmes** — Home to neighbourhood bars ideal for a drink before or after exploring the famous Carmes market. The square has a relaxed, local feel.\n\n- **Le N°5 Wine Bar** (5 rue de la Bourse) — Voted **\"Best Wine Bar in Europe\"** by *The World of Fine Wine* magazine. A must-visit for wine lovers.\n\n- **Cocktail bars near Place du Capitole** — Art deco piano bars with award-winning mixologists crafting everything from classic martinis to tiki concoctions using seasonal fruits and local walnut liqueur.\n\n- **Monsieur Georges** — A maze-like venue stretching from a vaulted wine cellar in the basement through intimate chill-out and cocktail bars, up to a dance floor with DJ sets.\n\n---\n\n### 🎉 Party Culture & Experiences\n\n- **Student energy** — Toulouse is one of France's largest university cities, and the student population fuels a vibrant, affordable, and youthful nightlife. The Saint-Michel district, south of Carmes, is the main student quarter.\n\n- **Live music** — Toulouse lights up at night with live music venues spanning jazz, rock, and electronic genres. You can start your evening in a laid-back jazz bar and end up dancing until dawn at a techno club.\n\n- **Rugby culture** — Sports bars and riverside terraces come alive on match nights, especially around Place Saint-Pierre, creating a uniquely Toulousain party atmosphere.\n\n- **Wine touring from Toulouse** — Half-day and full-day excursions to the Gaillac and Fronton vineyards are popular, combining scenic countryside, winery visits, and guided tastings of regional wines.\n\n- **Village festivals (fêtes)** — Throughout Occitanie, village festivals celebrate local food, wine, and music, offering an authentic party experience rooted in regional tradition.\n\nToulouse's nightlife blends southern French warmth, a strong student scene, deep wine and spirits heritage, and a passion for rugby into a distinctive and convivial after-dark culture.",
+  "explainability": [
+    {
+      "content": "Fronton wines, built around the Négrette grape and noted for fresh cherry, licorice, spice and violet notes, are highlighted as a characteristic local drink of Toulouse.",
+      "references": [
+        "d4154c85-40bd-49de-afc3-ee1f760a10ee"
+      ]
+    },
+    {
+      "content": "Gaillac, one of the oldest wine regions with reds, rosés, sweet whites, sparkling wines and the lightly fizzy \"Perlé,\" and its indigenous grapes, is presented as a key local drink.",
+      "references": [
+        "ff5bd0f5-8c00-4f89-91b3-36bb91ed036d"
+      ]
+    },
+    {
+      "content": "Occitanie's status as France's biggest wine region, encompassing Cahors, Corbières and other robust wines, supports the mention of these wines in the answer.",
+      "references": [
+        "41331af4-695b-4805-9791-0bd82d1c3648"
+      ]
+    },
+    {
+      "content": "Pousse Rapière, a cocktail made from Armagnac flavored with bitter orange and sparkling wine, is identified as a signature drink of the Gers department near Toulouse.",
+      "references": [
+        "e1991557-51da-498a-be97-292adcc439e8"
+      ]
+    },
+    {
+      "content": "Armagnac, noted as France's oldest brandy from the Gascony region, underpins its inclusion as a local spirit.",
+      "references": [
+        "e1991557-51da-498a-be97-292adcc439e8"
+      ]
+    },
+    {
+      "content": "Carmes is described as the heart of Toulouse's nightlife with charming streets, terraces and a concentration of bars, matching the answer's description of the Carmes neighbourhood.",
+      "references": [
+        "02603e58-388c-4e95-81f2-ef98fee80aec"
+      ]
+    },
+    {
+      "content": "Jean Jaurès is cited as the best nightlife area in Toulouse, aligning with the answer's claim about its vibrant bar and club scene.",
+      "references": [
+        "02603e58-388c-4e95-81f2-ef98fee80aec"
+      ]
+    },
+    {
+      "content": "Place Saint-Pierre is noted for rugby-loving crowds filling the riverside bars, supporting the answer's mention of this lively spot.",
+      "references": [
+        "7b63dbbf-4efd-4c3c-8e48-19158507c90a"
+      ]
+    },
+    {
+      "content": "Place des Carmes hosts bars ideal for drinks before or after the market, confirming its role in the nightlife description.",
+      "references": [
+        "a993984b-1e05-441c-98a7-42ccc703d4a5"
+      ]
+    },
+    {
+      "content": "Le N°5 Wine Bar, voted \"Best Wine Bar in Europe\" by The World of Fine Wine, validates the answer's highlight of this venue.",
+      "references": [
+        "a993984b-1e05-441c-98a7-42ccc703d4a5"
+      ]
+    },
+    {
+      "content": "Cocktail bars near Place du Capitole offering art deco piano bars with award‑winning mixologists match the answer's reference to such venues.",
+      "references": [
+        "7b63dbbf-4efd-4c3c-8e48-19158507c90a"
+      ]
+    },
+    {
+      "content": "Monsieur Georges, a maze‑like venue with cellar, chill‑out bars and a dance floor, supports the answer's description of this party spot.",
+      "references": [
+        "7b63dbbf-4efd-4c3c-8e48-19158507c90a"
+      ]
+    },
+    {
+      "content": "The large student population and the Saint‑Michel district’s affordability are cited as fueling a vibrant, youthful nightlife, confirming the answer's student energy point.",
+      "references": [
+        "02603e58-388c-4e95-81f2-ef98fee80aec"
+      ]
+    },
+    {
+      "content": "Toulouse's reputation for live music venues, from jazz bars to techno clubs, underpins the answer's claim about live‑music nightlife.",
+      "references": [
+        "e6c1224b-11ac-46db-bb87-563b02a0699f"
+      ]
+    },
+    {
+      "content": "Rugby culture creating lively sports bars and terraces, especially around Place Saint‑Pierre, aligns with the answer's rugby‑related party atmosphere.",
+      "references": [
+        "7b63dbbf-4efd-4c3c-8e48-19158507c90a"
+      ]
+    },
+    {
+      "content": "Wine tours from Toulouse to Gaillac and Fronton vineyards, offering scenic countryside and tastings, back the answer's mention of wine‑touring experiences.",
+      "references": [
+        "ff5bd0f5-8c00-4f89-91b3-36bb91ed036d"
+      ]
+    },
+    {
+      "content": "Village festivals across Occitanie celebrating food, wine and music provide authentic party experiences, supporting the answer's reference to fêtes.",
+      "references": [
+        "41331af4-695b-4805-9791-0bd82d1c3648"
+      ]
+    }
+  ],
+  "context": [
+    {
+      "id": "02603e58-388c-4e95-81f2-ef98fee80aec",
+      "content": "What makes Carmes so unique is the perfect combination of young energy and old beautiful architecture. This is the official hipster mecca of Toulouse and the numerous bearded baristas and bartenders are a testament to that.\n\nThe neighborhood is home to some of the more charming streets in Toulouse, all connected with tiny squares filled with terrace restaurants. On almost every street you’ll find beautiful patisseries, chic boutiques, and specialty coffee shops. [...] Jeanne d’Arc is part of the big Mouatabiau district, which I don’t recommend as a whole. However, the areas that are closer to the city center are pretty fun and have a great selection of hotels.   \nI’ll thus focus on the Jeanne d’Arc neighborhood, and especially Place Jeanne d’Arc, rue de Bayard, and Jean Jaures.\n\nJean Jaures - the best night life in Toulouse\n\nJean Jaures in Toulouse – by Lost in Bordeaux [...] Saint Michel is located just south of the chic Carmes neighborhood and thus close to the best restaurants and bars in the city.  It borders the river from the west and the Busca from the east and the Saint-Agne district from the South. This is the student district of Toulouse and hence a place you can find a lot of affordable rentals.",
+      "origins": [
+        {
+          "source": {
+            "name": "lostinbordeaux.com",
+            "url": "https://www.lostinbordeaux.com/the-best-areas-to-stay-in-toulouse-the-districts-guide"
+          },
+          "document": {
+            "name": "The best areas to stay in Toulouse – the Districts Guide - Lost in Bordeaux",
+            "url": "https://www.lostinbordeaux.com/the-best-areas-to-stay-in-toulouse-the-districts-guide"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a993984b-1e05-441c-98a7-42ccc703d4a5",
+      "content": "## 3 Terraces to enjoy a drink in Toulouse. Addresse: 13, place de la Daurade. A little neighborhood bar in the Place des Carmes is ideal for grabbing a drink or a coffee before or after a walk around the market. Address: 16 place des Carmes. Address: 15 place Saint-Georges. ## Toulouse, home of the Best Wine Bar in Europe. ### Le N°5 Wine Bar. Voted \"Best Wine Bar in Europe\" by British magazine The World of Fine Wine. Address: 5 rue de la Bourse. The magazine of the destination unravels an [...] the middle of the Quartier Saint-Aubin, you'll find this chic, laid-back room (with raw wood benches, big tables, or bar seats) where you can sip handmade cocktails alongside delicious cheese and charcuterie boards. As the name might suggest, you feel right at home in this cocktail bar near Jean Jaurès. Located on the Place des Carmes, behind the market of the same name, the Marché Noir specializes in its minimalist interior and fresh cocktails. Address: 14, place des Carmes. ## 3 Terraces to [...] The best bars in Toulouse",
+      "origins": [
+        {
+          "source": {
+            "name": "France.fr : Explore la France et ses merveilles - Explore France",
+            "url": "https://www.france.fr/en/article/best-bars-toulouse"
+          },
+          "document": {
+            "name": "The best bars in Toulouse",
+            "url": "https://www.france.fr/en/article/best-bars-toulouse"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b63dbbf-4efd-4c3c-8e48-19158507c90a",
+      "content": "to buy oysters and charcuterie from a stall and order drinks at one of the market’s watering holes, like Electro Bar or Bar des Amis, who are happy for customers to picnic at the bar. Toulouse has a reputation for vintage fashion boutiques, with half-a-dozen lining narrow rue Peyrolières in the old town. 5 rue de la Bourse,+33 5 61 38 44 51, n5winebar.com. The Carmes neighbourhood is the heart of Toulouse’s nightlife scene, and the laid-back Vicente, a French-style bodega, is surrounded by [...] is surrounded by funky restaurants. Toulouse is crazy for rugby and pretty much all sports, and the numerous bars around riverside Place Saint-Pierre are invaded each night by raucous crowds. 16 place Saint-Pierre, pastisomaitre.com. Cocktails at this laid-back art deco piano bar just off Place du Capitole are created by award-winning mixologist Andre da Silva, who shakes everything from classic martini to tiki concoctions using seasonal fruits (gooseberry, say) and local walnut liqueur. The [...] walnut liqueur. The latest addition to Toulouse’s nightlife scene, the maze-like home of the mythical Monsieur Georges stretches from a vaulted wine cellar in the basement through intimate chill-out and cocktail bars, up to a dance floor with DJ sets. From €70 B&B, hotel-albert1.com. From €70 a might, ammappart.com. More information from toulouse-tourisme.com, and hautegaronnetourisme.com.",
+      "origins": [
+        {
+          "source": {
+            "name": "Middle East crisis",
+            "url": "https://www.theguardian.com/travel/2017/jul/01/toulouse-france-city-holiday-guide-restaurants-hotels-bars"
+          },
+          "document": {
+            "name": "Toulouse city guide: what to see plus the best bars, restaurants and hotels | Toulouse holidays | The Guardian",
+            "url": "https://www.theguardian.com/travel/2017/jul/01/toulouse-france-city-holiday-guide-restaurants-hotels-bars"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41331af4-695b-4805-9791-0bd82d1c3648",
+      "content": "# Local specialities. Wines and gastronomy: an art of living in Occitania. Taste the wines from Corbières, Côtes du Roussillon, Cahors, Armagnac….: Occitania is France's biggest wine region! And don't miss the region's top markets. At the market, in the restaurants or the village festivals, enjoy the specialities with a real local touch you won't find elsewhere: South-West foie gras, Chasselas grapes, Mediterranean oysters…. Virée en 2CV dans le vignoble de Fronton, terroir de la Negrette. [...] de la Negrette. Crédits photo  Virée en 2CV dans le vignoble de Fronton, terroir de la Negrette Baroudeursliegeois\\_CRTLOccitanie\\_0049416\\_MD. Crédits photo  Tommes des Pyrénées, tommes-des-pyrenees.e-monsite.com. Crédits photo  Fête à Najac, Dominique VIET. [...] Gastronomy and wine tourism - Visit Occitanie EN",
+      "origins": [
+        {
+          "source": {
+            "name": "tourism-occitanie.co.uk",
+            "url": "https://www.tourism-occitanie.co.uk/visiting-moving/gastronomy-and-wine-tourism"
+          },
+          "document": {
+            "name": "Gastronomy and wine tourism - Visit Occitanie EN",
+            "url": "https://www.tourism-occitanie.co.uk/visiting-moving/gastronomy-and-wine-tourism"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad5f11f6-d4ef-44ed-b312-5258a4ce928e",
+      "content": "vinovalie was created in 2006 by the merger of four cooperative cellars located in wine-growing areas near Toulouse. Each located in a well-known appellation, their grouping today forms a remarkable showcase of great wines of the southwest. Indeed, federated under a common brand, the cuvées signed vinovalie focus on the expression of three major terroirs: Gaillac, Fronton et Cahors. Although they are closely related geographically, these three appellations are distinguished by well-defined [...] ### vineyard of Fronton [...] ### Fronton Wines\n\nThe best demonstration than the appellation Fronton is a beautiful terroir for rosé wines is on the side of the cuvée Agnes de vinovalie, voted best rosé in the world at Cannes in 2008 and 2016. Among the red wines, it is well supported by the cuvées. astrolabe version Fronton which combines Négrette with aging in new barrels or even Count of Négret.\n\n### Cahors wines",
+      "origins": [
+        {
+          "source": {
+            "name": "vignobles-occitanie.fr",
+            "url": "https://vignobles-occitanie.fr/en/vinovalie"
+          },
+          "document": {
+            "name": "Vinovalie - Vignerons de Gaillac - Vignobles d'Occitanie",
+            "url": "https://vignobles-occitanie.fr/en/vinovalie"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4154c85-40bd-49de-afc3-ee1f760a10ee",
+      "content": "fresh cherry, licorice, spice and its hallmark violet note. ​Fronton wines provide a wonderful accompaniment to the rich foods of the region (pork sausages, cassoulet, veal stew) and are priced for everyday consumption. [...] Wines By Region / Southwest / Fronton. ## Fronton Terroir and Signature Grape Negrette. Fronton is a unique wine region located on the left bank of the Tarn River about twenty miles north of Toulouse. Some of the topsoil is made up of small limestone pieces called boulbenes mixed with sand while others are topped by rouget, a particular clay very rich in iron that helps lend a particular earthy flavor to the wines. The climate of the region is both Atlantic influenced (temperate weather from [...] Fronton - Avanelle Wine Co.",
+      "origins": [
+        {
+          "source": {
+            "name": "avanellewine.com",
+            "url": "https://www.avanellewine.com/fronton.html"
+          },
+          "document": {
+            "name": "Fronton - Avanelle Wine Co.",
+            "url": "https://www.avanellewine.com/fronton.html"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1991557-51da-498a-be97-292adcc439e8",
+      "content": "Saint-Puy, dans le département du Gers. Il se consomme en apéritif et est le fruit du mélange de la liqueur Pousse Rapière associé au Vin Sauvage, vin mousseux de méthode traditionnelle. La recette du Pousse Rapière est une liqueur d'armagnac aromatisée à l'orange amère. Créée dans les années 1960 par René Lassus, cette liqueur est une production exclusive du Chteau de Monluc. La recette est gardée secrète et inchangée pour cette nouvelle présentation. ### Une nouvelle bouteille personnalisée [...] # Le Pousse Rapière, nouvelle présentation.  Le Pousse Rapière, nouvelle présentation. Le Pousse Rapière, nouvelle  présentation. ## Le Pousse Rapière, Monluc dévoile la nouvelle présentation de sa liqueur historique. Le Club des Marques profite de l’évènement Wine Paris Vinexpo 2022, du 14 au 16 février pour dévoiler la nouvelle présentation de sa liqueur emblématique, le Pousse Rapière. Créée en 1963, le célèbre cocktail Pousse Rapière est produit par le Chteau de Monluc, à Saint-Puy, dans le [...] Le Pousse Rapière, nouvelle présentation - MyArmagnac.com",
+      "origins": [
+        {
+          "source": {
+            "name": "myarmagnac.com",
+            "url": "https://www.myarmagnac.com/blog/post/le-pousse-rapiere-nouvelle-presentation"
+          },
+          "document": {
+            "name": "Le Pousse Rapière, nouvelle présentation - MyArmagnac.com",
+            "url": "https://www.myarmagnac.com/blog/post/le-pousse-rapiere-nouvelle-presentation"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "429a7c40-31f0-4ada-b176-ffe2feb0f2ab",
+      "content": "### Trade customers. ### Customer support. ### Master of Malt. ### Legal information. Master of Malt supports responsible drinking - sip, don't gulp. Over 35,000 5 star reviews! Select Express Delivery at the checkout! # Monluc Pousse Rapière Orange Armagnac Liqueur 70cl. ## Monluc Pousse Rapière Orange Armagnac Liqueur. A liqueur combining bitter orange and Armagnac. Monluc Pousse Rapière (named after the style of sword brought back to France by Blaise de Monluc) is made with a base of secret [...] Monluc Pousse Rapière Orange Armagnac Liqueur 70cl | Master Of Malt [...] Title: Monluc Pousse Rapière Orange Armagnac Liqueur 70cl | Master Of Malt",
+      "origins": [
+        {
+          "source": {
+            "name": "masterofmalt.com",
+            "url": "https://www.masterofmalt.com/liqueurs/le-club-des-marques/monluc-pousse-rapiere-orange-armagnac-liqueur?sku=122562"
+          },
+          "document": {
+            "name": "Monluc Pousse Rapière Orange Armagnac Liqueur 70cl | Master Of Malt",
+            "url": "https://www.masterofmalt.com/liqueurs/le-club-des-marques/monluc-pousse-rapiere-orange-armagnac-liqueur?sku=122562"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff5bd0f5-8c00-4f89-91b3-36bb91ed036d",
+      "content": "in Gaillac Conclude your day in the historic Gaillac wine region, known for its winemaking heritage dating back to the 2nd century B.C. Visit a carefully selected winery to sample a variety of Gaillac wines, including reds, rosés, sweet whites, sparkling wines, and the famous lightly fizzy \"Perlé.\" Learn about the unique local grape varieties such as Braucol, Duras, Loin de l'Oeil, and Mauzac. After a day filled with stunning sights and unforgettable flavors, relax as you return to Toulouse, [...] from Toulouse. This full-day shared tour takes you from Toulouse to Albi, Cordes-sur-Ciel, and Gaillac, blending history, culture, and wine for an unforgettable experience.Morning: Discover Albi and Vieil AlbyMeet Your Guide Start your ... ### Explore the Wonders Around Toulouse on a Full-Day Shared Tour. This full-day shared tour takes you from Toulouse to Albi, Cordes-sur-Ciel, and Gaillac, blending history, culture, and wine for an unforgettable experience. Wine Tasting in Gaillac Conclude [...] Ophorus Tours - Albi, Cordes Village & Gaillac Wine Tasting From Toulouse. # Albi, Cordes Village & Gaillac Wine Tasting From Toulouse. 3. Albi, Cordes Village & Gaillac Wine Tasting From Toulouse. Discover the charm of old Albi with its stunning UNESCO-listed cathedral, explore the medieval village of Cordes-sur-Ciel, and enjoy a Gaillac wine tasting on this small group guided shared tour from Toulouse.  Explore the UNESCO-listed city of Albi on a Guided full-day tour from Toulouse. This",
+      "origins": [
+        {
+          "source": {
+            "name": "ophorus.com",
+            "url": "https://www.ophorus.com/product/1136/albi-cordes-village-gaillac-wine-tasting-from-toulouse"
+          },
+          "document": {
+            "name": "Top Day Trips from Toulouse: Albi, Cordes-sur-Ciel & Gaillac Wine Tour",
+            "url": "https://www.ophorus.com/product/1136/albi-cordes-village-gaillac-wine-tasting-from-toulouse"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a46286b9-4d7b-4e9c-af29-20dd94e47023",
+      "content": "Toulouse wine tour: Explore nearby wineries in Gaillac | Decanter [...] wines are also outstanding). Back towards Gaillac, drop in to the new tasting room at Domaine du Moulin, where sixth-generation winemaker Nicolas Hirissou is challenging local traditions by planting Tannat vines to complement old-vine Syrah and Braucol (aka Fer Servadou) – the latter one of the main local red varieties. Visit here to taste the deeply coloured Prunelard (one of the parents of Malbec and unique to Gaillac), which accounts for 1% of red plantings but is growing rapidly. More [...] Champagne, Italy, North and South America, South Africa, England, Port and Sherry. Although his key areas of expertise are Burgundy and Italy, he also has great respect for the wines of South America and South Africa, as well as a keen interest in the wines from South West France.",
+      "origins": [
+        {
+          "source": {
+            "name": "Decanter.com | Wine Reviews & News, Learn About Wine",
+            "url": "https://www.decanter.com/wine-travel/france/toulouse-wine-tour-wineries-gaillac-371172"
+          },
+          "document": {
+            "name": "Toulouse wine tour: Explore nearby wineries in Gaillac | Decanter",
+            "url": "https://www.decanter.com/wine-travel/france/toulouse-wine-tour-wineries-gaillac-371172"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6c1224b-11ac-46db-bb87-563b02a0699f",
+      "content": "with their unique offerings, like cozy wine bars and beachfront pubs, ensuring that every night out is an adventure. France has a very interesting nightlife, thanks to its diverse and lively scene. Cities like Lyon and Marseille offer unique experiences too, with bars that have rooftops overlooking historical sites and clubs that stay open until dawn. Toulouse, known as the pink city, lights up at night with student bars and live music venues. Its cities burst with diverse clubs, bars, and live [...] something exciting to offer. It’s a city where you can start your night in a laid-back jazz bar and end dancing until dawn at a techno club. Spain stands out as one of the best countries for nightlife. Rome, Milan, and Florence, for example, offer a mix of trendy clubs, bars, and live music venues. Florence, with its mix of historic charm and modern nightlife, attracts party-goers to its numerous rooftop bars offering stunning views. Its unique combination of history, culture, and modern [...] bars, and live music venues. Vienna, the capital, is famous for its diverse bars and clubs, like Grelle Forelle, offering electronic music that keeps you dancing till dawn. The city’s vibrant scene includes places like Hofgarten Café, perfect for live music lovers. Club and MAD, famous for attracting world-renowned DJs. Beyond the music, Swiss nightlife is also about inclusivity. Whether you’re into electronic beats, live bands, or cozy bars, Switzerland’s nightlife scene has something exciting",
+      "origins": [
+        {
+          "source": {
+            "name": "movingtransparent.com",
+            "url": "https://www.movingtransparent.com/best-countries-for-nightlife"
+          },
+          "document": {
+            "name": "Best countries for nightlife | Transparent International Movers",
+            "url": "https://www.movingtransparent.com/best-countries-for-nightlife"
+          },
+          "breadcrumb": [
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "id": "63e8165f-a183-56e6-a374-1389ae0f248a",
+      "name": "Fronton",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Fronton"
+      ]
+    },
+    {
+      "id": "fabe2b88-de44-406c-9952-3751070da347",
+      "name": "Négrette",
+      "entity_type": "Product",
+      "mentions": [
+        "Négrette"
+      ]
+    },
+    {
+      "id": "9fc35e92-d5b2-554a-98b9-0bd32649b3f0",
+      "name": "Gaillac",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Gaillac"
+      ]
+    },
+    {
+      "id": "e98bf4b6-0d19-4389-98bd-ce872738f140",
+      "name": "Perlé",
+      "entity_type": "Product",
+      "mentions": [
+        "Perlé"
+      ]
+    },
+    {
+      "id": "747543bf-6e02-4e67-9a4c-9755d7ff9aae",
+      "name": "Braucol",
+      "entity_type": "Product",
+      "mentions": [
+        "Braucol"
+      ]
+    },
+    {
+      "id": "6c440db2-a5f9-480d-a71b-e3139f7160e2",
+      "name": "Duras",
+      "entity_type": "Product",
+      "mentions": [
+        "Duras"
+      ]
+    },
+    {
+      "id": "19a1b23f-66e6-4616-b2ca-6dffcf8d89e4",
+      "name": "Loin de l'Œil",
+      "entity_type": "Product",
+      "mentions": [
+        "Loin de l'Œil"
+      ]
+    },
+    {
+      "id": "8ac60633-21b5-4525-8931-bbd54b6cbd9d",
+      "name": "Mauzac",
+      "entity_type": "Product",
+      "mentions": [
+        "Mauzac"
+      ]
+    },
+    {
+      "id": "25c9440d-1e01-46cd-883a-088c345c8497",
+      "name": "Prunelard",
+      "entity_type": "Product",
+      "mentions": [
+        "Prunelard"
+      ]
+    },
+    {
+      "id": "b19263b2-9ef8-5124-aa41-c485e6dadd3e",
+      "name": "Cahors",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Cahors"
+      ]
+    },
+    {
+      "id": "998ac123-9c19-4624-b96e-19cfd4da51b4",
+      "name": "Armagnac",
+      "entity_type": "Product",
+      "mentions": [
+        "Armagnac"
+      ]
+    },
+    {
+      "id": "8f52c3e3-1872-4fc0-a667-3e330954f834",
+      "name": "Château de Monluc",
+      "entity_type": "Facility",
+      "mentions": [
+        "Château de Monluc"
+      ]
+    },
+    {
+      "id": "cf72c339-bbe7-5ccf-b76f-596f3b4e5eab",
+      "name": "Saint-Puy",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Saint-Puy"
+      ]
+    },
+    {
+      "id": "5e81060a-3571-4d2b-b815-f9f7c438a0b7",
+      "name": "Pastis",
+      "entity_type": "Product",
+      "mentions": [
+        "Pastis"
+      ]
+    },
+    {
+      "id": "96fbb36c-17fa-4f66-b1aa-19e8f56f941a",
+      "name": "Violet Liqueur",
+      "entity_type": "Product",
+      "mentions": [
+        "Violet Liqueur"
+      ]
+    },
+    {
+      "id": "5a75831b-28aa-43a9-81ab-2ecc12785c9e",
+      "name": "Carmes",
+      "entity_type": "Location",
+      "mentions": [
+        "Carmes"
+      ]
+    },
+    {
+      "id": "b2e39b91-5d28-4ecc-b4d8-3c89ddaa66a0",
+      "name": "Marché Noir",
+      "entity_type": "Organization",
+      "mentions": [
+        "Marché Noir"
+      ]
+    },
+    {
+      "id": "8f086d00-2d0a-4dda-a204-9aee91f3d687",
+      "name": "Vicente",
+      "entity_type": "Organization",
+      "mentions": [
+        "Vicente"
+      ]
+    },
+    {
+      "id": "546d449a-17b2-4fee-9038-36d98ab784c9",
+      "name": "Jean Jaurès",
+      "entity_type": "Location",
+      "mentions": [
+        "Jean Jaurès"
+      ]
+    },
+    {
+      "id": "8e207920-c3e8-407c-8180-0b449f629591",
+      "name": "Place Saint-Pierre",
+      "entity_type": "Location",
+      "mentions": [
+        "Place Saint-Pierre"
+      ]
+    },
+    {
+      "id": "4656c338-2147-4ac1-8d59-9d2026205761",
+      "name": "Place des Carmes",
+      "entity_type": "Location",
+      "mentions": [
+        "Place des Carmes"
+      ]
+    },
+    {
+      "id": "57ae8465-7e0e-4880-8834-6c7075850b27",
+      "name": "Le N°5 Wine Bar",
+      "entity_type": "Organization",
+      "mentions": [
+        "Le N°5 Wine Bar"
+      ]
+    },
+    {
+      "id": "3e66e420-0663-4e76-8497-b412abcdd75c",
+      "name": "The World of Fine Wine",
+      "entity_type": "Organization",
+      "mentions": [
+        "The World of Fine Wine"
+      ]
+    },
+    {
+      "id": "ba5ea294-2878-439e-94a1-59207d59beb7",
+      "name": "Place du Capitole",
+      "entity_type": "Location",
+      "mentions": [
+        "Place du Capitole"
+      ]
+    },
+    {
+      "id": "e60c60b6-1ecb-4bd6-93aa-728ec3ac6d96",
+      "name": "Monsieur Georges",
+      "entity_type": "Organization",
+      "mentions": [
+        "Monsieur Georges"
+      ]
+    },
+    {
+      "id": "7caae6d8-ab17-4608-9c6d-a33a23b1ec53",
+      "name": "Saint-Michel",
+      "entity_type": "Location",
+      "mentions": [
+        "Saint-Michel"
+      ]
+    }
+  ]
+}
