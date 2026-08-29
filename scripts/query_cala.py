@@ -71,10 +71,9 @@ def queries(city: str) -> dict[str, str]:
             "and source_url."
         ),
         "neighbourhoods": (
-            f"For {city}, recommend the most characterful neighbourhoods to explore for a "
-            "visitor who wants a local feel. Return one structured row per neighbourhood with: "
-            "name, character, what_to_do_there, why_it_is_special, and source_url. Avoid generic "
-            "tourist advice."
+            f"Name five specific neighbourhoods in {city} that are suitable for exploring on foot. "
+            "Return one structured row per neighbourhood with: name, character, what_to_do_there, "
+            "why_it_is_special, and source_url. Keep each field concise."
         ),
     }
 

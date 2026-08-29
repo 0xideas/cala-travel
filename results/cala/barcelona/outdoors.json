@@ -2,84 +2,261 @@
   "results": [
     {
       "name": "Park Güell",
-      "recommendation_type": "City park / Gaudí landmark",
+      "recommendation_type": "In-city park",
       "locality": "Gràcia, Barcelona",
-      "principal_activities": "Strolling mosaic-covered terraces, photography, panoramic city views",
-      "why_it_is_special": "A UNESCO-listed Gaudí masterpiece set on a hillside with sweeping 360° views of Barcelona and the sea from Turó de les Tres Creus",
-      "source_url": "https://mappingmegan.com/best-views-in-barcelona"
+      "principal_activities": "Strolling through Gaudí's mosaic terraces, panoramic city views, garden walks",
+      "why_it_is_special": "A UNESCO-listed park with 20 hectares of gardens and iconic Gaudí architecture offering a spectacular 360° panorama over Barcelona and the sea",
+      "source_url": "https://happyplacebarcelona.com/en/122/what-to-do-in-barcelona"
     },
     {
-      "name": "Collserola Natural Park",
-      "recommendation_type": "Urban natural park",
-      "locality": "Tibidabo / Serra de Collserola, Barcelona",
-      "principal_activities": "Hiking, trail running, forest walks, birdwatching",
-      "why_it_is_special": "Barcelona's green lung — miles of forested trails on the city's northern ridge, reaching 575 m at Tibidabo, with multiple free natural viewpoints",
-      "source_url": "https://www.tripsavvy.com/things-to-do-in-tibidabo-barcelona-1642817"
+      "name": "Parc de la Ciutadella",
+      "recommendation_type": "In-city park",
+      "locality": "Ciutat Vella / El Born, Barcelona",
+      "principal_activities": "Picnicking, rowing on the lake, walking among palm-lined paths, visiting the Cascada Monumental fountain",
+      "why_it_is_special": "Barcelona's 18-hectare urban \"green lung,\" built on the site of a former military citadel and home to relics of the 1888 Universal Exhibition, the Barcelona Zoo, and lush gardens",
+      "source_url": "https://barcelonaturisme.com/wv3/en/page/532/parc-de-la-ciutadella.html"
     },
     {
       "name": "Montjuïc Hill & Gardens",
-      "recommendation_type": "Hill / botanical gardens",
+      "recommendation_type": "In-city nature / gardens",
       "locality": "Montjuïc, Barcelona",
-      "principal_activities": "Garden walks, cable-car rides, castle visit, cycling",
-      "why_it_is_special": "A chain of themed gardens (Mossèn Costa i Llobera cactus garden, Mossèn Cinto Verdaguer water garden, Joan Brossa woodland walk) plus the Botanical Garden specialising in Mediterranean-climate plants, all linked by paths with harbour and city views",
-      "source_url": "https://gardentrip.co.uk/2019/09/16/a-journey-through-the-gardens-of-montj"
+      "principal_activities": "Botanical trail, visiting the Jardí Botànic and Jardins de Costa i Llobera (cactus garden), cable-car rides, hilltop walks with sea views",
+      "why_it_is_special": "A 250-hectare hilltop complex with a constellation of themed gardens, Olympic-era landmarks, and panoramic Mediterranean views — including one of Europe's most important cactus and succulent collections",
+      "source_url": "https://www.barcelonaturisme.com/wv3/en/page/4585/botanical-trail-through-barcelona-s-parc-de-montjuic-.html"
     },
     {
-      "name": "Barcelona Botanical Garden",
-      "recommendation_type": "Botanical garden",
-      "locality": "Montjuïc, Barcelona",
-      "principal_activities": "Guided and self-guided botanical walks, photography",
-      "why_it_is_special": "Opened in 1999 on Montjuïc between the Olympic Stadium and the castle; showcases flora from five Mediterranean-climate regions (Australia, Chile, California, South Africa, and the Mediterranean basin)",
-      "source_url": "https://barcelonahacks.com/barcelona-botanical-garden"
+      "name": "Collserola Natural Park & Mount Tibidabo",
+      "recommendation_type": "In-city nature reserve",
+      "locality": "Serra de Collserola, Barcelona",
+      "principal_activities": "Forest hiking (2–2.5 hrs to summit), birdwatching, wildlife spotting (wild boar), panoramic views from the Norman Foster communications tower",
+      "why_it_is_special": "Barcelona's largest green space — miles of forested trails on the city's doorstep, crowned by the 512 m Tibidabo summit with views over the city on one side and the Vallès plain on the other",
+      "source_url": "https://visitbarcelona.com/wv3/en/page/165/tibidabo-and-collserola.html"
     },
     {
-      "name": "Barceloneta Beach & Passeig Marítim",
-      "recommendation_type": "Urban beach",
-      "locality": "La Barceloneta, Barcelona",
-      "principal_activities": "Swimming, sunbathing, beach volleyball, seaside promenade walks",
-      "why_it_is_special": "The city's most iconic beach, steps from the old town; the seafront promenade stretches north past Platja del Bogatell for a relaxed coastal walk",
-      "source_url": "https://lonelyplanet.com/articles/best-beaches-near-barcelona-train"
+      "name": "Barceloneta Beach & Seafront",
+      "recommendation_type": "In-city beach",
+      "locality": "Barceloneta, Barcelona",
+      "principal_activities": "Swimming, beach volleyball, paddle surfing, kayaking, sunset sailing, seafront cycling/walking",
+      "why_it_is_special": "The city's most iconic beach, steps from the historic centre, with a lively atmosphere and a full range of water sports plus beachside dining",
+      "source_url": "https://studiesbarcelona.com/the-beaches-of-barcelona-and-the-mediterranean-sea"
     },
     {
       "name": "Montserrat Natural Park",
-      "recommendation_type": "Mountain / monastery day trip",
-      "locality": "Montserrat (≈ 1 h from Barcelona)",
-      "principal_activities": "Easy hiking, monastery visit, scenic cable-car or cog-wheel ride",
-      "why_it_is_special": "Dramatic serrated rock formations crowned by a Benedictine monastery; gentle downhill trails through the natural park offer stunning views, and visitors can see the Black Madonna (La Moreneta), patron saint of Catalonia",
-      "source_url": "https://www.getyourguide.com/barcelona-l45/barcelona-montserrat-monastery-and-natural-park-day-trip-t35793"
+      "recommendation_type": "Day trip (~1.5 hrs by train)",
+      "locality": "Monistrol de Montserrat, Catalonia",
+      "principal_activities": "Hiking the Sant Jeroni peak trail, visiting the mountain-top monastery, riding the cable car or funicular, nature photography",
+      "why_it_is_special": "A dramatic serrated-rock massif rising to 1,236 m, home to the historic Benedictine monastery and the Black Madonna; widely considered the top nature day trip from Barcelona",
+      "source_url": "https://girlintheweeds.com/montserrat-tour-from-barcelona-ultimate-guide-to-a-montserrat-day-trip"
     },
     {
-      "name": "Sitges",
-      "recommendation_type": "Coastal town day trip",
-      "locality": "Sitges (≈ 30–40 min by train)",
-      "principal_activities": "Beach swimming, 3 km seaside promenade walk, old-town exploring",
-      "why_it_is_special": "A charming Mediterranean beach town reachable by a quick R2 Sud train; 17 beaches, a palm-lined Passeig Marítim with constant sea views, and a picturesque old quarter with the clifftop Church of Sant Bartomeu",
-      "source_url": "https://barcelonafrommyheart.com/barcelona-to-sitges-day-trip"
-    },
-    {
-      "name": "Costa Brava (Tossa de Mar / Begur area)",
-      "recommendation_type": "Coastal nature day trip",
-      "locality": "Costa Brava (≈ 1–1.5 h north of Barcelona)",
-      "principal_activities": "Cliff-top trail walking (Camí de Ronda), snorkelling, kayaking, cove-hopping",
-      "why_it_is_special": "A 200 km stretch of rugged coastline dotted with hidden coves, medieval villages, and crystal-clear waters — ideal for combining a coastal hike with a swim in a secluded bay",
-      "source_url": "https://www.lonelyplanet.com/articles/guide-to-costa-brava-spain"
-    },
-    {
-      "name": "Parc del Garraf",
-      "recommendation_type": "Natural park day trip",
-      "locality": "Garraf (between Barcelona and Sitges)",
-      "principal_activities": "Hiking, nature photography, Mediterranean-scrub landscape",
-      "why_it_is_special": "A hilly natural park behind the coast with trails rising above the sea, offering wide Mediterranean panoramas; easily combined with a beach stop in Sitges on the same train line",
+      "name": "Sitges & Parc del Garraf",
+      "recommendation_type": "Day trip (~40 min by train)",
+      "locality": "Sitges / Garraf, Catalonia",
+      "principal_activities": "Beach-going, coastal walking, hiking the Garraf hills for elevated Mediterranean views, exploring the artistic old town",
+      "why_it_is_special": "A picturesque coastal town with beautiful beaches backed by the Garraf natural park, whose trails offer panoramic sea views and can be linked into a thru-hike ending in Sitges",
       "source_url": "https://lonelyplanet.com/articles/best-beaches-near-barcelona-train"
     },
     {
-      "name": "Carretera de les Aigües",
-      "recommendation_type": "Scenic walking / running path",
-      "locality": "Collserola hillside, Barcelona",
-      "principal_activities": "Flat-grade walking, jogging, cycling",
-      "why_it_is_special": "A virtually flat path carved into the Collserola hillside above the city, offering uninterrupted views over Barcelona and the sea — a favourite of local runners and a free, easily accessible nature escape",
-      "source_url": "https://barcaguide.com/enjoying-views-of-barcelona-from-tibidabo"
+      "name": "Costa Brava (Tossa de Mar)",
+      "recommendation_type": "Day trip (~1.5 hrs by train to Girona + bus)",
+      "locality": "Costa Brava, Catalonia",
+      "principal_activities": "Snorkelling in coves, coastal-path walking, kayaking, exploring the medieval walled old town",
+      "why_it_is_special": "Dramatic rocky coastline with crystal-clear coves, a fortified medieval village, and some of the most scenic coastal scenery in the western Mediterranean",
+      "source_url": "https://barcelonadaytrip.com/costa-brava-tourist-information"
     }
   ],
-  "entities": null
+  "entities": [
+    {
+      "id": "9ad58784-ab0a-4608-ad4f-6e788788fe38",
+      "name": "Park Güell",
+      "entity_type": "Facility",
+      "mentions": [
+        "Park Güell"
+      ]
+    },
+    {
+      "id": "7d7e89cd-567d-554c-9a67-7a4a0c9915ab",
+      "name": "Barcelona",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "0d3a3387-d8b3-4365-a3ad-8e96c31b2a55",
+      "name": "Parc de la Ciutadella",
+      "entity_type": "Facility",
+      "mentions": [
+        "Parc de la Ciutadella"
+      ]
+    },
+    {
+      "id": "e754c5b2-a223-40fd-8019-ece7246b538f",
+      "name": "Barcelona Zoo",
+      "entity_type": "Organization",
+      "mentions": [
+        "Barcelona Zoo"
+      ]
+    },
+    {
+      "id": "f11b17bc-8194-4039-bfae-97a237a729eb",
+      "name": "Montjuïc Hill & Gardens",
+      "entity_type": "Facility",
+      "mentions": [
+        "Montjuïc Hill & Gardens"
+      ]
+    },
+    {
+      "id": "3510ef37-3698-4d97-b72b-14996a0f7d35",
+      "name": "Montjuïc",
+      "entity_type": "Location",
+      "mentions": [
+        "Montjuïc"
+      ]
+    },
+    {
+      "id": "8f9adaf5-0ac4-4fa5-ba67-d76eb8891d29",
+      "name": "Jardí Botànic",
+      "entity_type": "Facility",
+      "mentions": [
+        "Jardí Botànic"
+      ]
+    },
+    {
+      "id": "63ce0332-0eb5-4cf9-ac43-77b2bc403054",
+      "name": "Jardins de Costa i Llobera",
+      "entity_type": "Facility",
+      "mentions": [
+        "Jardins de Costa i Llobera"
+      ]
+    },
+    {
+      "id": "cff58926-59ff-489c-b492-cca9edf9c059",
+      "name": "Collserola Natural Park & Mount Tibidabo",
+      "entity_type": "Facility",
+      "mentions": [
+        "Collserola Natural Park & Mount Tibidabo"
+      ]
+    },
+    {
+      "id": "73509157-f25d-4351-b1b5-218c83733b82",
+      "name": "sierra de Collserola",
+      "entity_type": "Location",
+      "mentions": [
+        "Serra de Collserola"
+      ]
+    },
+    {
+      "id": "2f6f13cc-7202-428f-9dce-6eb362ab1d66",
+      "name": "Tibidabo",
+      "entity_type": "Location",
+      "mentions": [
+        "Mount Tibidabo"
+      ]
+    },
+    {
+      "id": "5da94b58-4e4d-469e-8cf3-2a27bcd830af",
+      "name": "Barceloneta Beach",
+      "entity_type": "Facility",
+      "mentions": [
+        "Barceloneta Beach & Seafront"
+      ]
+    },
+    {
+      "id": "298d4bb3-8c1a-4f30-b135-4970245fe073",
+      "name": "Parc Natural de Montserrat",
+      "entity_type": "Facility",
+      "mentions": [
+        "Montserrat Natural Park"
+      ]
+    },
+    {
+      "id": "99b61cea-9d3a-5ff2-9382-fc559e2ce8e4",
+      "name": "Monistrol de Montserrat",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Monistrol de Montserrat"
+      ]
+    },
+    {
+      "id": "81a29400-05ff-46bc-afaf-cba264199f65",
+      "name": "Sant Jeroni",
+      "entity_type": "Location",
+      "mentions": [
+        "Sant Jeroni"
+      ]
+    },
+    {
+      "id": "8c32ff90-40d4-50f6-aa54-350750ea56c2",
+      "name": "Sitges",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Sitges"
+      ]
+    },
+    {
+      "id": "5258efe0-475d-4774-b7d8-d6125cd1a5f4",
+      "name": "Parc del Garraf",
+      "entity_type": "Facility",
+      "mentions": [
+        "Parc del Garraf"
+      ]
+    },
+    {
+      "id": "9aaf4168-f255-41c9-8108-fe0f2ee80b7e",
+      "name": "macizo calizo del Garraf",
+      "entity_type": "Location",
+      "mentions": [
+        "Garraf"
+      ]
+    },
+    {
+      "id": "7fb380d4-68b0-4a31-99f6-0331e8344f58",
+      "name": "Costa Brava",
+      "entity_type": "Location",
+      "mentions": [
+        "Costa Brava"
+      ]
+    },
+    {
+      "id": "e2e4f04c-231e-5496-81bd-43c2028fbee0",
+      "name": "Tossa de Mar",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Tossa de Mar"
+      ]
+    },
+    {
+      "id": "da2744fc-0021-5dbc-9fc8-6abafd2782d8",
+      "name": "Girona",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Girona"
+      ]
+    },
+    {
+      "id": "1d6db960-ed44-5d03-a69c-1ccdd46b6377",
+      "name": "UNESCO",
+      "entity_type": "IntergovernmentalOrganization",
+      "mentions": [
+        "UNESCO"
+      ]
+    },
+    {
+      "id": "a0a2025a-f41e-43ef-ab1a-ded9740881e2",
+      "name": "Norman Foster communications tower",
+      "entity_type": "Facility",
+      "mentions": [
+        "Norman Foster communications tower"
+      ]
+    },
+    {
+      "id": "03bed005-d184-4182-9eb2-533f9464ade9",
+      "name": "Benedictine monastery",
+      "entity_type": "Organization",
+      "mentions": [
+        "Benedictine monastery"
+      ]
+    }
+  ]
 }

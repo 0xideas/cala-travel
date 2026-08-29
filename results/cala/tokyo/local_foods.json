@@ -1,8 +1,0 @@
-{
-  "results": [],
-  "entities": null,
-  "error": {
-    "type": "timeout",
-    "message": "The read operation timed out"
-  }
-}

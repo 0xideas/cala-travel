@@ -1,0 +1,213 @@
+{
+  "city": "barcelona",
+  "model": "gpt-5.6-luna",
+  "entries": [
+    {
+      "name": "Pa amb tomàquet",
+      "entity_id": "b84541ae-f99b-4322-ab98-f21b59f34689",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "In Gràcia, I asked for pa amb tomàquet at Taverna El Glop, a cosy place founded during the neighbourhood festival in 1978. The bread arrived rubbed with ripe tomato, its surface cool and slightly wet, with olive oil settling into the crumb. Around me, conversation moved easily between tables. It was a simple dish, offered without ceremony, and all the better for that."
+    },
+    {
+      "name": "Escalivada",
+      "entity_id": "d6236813-6ce0-4681-a70b-c55c4bc4ace6",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "In Gràcia, near Joanic, I stopped at Bar Casi for escalivada before walking towards Park Güell. The roasted peppers, eggplant, and tomato arrived softly charred and cool with olive oil, their sweetness balanced by a faint smokiness. Locals spoke over one another at nearby tables, giving the room its easy rhythm. I lingered over the simple, home-cooked plate before heading on."
+    },
+    {
+      "name": "Pescadito frito",
+      "entity_id": "704eb7e5-0df3-4802-961e-940175f46736",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I stopped at Bar La Plata in the Barri Gòtic for a small plate of pescaditos, the fish crisp beneath a light batter and still warm with oil. The bar has served just four tapas since opening in 1945, and the narrow choice made the room feel pleasantly unhurried. Anchovies, tomato, and conversation filled the pauses between plates."
+    },
+    {
+      "name": "Bomba",
+      "entity_id": "98c064fc-0e80-55ba-ae76-eb25f71132d1",
+      "entity_type": "Municipality",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I stopped in La Barceloneta for a bomba at La Cova Fumada, where the room was arranged around marble tables and a chalkboard menu. The bodega’s unmarked entrance made the meal feel pleasantly unannounced. Around me, loyal regulars spoke over the scrape of cutlery, while the crisp potato shell gave way to its savoury filling. I lingered over the simple, convivial pace."
+    },
+    {
+      "name": "Crema catalana",
+      "entity_id": "a142e057-eccb-453c-a616-53b1eff1f012",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I paused at Granja Dulcinea on Carrer de Petritxol, where the dark wood and closely set tables gave the room a settled, mid-century quiet. The crema catalana arrived beneath a thin, crackled sugar crust, with cool custard beneath it. Around me, spoons touched saucers and the scent of hot chocolate lingered. I ate slowly, letting the old tea room remain the main subject."
+    },
+    {
+      "name": "Basílica de la Sagrada Família",
+      "entity_id": "c3990a3a-cf62-4130-8ce4-116870fa2241",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet part of the morning inside the Basílica de la Sagrada Família in Eixample, looking up through Gaudí’s tree-like columns. Light from the stained glass settled in muted colours across the stone, while the unfinished character of the building remained visible rather than explained away. Construction had begun in 1882, and the sense of time continuing around the worshippers felt fitting."
+    },
+    {
+      "name": "Museu Picasso",
+      "entity_id": "3a5f3fae-ecce-4fad-9462-e1129b893c63",
+      "entity_type": "Organization",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet part of the afternoon at the Museu Picasso on Carrer de Montcada, moving through its five medieval Gothic palaces in El Born. The cool stone and uneven sequence of rooms suited the early paintings, whose restraint felt more revealing than theatrical. I paused longest with the Blue Period works, then followed the complete Las Meninas series, letting the changes accumulate gradually."
+    },
+    {
+      "name": "Palau de la Música Catalana",
+      "entity_id": "0d7478f0-cfc7-4e6a-af15-9fd718bf0043",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I paused in Sant Pere at the Palau de la Música Catalana, letting the street’s movement fall away behind the doors. Inside, daylight filtered through stained-glass walls and settled softly across the steel-framed auditorium. The inverted dome held the room’s attention without insisting on it. Built in 1908 for the Orfeó Català, the concert hall felt both carefully made and quietly available to whatever music came next."
+    },
+    {
+      "name": "Casa Batlló",
+      "entity_id": "1009d216-cf52-45bb-9d08-142da4ebec85",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet part of the afternoon at Casa Batlló on Passeig de Gràcia, moving slowly through the house-museum. The façade’s broken-tile mosaics caught the light in small, shifting fragments, while the interiors softened into curved, nature-inspired forms. The immersive galleries offered glimpses of Gaudí’s creative process without insisting on a single interpretation. Outside, Eixample’s measured streets resumed their rhythm."
+    },
+    {
+      "name": "Museu Nacional d'Art de Catalunya (MNAC)",
+      "entity_id": "3587fdce-b88c-4492-9f23-cfdffd0095f1",
+      "entity_type": "Organization",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet afternoon at the Museu Nacional d’Art de Catalunya, moving through the Palau Nacional on Montjuïc. The Romanesque mural paintings held the room with their muted reds and mineral blues; elsewhere, Gothic and Modernisme works shifted the mood without insisting on comparison. Light gathered softly on the palace floors, and the city appeared only intermittently through the high windows."
+    },
+    {
+      "name": "Parc de la Ciutadella",
+      "entity_id": null,
+      "entity_type": null,
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I wandered through Parc de la Ciutadella in the late afternoon, following the palm-lined paths between lawns and older stonework. Near the lake, oars dipped quietly while families settled with picnics in the shade. The Cascada Monumental caught the light through its spray, and fragments of the former citadel and 1888 exhibition sat naturally among the gardens. It felt like a calm pause within Ciutat Vella."
+    },
+    {
+      "name": "Park Güell",
+      "entity_id": null,
+      "entity_type": null,
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I wandered through Park Güell in Gràcia, following the garden paths beneath the pines before reaching Gaudí’s mosaic terraces. The tiles caught the afternoon light in small, uneven flashes, while Barcelona opened below in a broad sweep toward the sea. People paused at the viewpoints, then drifted on. I lingered quietly, more interested in the changing air and distant rooftops than in covering every corner."
+    },
+    {
+      "name": "Barceloneta Beach & Seafront",
+      "entity_id": "5da94b58-4e4d-469e-8cf3-2a27bcd830af",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I walked the Barceloneta seafront in the late afternoon, with the historic centre just behind me and the beach opening toward the water. Cyclists passed at an easy pace while a few games of volleyball carried across the sand. The air held salt, warm stone, and a trace of cooking from the beachside restaurants. I stayed until the light softened over the water."
+    },
+    {
+      "name": "Montjuïc Hill & Gardens",
+      "entity_id": "f11b17bc-8194-4039-bfae-97a237a729eb",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I spent a quiet afternoon walking among Montjuïc’s gardens, following the botanical trail toward the Jardí Botànic and the Jardins de Costa i Llobera. The cactus beds held the sun in muted greens and dusty reds, while a breeze came up from the Mediterranean. From the higher paths, Barcelona loosened into rooftops, Olympic-era structures, and a broad strip of sea."
+    },
+    {
+      "name": "Montserrat Natural Park",
+      "entity_id": "298d4bb3-8c1a-4f30-b135-4970245fe073",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I took the train from Barcelona to Monistrol de Montserrat, then followed the Sant Jeroni trail through the park. The path narrowed between pale, serrated rock, with rosemary-scented air and occasional views opening across Catalonia. Near the mountain-top monastery, conversation softened around the Black Madonna. I lingered there briefly before descending, leaving the cable car to the steady pace of the trail."
+    },
+    {
+      "name": "Collserola Natural Park & Mount Tibidabo",
+      "entity_id": "cff58926-59ff-489c-b492-cca9edf9c059",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I followed the forest trails through Collserola toward Tibidabo, taking a little over two hours to reach the 512-metre summit. Pine scent and the occasional birdcall softened the city’s presence. From above, Barcelona spread along one side while the Vallès plain opened on the other; the communications tower stood quietly over the trees. A calm, spacious pause at the city’s edge."
+    },
+    {
+      "name": "Costa Brava (Tossa de Mar)",
+      "entity_id": "e2e4f04c-231e-5496-81bd-43c2028fbee0",
+      "entity_type": "Municipality",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I took the train towards Girona and continued by bus to Tossa de Mar, where the coastal path led between pine shade and warm, uneven rock. Below, the coves held remarkably clear water, lightly ruffled by small boats. Later I wandered through the medieval walled old town, listening to footsteps on stone and the muted conversation from nearby cafés."
+    },
+    {
+      "name": "Sitges & Parc del Garraf",
+      "entity_id": "9aaf4168-f255-41c9-8108-fe0f2ee80b7e",
+      "entity_type": "Location",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I took the train from Barcelona to Sitges, then followed a coastal path into the Garraf hills. The limestone slopes held the afternoon heat, while the Mediterranean appeared and disappeared between pale rocks and low scrub. Later, I returned to Sitges and wandered its artistic old town before sitting near the beach. The day felt spacious without needing much arrangement."
+    },
+    {
+      "name": "Barri Gòtic (Gothic Quarter)",
+      "entity_id": "2979f74b-38a1-43ab-a92a-3464c5a88c86",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through the Barri Gòtic’s narrow lanes in the late afternoon, pausing at Barcelona Cathedral before descending among the Roman remains beneath Plaça del Rei. In El Call, the stone walls held the day’s coolness. Later, I sat beneath the palms in Plaça Reial, listening to glasses and passing footsteps. The quarter felt layered rather than staged, its old streets accommodating ordinary city life."
+    },
+    {
+      "name": "El Born / La Ribera",
+      "entity_id": "264c0e74-561c-4b54-aba2-99165a536d02",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered along Carrer Montcada, where Renaissance palaces held their quiet façades against the neighbourhood’s boutiques and galleries. At the Basílica de Santa Maria del Mar, the pale stone and cool interior offered a brief pause from the close streets. Later, I noticed the soft clatter of dishes and conversation drifting from small shops and cafés, while El Born carried its medieval shape with an easy, contemporary rhythm."
+    },
+    {
+      "name": "Barceloneta",
+      "entity_id": "62075c38-5fba-5abc-93f6-febb361bdf48",
+      "entity_type": "Municipality",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I walked through Barceloneta’s narrow streets towards the Mediterranean promenade, where laundry shifted gently between the buildings and the air carried salt, coffee, and frying garlic. The quarter felt lived-in rather than arranged for visitors. Near Mercat de la Barceloneta, I paused for seafood tapas, listening to the layered conversation around me before continuing towards the city’s oldest beach."
+    },
+    {
+      "name": "El Poble-Sec",
+      "entity_id": "d1efaf39-ea27-47e1-b61a-a61b7d22dd2b",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through El Poble-Sec beneath Montjuïc, following painted walls where murals and graffiti softened the working streets. At Quimet & Quimet, the room filled with the low conversation of neighbours and the sharp, savoury scent of tapas. Later, I walked toward Refugi 307, aware of how the neighbourhood’s bohemian surface rested alongside quieter traces of Barcelona’s past."
+    },
+    {
+      "name": "Gràcia",
+      "entity_id": "75b3821d-f6ef-4628-bde1-d47a4ce9697b",
+      "entity_type": "Person",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through Gràcia in the late afternoon, moving between its lively squares and quieter side streets. Carrer Verdi carried the soft spill of conversation from bars, while small eco-shops and galleries gave the neighbourhood an easy, creative rhythm. In Plaça de la Virreina, plane-tree shade fell across café tables. The former town’s distinctly Catalan character felt present without needing explanation."
+    }
+  ]
+}

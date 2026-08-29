@@ -1,8 +1,201 @@
 {
-  "results": [],
-  "entities": null,
-  "error": {
-    "type": "timeout",
-    "message": "The read operation timed out"
-  }
+  "results": [
+    {
+      "name": "Barri Gòtic (Gothic Quarter)",
+      "character": "Medieval labyrinth of narrow alleys, Gothic churches, and hidden squares right in the city centre",
+      "what_to_do_there": "Visit Barcelona Cathedral, explore the Roman ruins beneath Plaça del Rei (MUHBA), wander through the ancient Jewish quarter (El Call), and people-watch at palm-lined Plaça Reial",
+      "why_it_is_special": "Built on the remains of the Roman colony of Barcino, it is the oldest part of the city — every alley tells a story spanning over 2,000 years",
+      "source_url": "barcelona.com/neighborhoods/gothic-quarter"
+    },
+    {
+      "name": "El Born / La Ribera",
+      "character": "Trendy yet medieval; Renaissance palaces sit alongside designer boutiques, gourmet shops, and art galleries",
+      "what_to_do_there": "See the Basílica de Santa Maria del Mar (masterpiece of Catalan Gothic), stroll Carrer Montcada's 14th–18th-century palaces, visit the Picasso Museum, and browse independent fashion showrooms",
+      "why_it_is_special": "Once the merchants' quarter during Barcelona's 13th–14th-century maritime expansion, it is now considered the city's \"Montmartre\" for its creative scene",
+      "source_url": "meet.barcelona/en/visit-and-love-it/points-interest-city/el-born-i-la-ribera-99400387270"
+    },
+    {
+      "name": "Gràcia",
+      "character": "Bohemian, village-like feel with lively squares, eco-shops, yoga studios, and vegan-friendly cafés",
+      "what_to_do_there": "Visit Park Güell and Casa Vicens (Gaudí's first house), stroll Carrer Verdi for indie cinemas and bars, browse edgy galleries, and relax in Plaça de la Virreina",
+      "why_it_is_special": "A former independent town absorbed into Barcelona in the 19th century, it retains its own distinctly Catalan identity and a relaxed, creative atmosphere",
+      "source_url": "theculturetrip.com/europe/spain/articles/the-top-10-things-to-do-and-see-in-gracia-barcelona"
+    },
+    {
+      "name": "Barceloneta",
+      "character": "Classic seaside fishing quarter with narrow streets, laundry lines between buildings, and a lively beachfront promenade",
+      "what_to_do_there": "Walk the Mediterranean promenade, eat fresh seafood tapas at traditional restaurants, visit Mercat de la Barceloneta, and swim at the city's oldest beach",
+      "why_it_is_special": "A former fishermen's village transformed for the 1992 Olympics; it is said to have inspired Cervantes as the setting for Don Quixote's fight with the Knight of the White Moon",
+      "source_url": "barcelonaturisme.com/wv3/en/page/3495/barceloneta-beach.html"
+    },
+    {
+      "name": "El Poble-Sec",
+      "character": "Working-class, close-knit community at the foot of Montjuïc; a blend of tradition and bohemia that rarely sees tourists",
+      "what_to_do_there": "Sample legendary tapas at Quimet & Quimet, explore the Civil War air-raid shelter Refugi 307, ride the Montjuïc cable car, and enjoy summer performances at the open-air Teatre Grec",
+      "why_it_is_special": "Barcelona's first expansion beyond the medieval walls; nicknamed \"Little Paris\" in the 1940s for its cabarets, and birthplace of singer-songwriter Joan Manuel Serrat",
+      "source_url": "barcelonaturisme.com/wv3/en/page/759/poble-sec.html"
+    }
+  ],
+  "entities": [
+    {
+      "id": "7d7e89cd-567d-554c-9a67-7a4a0c9915ab",
+      "name": "Barcelona",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "2979f74b-38a1-43ab-a92a-3464c5a88c86",
+      "name": "Barri Gòtic",
+      "entity_type": "Location",
+      "mentions": [
+        "Barri Gòtic"
+      ]
+    },
+    {
+      "id": "602b9e80-fa79-45e3-90d0-b926965874a4",
+      "name": "Barcelona Cathedral",
+      "entity_type": "Facility",
+      "mentions": [
+        "Barcelona Cathedral"
+      ]
+    },
+    {
+      "id": "7d47d639-e867-4dac-8588-3d1716c2b483",
+      "name": "Plaça del Rei",
+      "entity_type": "Location",
+      "mentions": [
+        "Plaça del Rei"
+      ]
+    },
+    {
+      "id": "1ec27240-6e55-4652-8499-ef25f7a19c1d",
+      "name": "El Call",
+      "entity_type": "Location",
+      "mentions": [
+        "El Call"
+      ]
+    },
+    {
+      "id": "719155e5-0515-4b1e-9cb2-35fd385ed72d",
+      "name": "plaza Reial",
+      "entity_type": "Location",
+      "mentions": [
+        "Plaça Reial"
+      ]
+    },
+    {
+      "id": "264c0e74-561c-4b54-aba2-99165a536d02",
+      "name": "El Born",
+      "entity_type": "Location",
+      "mentions": [
+        "El Born / La Ribera"
+      ]
+    },
+    {
+      "id": "8ec8b406-4c14-450f-947e-de520ad0daf3",
+      "name": "basílica de Santa María del Mar",
+      "entity_type": "Facility",
+      "mentions": [
+        "Basílica de Santa Maria del Mar"
+      ]
+    },
+    {
+      "id": "493dc3f0-d6d7-4d1b-9bbf-4c3ba307bf02",
+      "name": "Carrer Montcada",
+      "entity_type": "Location",
+      "mentions": [
+        "Carrer Montcada"
+      ]
+    },
+    {
+      "id": "3a5f3fae-ecce-4fad-9462-e1129b893c63",
+      "name": "Museu Picasso",
+      "entity_type": "Organization",
+      "mentions": [
+        "Picasso Museum"
+      ]
+    },
+    {
+      "id": "858f2624-da22-4594-9a39-da1c76fb0104",
+      "name": "Gràcia",
+      "entity_type": "Location",
+      "mentions": [
+        "Gràcia"
+      ]
+    },
+    {
+      "id": "9ad58784-ab0a-4608-ad4f-6e788788fe38",
+      "name": "Park Güell",
+      "entity_type": "Facility",
+      "mentions": [
+        "Park Güell"
+      ]
+    },
+    {
+      "id": "d224a1e6-7799-4fbd-9cd5-ef53c8647383",
+      "name": "Casa Vicens",
+      "entity_type": "Facility",
+      "mentions": [
+        "Casa Vicens"
+      ]
+    },
+    {
+      "id": "cb4adafe-858a-4500-9ad5-f1a573902041",
+      "name": "Barceloneta",
+      "entity_type": "Location",
+      "mentions": [
+        "Barceloneta"
+      ]
+    },
+    {
+      "id": "95287503-9d49-48a5-beb9-0249f9fd3fad",
+      "name": "Mercat de la Barceloneta",
+      "entity_type": "Facility",
+      "mentions": [
+        "Mercat de la Barceloneta"
+      ]
+    },
+    {
+      "id": "3510ef37-3698-4d97-b72b-14996a0f7d35",
+      "name": "Montjuïc",
+      "entity_type": "Location",
+      "mentions": [
+        "Montjuïc"
+      ]
+    },
+    {
+      "id": "7b083e2d-a6d2-41b3-a571-9ae24a41b1c6",
+      "name": "Montjuïc cable car",
+      "entity_type": "Product",
+      "mentions": [
+        "Montjuïc cable car"
+      ]
+    },
+    {
+      "id": "09c30c67-d364-41be-aee1-4e024c213fb2",
+      "name": "Teatre Grec",
+      "entity_type": "Facility",
+      "mentions": [
+        "Teatre Grec"
+      ]
+    },
+    {
+      "id": "a0abb0fb-1c6d-437b-998b-13f8857fa008",
+      "name": "Joan Manuel Serrat",
+      "entity_type": "Person",
+      "mentions": [
+        "Joan Manuel Serrat"
+      ]
+    },
+    {
+      "id": "ee444df4-ef18-47db-9d4e-f6e47f40da37",
+      "name": "Miguel de Cervantes Saavedra",
+      "entity_type": "Person",
+      "mentions": [
+        "Cervantes"
+      ]
+    }
+  ]
 }

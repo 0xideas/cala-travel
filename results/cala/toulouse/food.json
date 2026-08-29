@@ -1,0 +1,201 @@
+{
+  "results": [
+    {
+      "name": "Cassoulet de Toulouse",
+      "recommendation_type": "Le Colombier",
+      "locality_or_neighbourhood": "Rue Bayard, city centre (near Gare Matabiau)",
+      "why_it_is_special": "A Toulouse institution since 1873, originally stables for the Capitouls then a coaching inn. Widely regarded as the reference for cassoulet in the city — slow-cooked white beans, duck confit, pork, and saucisse de Toulouse in an earthenware cassole.",
+      "source_url": "https://www.restaurant-lecolombier.com/"
+    },
+    {
+      "name": "Saucisse de Toulouse",
+      "recommendation_type": "Marché de Saint-Cyprien (butchers' stalls)",
+      "locality_or_neighbourhood": "Saint-Cyprien, left bank of the Garonne",
+      "why_it_is_special": "Buy the sausage fresh and uncooked from artisan charcutiers at this neighbourhood market. The authentic saucisse is coarse-ground pork shoulder seasoned with garlic and pepper, and has held a Label Rouge since 1992. Grill it at home or ask a market vendor to point you to a nearby grill spot.",
+      "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
+    },
+    {
+      "name": "Violettes de Toulouse",
+      "recommendation_type": "Violettes et Pastels",
+      "locality_or_neighbourhood": "10 Rue Saint-Pantaléon, historic centre (near Place du Capitole)",
+      "why_it_is_special": "A specialist boutique dedicated to Toulouse's floral emblem. Crystallised violets date back to the 19th century, when nomadic traders brought wild violets from the Tarn-et-Garonne to the city's markets. The shop stocks candies, liqueurs, jams, and cosmetics — all violet-based.",
+      "source_url": "https://www.toulouse-tourisme.com/en/commerce/violettes-et-pastels"
+    },
+    {
+      "name": "Fénétra",
+      "recommendation_type": "Maison Pillon",
+      "locality_or_neighbourhood": "2 Rue Ozenne, Carmes quarter (also at 3 Place du Capitole)",
+      "why_it_is_special": "A Toulouse pâtisserie founded in 1967, now with seven shops across the city. Fénétra is a medieval-origin tart layered with shortcrust pastry, almond cream, candied apricot, and candied lemon — traditionally baked for the Fête de la Fénétra in late June. Maison Pillon prepares it canonically, as it has been made for decades.",
+      "source_url": "https://www.maison-pillon.fr/"
+    },
+    {
+      "name": "Magret de canard",
+      "recommendation_type": "Le J'Go",
+      "locality_or_neighbourhood": "Place Victor Hugo, city centre",
+      "why_it_is_special": "A bistro celebrated for its south-west French produce, sourcing duck directly from farms in the Gers — the very region where chef André Daguin \"invented\" the magret in the 1960s. The breast is scored, pan-seared until the skin is crispy, and served pink, often with seasonal accompaniments. Pair it with a Fronton or Madiran red.",
+      "source_url": "https://www.toulouse-tourisme.com/?p=8790"
+    }
+  ],
+  "entities": [
+    {
+      "id": "dcc503da-d56f-442e-82aa-efcef5ccc413",
+      "name": "Cassoulet de Toulouse",
+      "entity_type": "Product",
+      "mentions": [
+        "Cassoulet de Toulouse"
+      ]
+    },
+    {
+      "id": "15555ede-d95b-4a5a-ba12-3ce931703412",
+      "name": "Le Colombier",
+      "entity_type": "Organization",
+      "mentions": [
+        "Le Colombier"
+      ]
+    },
+    {
+      "id": "e182d417-67a5-4553-ae1f-f70c195c67ea",
+      "name": "Rue Bayard",
+      "entity_type": "Location",
+      "mentions": [
+        "Rue Bayard"
+      ]
+    },
+    {
+      "id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
+      "name": "saucisse de Toulouse",
+      "entity_type": "Product",
+      "mentions": [
+        "Saucisse de Toulouse"
+      ]
+    },
+    {
+      "id": "34872432-50aa-44cd-805b-2a114190bdcd",
+      "name": "Marché de Saint-Cyprien",
+      "entity_type": "Facility",
+      "mentions": [
+        "Marché de Saint-Cyprien"
+      ]
+    },
+    {
+      "id": "49e798d0-38a4-41a8-bb03-0ca93cf8bef0",
+      "name": "Saint-Cyprien",
+      "entity_type": "Location",
+      "mentions": [
+        "Saint-Cyprien"
+      ]
+    },
+    {
+      "id": "560a56dd-63e6-436f-a551-5bdbc56123c9",
+      "name": "Garonne",
+      "entity_type": "Location",
+      "mentions": [
+        "Garonne"
+      ]
+    },
+    {
+      "id": "6faaa564-3a9d-4fa0-a512-2d70dd540aaf",
+      "name": "Violettes de Toulouse",
+      "entity_type": "Product",
+      "mentions": [
+        "Violettes de Toulouse"
+      ]
+    },
+    {
+      "id": "9be457fb-058e-4d6c-855f-93397aca78ce",
+      "name": "Violettes et Pastels",
+      "entity_type": "Organization",
+      "mentions": [
+        "Violettes et Pastels"
+      ]
+    },
+    {
+      "id": "8c4f998e-c55a-4857-84b2-16944e98ff52",
+      "name": "Rue Saint-Pantaléon",
+      "entity_type": "Location",
+      "mentions": [
+        "Rue Saint-Pantaléon"
+      ]
+    },
+    {
+      "id": "5951bcb7-1008-41dc-bc05-c321f6cc7a29",
+      "name": "Place du Capitole",
+      "entity_type": "Facility",
+      "mentions": [
+        "Place du Capitole"
+      ]
+    },
+    {
+      "id": "cab0d09a-5e7a-4081-ba1f-84c60bb54afb",
+      "name": "Fénétra",
+      "entity_type": "Product",
+      "mentions": [
+        "Fénétra"
+      ]
+    },
+    {
+      "id": "411b1c51-e93f-438d-9a82-ccf18a4c67d6",
+      "name": "Maison Pillon",
+      "entity_type": "Organization",
+      "mentions": [
+        "Maison Pillon"
+      ]
+    },
+    {
+      "id": "5a75831b-28aa-43a9-81ab-2ecc12785c9e",
+      "name": "Carmes",
+      "entity_type": "Location",
+      "mentions": [
+        "Carmes quarter"
+      ]
+    },
+    {
+      "id": "41421a8b-eedd-46cb-85af-6fdb772c80cc",
+      "name": "Magret de canard",
+      "entity_type": "Product",
+      "mentions": [
+        "Magret de canard"
+      ]
+    },
+    {
+      "id": "1b65615e-e079-43fa-8f8d-4d79f5605787",
+      "name": "Le J'Go",
+      "entity_type": "Organization",
+      "mentions": [
+        "Le J'Go"
+      ]
+    },
+    {
+      "id": "6e78604b-7e27-44a7-82ea-ea33471fdb49",
+      "name": "Place Victor Hugo",
+      "entity_type": "Facility",
+      "mentions": [
+        "Place Victor Hugo"
+      ]
+    },
+    {
+      "id": "76ce97f6-81d6-4866-959e-e2430f31f537",
+      "name": "André Daguin",
+      "entity_type": "Person",
+      "mentions": [
+        "André Daguin"
+      ]
+    },
+    {
+      "id": "a8937c94-b32f-441c-a26b-991a0b9b3568",
+      "name": "Gers",
+      "entity_type": "CountrySubdivision",
+      "mentions": [
+        "Gers"
+      ]
+    },
+    {
+      "id": "2101a904-d52c-500a-b90f-85ca10bccf55",
+      "name": "Toulouse",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Toulouse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "results": [
+    {
+      "name": "Basilique Saint-Sernin",
+      "recommendation_type": "Historic building (UNESCO World Heritage)",
+      "locality_or_neighbourhood": "Place Saint-Sernin, city centre",
+      "why_it_is_special": "Built between 1070 and 1300, it is the largest Romanesque church in Europe. Its 115-metre length, five naves, 64-metre transept, and more than 400 sculpted capitals make it an architectural masterpiece and a key stop on the Santiago de Compostela pilgrimage route.",
+      "source_url": "https://basilique-saint-sernin.fr/saint-sernin-parcours1en"
+    },
+    {
+      "name": "Couvent des Jacobins",
+      "recommendation_type": "Historic monument / cultural venue",
+      "locality_or_neighbourhood": "Place des Jacobins, city centre",
+      "why_it_is_special": "A jewel of Southern Gothic architecture built in the 13th–14th centuries. Its double nave culminates in the famous \"Palmier des Jacobins\" — a spectacular stone column whose 22 ribs fan out across the ceiling. The convent houses the relics of Saint Thomas Aquinas and hosts concerts and exhibitions in its cloister and refectory.",
+      "source_url": "https://www.toulouse-tourisme.com/nos-incontournables/le-couvent-des-jacobins"
+    },
+    {
+      "name": "Musée des Augustins",
+      "recommendation_type": "Fine-arts museum",
+      "locality_or_neighbourhood": "Rue de Metz, historic centre",
+      "why_it_is_special": "Toulouse's fine-arts museum, housed in a 14th-century Gothic Augustinian convent. One of the oldest museums in France (founded 1793), it holds a unique collection of Romanesque and Gothic sculpture alongside paintings from the Middle Ages to the 20th century, including works by Rubens, Delacroix, and Corot.",
+      "source_url": "https://www.toulouse-tourisme.com/en/activite/the-musee-des-augustins"
+    },
+    {
+      "name": "Hôtel d'Assézat / Fondation Bemberg",
+      "recommendation_type": "Renaissance mansion & art museum",
+      "locality_or_neighbourhood": "Place d'Assézat, city centre",
+      "why_it_is_special": "One of Toulouse's finest Renaissance hôtels particuliers, built in the 16th century for pastel-trade merchant Pierre II d'Assézat. It now houses the Fondation Bemberg, a major private art collection spanning five centuries — from Renaissance masters (Titian, Veronese) to French Impressionists and Post-Impressionists (Bonnard, Canaletto).",
+      "source_url": "https://www.fondation-bemberg.fr/musee/lhotel-dassezat"
+    },
+    {
+      "name": "Cité de l'Espace",
+      "recommendation_type": "Science & space museum / theme park",
+      "locality_or_neighbourhood": "South-east Toulouse (off the A61)",
+      "why_it_is_special": "A space-themed science centre featuring full-scale replicas of the Ariane 5 rocket, the Mir space station, and Soyuz modules, plus a planetarium and interactive exhibits including a mission-control mock-up. It reflects Toulouse's role as the capital of European aerospace and is the top-rated science museum in the city.",
+      "source_url": "https://whichmuseum.com/museum/cite-de-l-espace-toulouse-6865"
+    }
+  ],
+  "entities": [
+    {
+      "id": "3458a53d-8257-4131-859a-50cf1b3e6208",
+      "name": "Basilique Saint-Sernin",
+      "entity_type": "Facility",
+      "mentions": [
+        "Basilique Saint-Sernin"
+      ]
+    },
+    {
+      "id": "8120e908-0fc1-4827-91bd-a436bbc3e8fb",
+      "name": "Place Saint-Sernin",
+      "entity_type": "Location",
+      "mentions": [
+        "Place Saint-Sernin"
+      ]
+    },
+    {
+      "id": "7bd88675-8e15-49bb-beac-22c5a07d8324",
+      "name": "Couvent des Jacobins",
+      "entity_type": "Facility",
+      "mentions": [
+        "Couvent des Jacobins"
+      ]
+    },
+    {
+      "id": "89a48aa3-2e76-4e44-b71c-0fcc46046ded",
+      "name": "Place des Jacobins",
+      "entity_type": "Location",
+      "mentions": [
+        "Place des Jacobins"
+      ]
+    },
+    {
+      "id": "8d2e3b40-9eb0-4de8-9f4a-f1875abb2adf",
+      "name": "Musée des Augustins",
+      "entity_type": "Organization",
+      "mentions": [
+        "Musée des Augustins"
+      ]
+    },
+    {
+      "id": "d8cc26c7-18ef-400d-b2a9-160eca95bb36",
+      "name": "Rue de Metz",
+      "entity_type": "Location",
+      "mentions": [
+        "Rue de Metz"
+      ]
+    },
+    {
+      "id": "269ec923-23d7-44d0-bc3f-ec42646f898b",
+      "name": "Hôtel d'Assézat",
+      "entity_type": "Facility",
+      "mentions": [
+        "Hôtel d'Assézat"
+      ]
+    },
+    {
+      "id": "24aaf7ff-9ae0-4c9f-b06d-a43633d91cb8",
+      "name": "Fondation Bemberg",
+      "entity_type": "Organization",
+      "mentions": [
+        "Fondation Bemberg"
+      ]
+    },
+    {
+      "id": "8606b9cf-ba2f-4561-bd5b-a29799d3e08a",
+      "name": "Place d'Assézat",
+      "entity_type": "Location",
+      "mentions": [
+        "Place d'Assézat"
+      ]
+    },
+    {
+      "id": "fa9d86e4-33fc-42e0-921d-2ec77033825a",
+      "name": "Cité de l'Espace",
+      "entity_type": "Facility",
+      "mentions": [
+        "Cité de l'Espace"
+      ]
+    },
+    {
+      "id": "f5c6a794-a46e-49ad-82d3-0341cf9f134a",
+      "name": "Ariane 5",
+      "entity_type": "Product",
+      "mentions": [
+        "Ariane 5"
+      ]
+    },
+    {
+      "id": "a804ffc0-9b90-4525-a33c-9bd94ec482f1",
+      "name": "Mir",
+      "entity_type": "Product",
+      "mentions": [
+        "Mir"
+      ]
+    },
+    {
+      "id": "fbf84239-c231-4926-9d60-4667a0b268b9",
+      "name": "Soyuz",
+      "entity_type": "Product",
+      "mentions": [
+        "Soyuz"
+      ]
+    },
+    {
+      "id": "2101a904-d52c-500a-b90f-85ca10bccf55",
+      "name": "Toulouse",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Toulouse"
+      ]
+    },
+    {
+      "id": "b6f57d8b-33dd-409a-9fbb-269947c54e23",
+      "name": "France",
+      "entity_type": "Country",
+      "mentions": [
+        "France"
+      ]
+    }
+  ]
+}

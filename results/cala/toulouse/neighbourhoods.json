@@ -1,0 +1,201 @@
+{
+  "results": [
+    {
+      "name": "Les Carmes",
+      "character": "Medieval old town with narrow streets and a calm, historic atmosphere",
+      "what_to_do_there": "Browse the covered Carmes market, admire Renaissance mansions (Hôtel du Vieux-Raisin), and discover the Miss Van \"Songes\" street-art fresco on rue du Pont de Tounis",
+      "why_it_is_special": "Toulouse's essential old quarter — bordered by the Garonne and threaded by a Roman road, every street and square is packed with architectural wonders",
+      "source_url": "https://foodandtravel.com/travel/48hours/les-carmes-toulouse"
+    },
+    {
+      "name": "Saint-Étienne",
+      "character": "Chic, bourgeois centre-ville with imposing portals hiding private hôtels particuliers",
+      "what_to_do_there": "Visit the striking Cathédrale Saint-Étienne, stroll Place Saint-Étienne, and wander narrow lanes that feel straight out of the Middle Ages",
+      "why_it_is_special": "The quarter of the Renaissance merchants and the Capitouls (former city rulers); a photographer's dream of hidden courtyards and quiet elegance",
+      "source_url": "https://www.toulouse-tourisme.com/a-voir-a-faire/les-quartiers-a-visiter"
+    },
+    {
+      "name": "Saint-Cyprien",
+      "character": "Village-like left-bank neighbourhood with a cosmopolitan, bohemian vibe",
+      "what_to_do_there": "Explore the Abattoirs modern-art museum, shop at the original covered market, walk along the Garonne riverbanks, and end with cocktails at a local bar",
+      "why_it_is_special": "Toulouse's oldest cemetery (Rapas), the iconic Hôpital de la Grave dome, and a thriving food scene make it the city's hottest left-bank district",
+      "source_url": "https://www.barnes-toulouse.com/en/sectors-of-toulouse/saint-cyprien-8"
+    },
+    {
+      "name": "Arnaud-Bernard",
+      "character": "Multicultural, lively quarter packed into just 4 hectares north of the centre",
+      "what_to_do_there": "Visit the Basilique Saint-Sernin (UNESCO), browse the small-producers' market, and discover jasmine-lined pavements and a secret public garden",
+      "why_it_is_special": "A historic gateway — once the Porte Royale where kings received the city's keys — with layers of Italian, Spanish and North African heritage and the tiny Théâtre du Fil à Plomb",
+      "source_url": "https://www.toulouse-tourisme.com/en/agenda/petites-histoires-de-quartier-arnaud-bernard"
+    },
+    {
+      "name": "Capitole / Saint-Georges",
+      "character": "Grand civic heart of Toulouse, buzzing with café terraces and pink-brick elegance",
+      "what_to_do_there": "Admire the Place du Capitole and its painted ceilings, visit the Jacobin Convent, and linger on the restaurant-lined Place Saint-Georges",
+      "why_it_is_special": "The monumental square is the symbolic centre of the \"Ville Rose\"; the surrounding pedestrian streets lead to the Daurade basilica and the Pont Neuf with Garonne views",
+      "source_url": "https://www.toulouse-tourisme.com/a-voir-a-faire/les-quartiers-a-visiter"
+    }
+  ],
+  "entities": [
+    {
+      "id": "5a75831b-28aa-43a9-81ab-2ecc12785c9e",
+      "name": "Carmes",
+      "entity_type": "Location",
+      "mentions": [
+        "Les Carmes"
+      ]
+    },
+    {
+      "id": "560a56dd-63e6-436f-a551-5bdbc56123c9",
+      "name": "Garonne",
+      "entity_type": "Location",
+      "mentions": [
+        "Garonne"
+      ]
+    },
+    {
+      "id": "7ac20f3a-bccf-4b71-abed-e84014bd5cf5",
+      "name": "Hôtel du Vieux-Raisin",
+      "entity_type": "Facility",
+      "mentions": [
+        "Hôtel du Vieux-Raisin"
+      ]
+    },
+    {
+      "id": "df0875aa-0e02-4cf8-9586-c11f1a1506b2",
+      "name": "Miss Van",
+      "entity_type": "Person",
+      "mentions": [
+        "Miss Van"
+      ]
+    },
+    {
+      "id": "ca1088ec-4bd4-4bf2-acd2-aaf250625a1b",
+      "name": "Saint-Étienne",
+      "entity_type": "Location",
+      "mentions": [
+        "Saint-Étienne"
+      ]
+    },
+    {
+      "id": "d0208120-4b26-4aa6-9250-df55f5257ce0",
+      "name": "Cathédrale Saint-Étienne",
+      "entity_type": "Facility",
+      "mentions": [
+        "Cathédrale Saint-Étienne"
+      ]
+    },
+    {
+      "id": "c1fec8ad-0f1c-4002-bb18-fe4c8b12560f",
+      "name": "Place Saint-Étienne",
+      "entity_type": "Facility",
+      "mentions": [
+        "Place Saint-Étienne"
+      ]
+    },
+    {
+      "id": "49e798d0-38a4-41a8-bb03-0ca93cf8bef0",
+      "name": "Saint-Cyprien",
+      "entity_type": "Location",
+      "mentions": [
+        "Saint-Cyprien"
+      ]
+    },
+    {
+      "id": "9053c36c-545d-430f-8287-54c3de3959df",
+      "name": "Abattoirs",
+      "entity_type": "Organization",
+      "mentions": [
+        "Abattoirs"
+      ]
+    },
+    {
+      "id": "de921f4a-3299-43d1-a34b-0d34d5c51e77",
+      "name": "Rapas",
+      "entity_type": "Facility",
+      "mentions": [
+        "Rapas"
+      ]
+    },
+    {
+      "id": "7fa5fcc8-55be-4ac3-982f-9cde4d49bcf0",
+      "name": "Hôpital de la Grave",
+      "entity_type": "Facility",
+      "mentions": [
+        "Hôpital de la Grave"
+      ]
+    },
+    {
+      "id": "f59b67ad-00bc-418a-af00-3af506798cdf",
+      "name": "Arnaud-Bernard",
+      "entity_type": "Location",
+      "mentions": [
+        "Arnaud-Bernard"
+      ]
+    },
+    {
+      "id": "9b402703-bd7e-4781-8fa5-8ed195ce9322",
+      "name": "Théâtre du Fil à Plomb",
+      "entity_type": "Facility",
+      "mentions": [
+        "Théâtre du Fil à Plomb"
+      ]
+    },
+    {
+      "id": "5951bcb7-1008-41dc-bc05-c321f6cc7a29",
+      "name": "Place du Capitole",
+      "entity_type": "Facility",
+      "mentions": [
+        "Place du Capitole"
+      ]
+    },
+    {
+      "id": "7bd88675-8e15-49bb-beac-22c5a07d8324",
+      "name": "Couvent des Jacobins",
+      "entity_type": "Facility",
+      "mentions": [
+        "Jacobin Convent"
+      ]
+    },
+    {
+      "id": "2de24720-c3e8-4ad1-a3b2-04b8cb2a3366",
+      "name": "Daurade basilica",
+      "entity_type": "Facility",
+      "mentions": [
+        "Daurade basilica"
+      ]
+    },
+    {
+      "id": "82c30693-80d7-483c-bd20-c0b5f1118d61",
+      "name": "Pont Neuf",
+      "entity_type": "Facility",
+      "mentions": [
+        "Pont Neuf"
+      ]
+    },
+    {
+      "id": "c3962261-6e53-496a-8556-8acd52d1f254",
+      "name": "foodandtravel.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "foodandtravel.com"
+      ]
+    },
+    {
+      "id": "13673ddd-57c3-42b2-bd88-7c183522a708",
+      "name": "toulouse-tourisme.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "toulouse-tourisme.com"
+      ]
+    },
+    {
+      "id": "8fbd0e82-e3c2-4f57-9f56-14fb4be2e57b",
+      "name": "barnes-toulouse.com",
+      "entity_type": "Organization",
+      "mentions": [
+        "barnes-toulouse.com"
+      ]
+    }
+  ]
+}

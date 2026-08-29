@@ -1,0 +1,222 @@
+{
+  "city": "valencia",
+  "model": "gpt-5.6-luna",
+  "entries": [
+    {
+      "name": "Paella Valenciana",
+      "entity_id": "2d474209-bfa2-40f4-a216-dd679520a60e",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I ate Paella Valenciana at Casa Carmela in La Malvarrosa, where the pan was cooked over an open wood fire. The rice arrived with a gentle smokiness and a browned, crisp socarrat at the edges. Around the tables, conversation moved easily between courses, while the sea air drifted in from the Poblats Marítims. It was a meal best approached slowly, with little need for embellishment."
+    },
+    {
+      "name": "Horchata con Fartons",
+      "entity_id": "b63d5860-f908-41cd-85c0-43abadbdf184",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I went out to Alboraya for horchata at Horchatería Daniel, where the Avenida de la Horchata felt quieter than central Valencia. The drink was cool, pale, and gently earthy from locally grown tiger nuts, with a sweetness that stayed restrained. I dipped the soft, sugar-glazed fartons into it and lingered over the simple pairing. Daniel has been making it since 1949; the room carried that continuity without ceremony."
+    },
+    {
+      "name": "Fideuà",
+      "entity_id": "2cdbfafd-56b7-4ac7-88a7-f599e8558600",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I ate fideuà at Goya Gallery in L’Eixample, where the room carried the easy rhythm of a long-established neighbourhood restaurant. The noodles were lightly toasted, folded through with seafood and a savoury, browned edge that held their texture. Around me, conversation stayed low and unhurried. It was a pleasing way to encounter a Valencian dish without making too much ceremony of it."
+    },
+    {
+      "name": "All i Pebre",
+      "entity_id": "6798e134-db3a-4aa3-98fd-a001250ea3f0",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I ate all i pebre in El Palmar, within the Albufera Natural Park, where the dish’s setting felt inseparable from its ingredients. The stew arrived dark with paprika, fragrant with garlic, and tender with eel; local rice and vegetables accompanied it quietly. Outside, the flat landscape held its light over the water. It was a measured, generous meal, rooted in the fishing villages around the lake."
+    },
+    {
+      "name": "Esgarraet",
+      "entity_id": "a85e6a05-b7d1-4d76-a3c7-ba2d30169668",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "In El Cabanyal, I stopped at Casa Montaña for esgarraet, taking a small table where the room carried the quiet clink of glasses and conversation. The salt cod had been pulled into fine strands among smoky roasted red peppers, all softened by olive oil. With vermouth beside it, the dish felt coastal and unforced—something to linger over rather than explain."
+    },
+    {
+      "name": "La Lonja de la Seda (Silk Exchange)",
+      "entity_id": "adf0f2ee-d06c-4dc9-ac8c-d0bf40bd98b9",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I wandered through La Lonja de la Seda in Ciutat Vella, where the former silk trading hall opened into a sequence of cool, carefully proportioned spaces. The late-Gothic stonework felt measured rather than showy: slender columns, ribbed ceilings, and the softened sound of footsteps across the floor. Outside, Valencia continued at its usual pace, while inside the building held its quiet connection to commerce and craft."
+    },
+    {
+      "name": "City of Arts and Sciences – Science Museum (Museu de les Ciències)",
+      "entity_id": "6c767c87-bb45-4e7a-a82b-3ba88ba71fc9",
+      "entity_type": "Organization",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent part of the afternoon at the Museu de les Ciències in the Jardín del Turia, moving quietly between displays on the human body, space, robotics, and physics. The interactive exhibits invited a little hands-on attention without demanding it. Outside, Calatrava’s pale, whale-skeleton-like structure caught the late light, while the surrounding gardens softened its futuristic lines."
+    },
+    {
+      "name": "Valencia Cathedral & Micalet Bell Tower",
+      "entity_id": "1adb38be-c6ae-47c2-8741-68244065c4f6",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I paused in Plaza de la Reina before entering Valencia Cathedral, noticing how Gothic lines gave way to quieter Romanesque and Baroque details. The Micalet’s stairway narrowed as I climbed, with cool stone underfoot and bells resting above the city. From the top, Ciutat Vella spread out in pale roofs and church domes, while the square below softened into a distant murmur."
+    },
+    {
+      "name": "IVAM (Institut Valencià d'Art Modern)",
+      "entity_id": "225d2bc2-40a6-4e92-927c-cd15431b116c",
+      "entity_type": "Organization",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet part of the afternoon at IVAM, in El Carmen, moving through its modern and contemporary galleries without trying to take everything in. The museum, opened in 1989, felt measured rather than imposing. Outside, Ciutat Vella carried its usual murmur; inside, footsteps softened on the floor and the changing light settled across the walls. Valencia’s cultural life seemed present without needing to announce itself."
+    },
+    {
+      "name": "National Museum of Ceramics – Marqués de Dos Aguas Palace",
+      "entity_id": "86ec8c36-8807-4d7e-8cda-e8c12eca09cd",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet part of the afternoon in Ciutat Vella at the National Museum of Ceramics, entering beneath the Marqués de Dos Aguas Palace’s elaborate alabaster façade. Inside, the period rooms held their polished stillness, while cases of ceramics drew attention through small shifts in glaze, colour, and form. The palace and collection seemed to converse without needing much explanation."
+    },
+    {
+      "name": "Jardines de Viveros (Jardines del Real)",
+      "entity_id": null,
+      "entity_type": null,
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I walked through the Jardines de Viveros, where the paths moved between geometric beds, sculptures, and flower-covered arches. The pond held a pale reflection of the surrounding trees, while footsteps and distant city sounds softened beneath the foliage. I paused for a simple picnic, then continued at an easy pace, letting the park’s layers—from royal gardens to public space—remain quietly present."
+    },
+    {
+      "name": "Jardín del Turia (Turia Gardens)",
+      "entity_id": null,
+      "entity_type": null,
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I walked along the Jardín del Turia in the late afternoon, following the former riverbed beneath palms and plane trees. Cyclists passed quietly, and the city appeared in fragments through the greenery. One of the park’s historic bridges cast a long shadow across the path; farther on, the Palau de la Música sat among lawns and water. The nine-kilometre corridor made Valencia feel pleasantly unhurried."
+    },
+    {
+      "name": "Jardín Botánico de Valencia (Botanical Garden)",
+      "entity_id": null,
+      "entity_type": null,
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I wandered through Valencia’s Botanical Garden near the Torres de Quart, where six hectares softened the city into paths, shade, and measured green. Labels gave names to plants from distant climates, while the air held the faint warmth of leaves and stone. With more than 5,000 species gathered here, the garden felt less like a display than a patient conversation between cultivation and time."
+    },
+    {
+      "name": "Jardines de Monforte",
+      "entity_id": "9c519fca-1819-4ba4-bce3-7cc0896cd431",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I spent a quiet part of the afternoon walking through Jardines de Monforte in Valencia’s city centre. Neatly trimmed hedges gave the paths a measured rhythm, while ponds held small, wavering reflections beneath the statues. The garden felt composed rather than showy, its palatial character softened by shade and birdsong. I took a few photographs, then lingered without needing to fill the silence."
+    },
+    {
+      "name": "L'Albufera Natural Park",
+      "entity_id": "4f25f370-5c63-45d7-a613-daaf1cca6b75",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I took a quiet boat ride across L’Albufera, about 10 km south of Valencia. The lagoon lay broad and still, with reeds marking the edges and birds moving low over the wetland. Later, I walked among the dunes at El Saler, where the air carried salt and pine. In El Palmar, paella seemed a natural continuation of the landscape rather than an event."
+    },
+    {
+      "name": "Sierra Calderona Natural Park",
+      "entity_id": "234b5d4e-001e-4fa2-9a4b-e1d529823ce0",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I spent a quiet day walking one of the marked trails in Sierra Calderona, about 30 kilometres north of Valencia. Pine and cork-oak shaded the path, while ravines opened briefly between the trees. From El Garbí, the Gulf of Valencia lay pale in the distance. A few birds moved above the slopes, and the park’s stillness made the city feel pleasantly remote."
+    },
+    {
+      "name": "Malvarrosa Beach",
+      "entity_id": "98fc99b0-7309-4e91-9006-4b3181edc792",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I walked along Malvarrosa Beach in the late afternoon, following the 1.3-kilometre stretch of golden sand beside Valencia’s seafront. The water stayed calm near the shore, while paddleboarders and windsurfers moved through the dedicated channel. Behind me, the promenade carried the low murmur of restaurants and passing bicycles. I lingered a while, watching the light soften over the urban shoreline."
+    },
+    {
+      "name": "Montanejos Hot Springs (Fuente de los Baños)",
+      "entity_id": "42502f57-f037-4252-b198-d0b930b23623",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I took the roughly 75-minute journey from Valencia to Montanejos and spent the afternoon in the natural pools at Fuente de los Baños. The water held its steady 25°C, pleasant against the cooler air in the river gorge. Later, I followed the path towards the Salto de la Novia waterfall, with water sounds carrying between the rock walls. The day felt quietly complete."
+    },
+    {
+      "name": "Bocairent & Covetes dels Moros + El Pou Clar",
+      "entity_id": "92c658b2-da2c-4b43-a9d9-55648eb4051e",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I spent the day among Bocairent’s medieval lanes, then followed the cliff to the Covetes dels Moros. Around fifty small openings punctuated the pale rock, their interiors cool and quiet beneath the sun. Later, at El Pou Clar near Ontinyent, I swam in the clear natural pools, listening to water move over stone. The journey back to Valencia felt pleasantly unhurried."
+    },
+    {
+      "name": "Ruzafa",
+      "entity_id": "859ed1b7-e8bd-405a-8674-e35525469e4a",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I spent a slow morning in Ruzafa, moving between vintage clothing shops and small galleries along its narrow streets. The neighbourhood carried an easy, mixed rhythm: scooters passing, café conversations drifting outward, and the occasional clatter from Mercado de Ruzafa. Later, I stopped for a vegetable lunch and watched the street settle into its afternoon light, without needing to hurry anywhere."
+    },
+    {
+      "name": "El Cabanyal",
+      "entity_id": "39ec0cb4-cd16-4a5c-bf06-a5f079c7bc80",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered El Cabanyal’s low-rise streets, following their quiet lines towards the beach. Ceramic-tiled façades caught the afternoon light in small, irregular flashes, while the smell of salt lingered beyond the houses. At Bodega La Pascuala, I sat with a hearty menú del día as conversations moved easily around me. The former fishermen’s quarter felt proud, lived-in, and unhurried."
+    },
+    {
+      "name": "El Carmen",
+      "entity_id": "62b356cc-bb1a-5e97-8570-131778d0d2cd",
+      "entity_type": "Municipality",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through El Carmen’s narrow lanes in Valencia, where the medieval street plan opened onto small plazas and walls marked by vivid murals. The Torres de Serranos stood at one edge of the neighbourhood, while the cathedral and La Lonja de la Seda appeared between turns. Near aperitivo hour, glasses and quiet conversation gathered outside the bars. Later, the lanes grew livelier without losing their worn, everyday character."
+    },
+    {
+      "name": "El Botànic",
+      "entity_id": "c7963d77-357d-44dd-9b13-9f4bb42c503e",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through the Jardí Botànic in El Botànic, moving slowly between shaded paths and the humid glasshouses. Outside, the neighbourhood kept its residential rhythm: shutters, bicycles, and quiet conversation drifting from a café terrace on Carrer Quart. The Torres de Quart rose nearby, weathered and substantial, while the garden held a softer atmosphere between the old town and the Turia gardens."
+    },
+    {
+      "name": "Benimaclet",
+      "entity_id": "6e3996b6-5293-4bcb-91af-1ecb09c00a57",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through Benimaclet on a quiet afternoon, where the university nearby lent the streets an easy, mixed rhythm. At La Casa de Trencadís, small mosaic pieces caught the light across the Gaudí-inspired façade. Later, I browsed illustrated books at Estudio 64 and paused for a craft beer nearby. Conversations drifted from cafés, while community notices and painted shutters gave the neighbourhood its own steady character."
+    }
+  ]
+}

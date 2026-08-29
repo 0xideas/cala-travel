@@ -1,0 +1,206 @@
+{
+  "results": [
+    {
+      "name": "Jardin des Plantes",
+      "recommendation_type": "City park / Botanical garden",
+      "locality": "Toulouse centre (Allée Frédéric Mistral)",
+      "principal_activities": "Strolling, botanical discovery, picnicking",
+      "why_it_is_special": "An ancient botanical garden created in 1794 by naturalist Philippe Picot de Lapeyrouse, originally for medical students to study medicinal plants. Offers remarkable trees, themed botanical squares, and seasonal collections.",
+      "source_url": "https://www.toulouse-tourisme.com/en/activite/jardin-des-plantes"
+    },
+    {
+      "name": "Jardin Japonais Pierre-Baudis (Jardin Compans-Caffarelli)",
+      "recommendation_type": "City park / Zen garden",
+      "locality": "Toulouse centre (Boulevard Lascrosses / Boulevard de la Marquette)",
+      "principal_activities": "Contemplative walks, photography, relaxation",
+      "why_it_is_special": "A tranquil Japanese-inspired garden inside the Compans-Caffarelli park featuring a Zen rock garden, Buddhist statues, a tea pavilion, a red bridge, a dragon sculpture, and a shimmering lake — a surprising oasis of exoticism near the old city ramparts.",
+      "source_url": "https://trip101.com/article/jardin-japonais-toulouse"
+    },
+    {
+      "name": "Prairie des Filtres",
+      "recommendation_type": "Riverside green space",
+      "locality": "Toulouse centre (left bank of the Garonne, between Pont Neuf and Pont Saint-Michel)",
+      "principal_activities": "Picnicking, riverside walking, summer \"Toulouse Plage\" beach, open-air festivals",
+      "why_it_is_special": "One of the most popular green spaces in the city, stretching along the Garonne with magnificent views of the river and the pink-brick quays of Tounis. Named after the historic water-filtering system that once supplied Toulouse's fountains. Hosts the Rio Loco world-music festival each June.",
+      "source_url": "https://www.toulouse-tourisme.com/en/activite/prairie-des-filtres"
+    },
+    {
+      "name": "Canal du Midi towpath",
+      "recommendation_type": "UNESCO heritage trail",
+      "locality": "Starts in Toulouse centre, extends southeast toward Avignonet-Lauragais and beyond",
+      "principal_activities": "Cycling, walking, jogging, boat cruises",
+      "why_it_is_special": "A UNESCO World Heritage waterway lined with plane trees. A 50 km flat, car-free greenway runs from Toulouse to Avignonet-Lauragais on the old towpath — ideal for a half-day or full-day cycling outing. Shorter strolls along the canal within the city are equally rewarding.",
+      "source_url": "https://www.toulouse-tourisme.com/en/cycling-on-the-canal-du-midi"
+    },
+    {
+      "name": "Base de Loisirs de La Ramée",
+      "recommendation_type": "Lakeside leisure park",
+      "locality": "Tournefeuille (≈ 10 km west of Toulouse centre)",
+      "principal_activities": "Walking, swimming (summer beach), paddle sports, picnicking, golf",
+      "why_it_is_special": "A 243-hectare outdoor recreation area built around a 44-hectare lake fed by the Canal de Saint-Martory. Includes woodland, play areas, and a public beach with fine sand in summer — a quick escape from the city accessible by bus.",
+      "source_url": "https://www.toulouse-tourisme.com/activite/base-de-sports-et-de-loisirs-de-la-ramee"
+    },
+    {
+      "name": "Lac du Bocage",
+      "recommendation_type": "Lakeside nature area",
+      "locality": "≈ 10 km from Toulouse centre",
+      "principal_activities": "Trail walking, water sports, tennis, picnicking",
+      "why_it_is_special": "A green setting offering trails, water activities, and sports courts — an easy half-day outing from the city centre.",
+      "source_url": "https://www.toulouse-tourisme.com/en/activite/lac-du-bocage"
+    },
+    {
+      "name": "Lac d'Oô hike (Pyrenees)",
+      "recommendation_type": "Mountain day hike",
+      "locality": "Granges d'Astau, near Bagnères-de-Luchon (≈ 2 h drive south of Toulouse)",
+      "principal_activities": "Hiking, swimming in a mountain lake, picnicking",
+      "why_it_is_special": "A gentle 6.6 km round-trip hike with about 440 m elevation gain, rated easy-to-moderate and suitable for families. Ends at a stunning mountain lake with a waterfall — the most popular nature destination in the Haute-Garonne Pyrenees. Allow 2½–3 hours for the walk.",
+      "source_url": "https://www.pyrenees31.com/en/inspiration/hike-to-lac-doo"
+    },
+    {
+      "name": "Balnéa Spa & Paragliding (Loudenville valley, Pyrenees)",
+      "recommendation_type": "Mountain wellness & adventure",
+      "locality": "Valley of Loudenville (≈ 2 h south of Toulouse)",
+      "principal_activities": "Outdoor thermal pools, indoor spa, tandem paragliding",
+      "why_it_is_special": "An open-air spa complex with indoor and outdoor pools set against a dramatic Pyrenean mountain backdrop. The same valley is home to paragliding operators offering tandem flights — combine relaxation with an aerial adventure in a single day trip.",
+      "source_url": "https://elonthemove.com/top-10-day-trips-from-toulouse"
+    }
+  ],
+  "entities": [
+    {
+      "id": "78365d30-1991-4eaa-8a76-29a412982b94",
+      "name": "Jardin des Plantes",
+      "entity_type": "Facility",
+      "mentions": [
+        "Jardin des Plantes"
+      ]
+    },
+    {
+      "id": "f1b4ddf9-d84b-4e2d-a89d-d1ff70f942c6",
+      "name": "Philippe Picot de Lapeyrouse",
+      "entity_type": "Person",
+      "mentions": [
+        "Philippe Picot de Lapeyrouse"
+      ]
+    },
+    {
+      "id": "a7fe614a-87db-4dc8-b7d6-26cd6364b9ad",
+      "name": "Jardin Japonais Pierre-Baudis",
+      "entity_type": "Facility",
+      "mentions": [
+        "Jardin Japonais Pierre-Baudis"
+      ]
+    },
+    {
+      "id": "560a56dd-63e6-436f-a551-5bdbc56123c9",
+      "name": "Garonne",
+      "entity_type": "Location",
+      "mentions": [
+        "Garonne"
+      ]
+    },
+    {
+      "id": "82c30693-80d7-483c-bd20-c0b5f1118d61",
+      "name": "Pont Neuf",
+      "entity_type": "Facility",
+      "mentions": [
+        "Pont Neuf"
+      ]
+    },
+    {
+      "id": "3dc920bc-cf1c-4b0c-8803-8ac1975efd05",
+      "name": "Pont Saint-Michel",
+      "entity_type": "Facility",
+      "mentions": [
+        "Pont Saint-Michel"
+      ]
+    },
+    {
+      "id": "557bc025-82b5-4112-9ac4-e3fe19ce22a2",
+      "name": "Canal du Midi",
+      "entity_type": "Facility",
+      "mentions": [
+        "Canal du Midi"
+      ]
+    },
+    {
+      "id": "8e8ad284-b92a-5d55-b205-ba49d4d0a9ea",
+      "name": "Avignonet-Lauragais",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Avignonet-Lauragais"
+      ]
+    },
+    {
+      "id": "03c5f0aa-9f13-59a9-a00f-51e737b182f2",
+      "name": "Tournefeuille",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Tournefeuille"
+      ]
+    },
+    {
+      "id": "fbb88155-d3cd-4124-b158-e41a99c5db3f",
+      "name": "Canal de Saint-Martory",
+      "entity_type": "Facility",
+      "mentions": [
+        "Canal de Saint-Martory"
+      ]
+    },
+    {
+      "id": "5cc0ca68-299b-4378-b2f9-d300e887e36f",
+      "name": "Lac du Bocage",
+      "entity_type": "Location",
+      "mentions": [
+        "Lac du Bocage"
+      ]
+    },
+    {
+      "id": "90a94086-afaa-47f2-b7f6-0d950b4dbf2a",
+      "name": "Lac d'Oô",
+      "entity_type": "Location",
+      "mentions": [
+        "Lac d'Oô"
+      ]
+    },
+    {
+      "id": "2fd9db1e-7001-5315-847a-f39c52803eb8",
+      "name": "Bagnères-de-Luchon",
+      "entity_type": "Municipality",
+      "mentions": [
+        "Bagnères-de-Luchon"
+      ]
+    },
+    {
+      "id": "94dc46f7-e4a3-40bb-a939-71cc0e0c147c",
+      "name": "Haute-Garonne",
+      "entity_type": "CountrySubdivision",
+      "mentions": [
+        "Haute-Garonne"
+      ]
+    },
+    {
+      "id": "869da78d-f741-42cc-b913-64828fc144e7",
+      "name": "Pyrenees",
+      "entity_type": "Location",
+      "mentions": [
+        "Pyrenees"
+      ]
+    },
+    {
+      "id": "8087ee7e-df94-4d10-80db-7624b2eb6848",
+      "name": "Balnéa Spa & Paragliding",
+      "entity_type": "Facility",
+      "mentions": [
+        "Balnéa Spa & Paragliding"
+      ]
+    },
+    {
+      "id": "9f4ec447-c737-4403-9e8d-20ce46de66a2",
+      "name": "Loudenville valley",
+      "entity_type": "Location",
+      "mentions": [
+        "Loudenville valley"
+      ]
+    }
+  ]
+}
