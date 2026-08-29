@@ -1,0 +1,95 @@
+{
+  "results": [
+    {
+      "name": "Serra da Arrábida Natural Park",
+      "locality": "Setúbal / Sesimbra",
+      "attraction_type": "Coastal natural park (limestone cliffs & Mediterranean forest)",
+      "approximate_distance_km": "~40 km south",
+      "approximate_travel_time": "~40–50 min by car",
+      "principal_activities": "Hiking, secluded beaches (Portinho da Arrábida, Praia dos Coelhos, Praia de Galapinhos), snorkelling, scuba diving, kayaking, dolphin watching, wine tasting (Moscatel de Setúbal)",
+      "source_url": "discover-portugal.com"
+    },
+    {
+      "name": "Cabo da Roca",
+      "locality": "Colares, Sintra",
+      "attraction_type": "Sea cliffs / westernmost point of continental Europe",
+      "approximate_distance_km": "~40 km west",
+      "approximate_travel_time": "~50–60 min by car; ~1 h 20 min by bus via Sintra",
+      "principal_activities": "Cliff-top walks, panoramic Atlantic views, sunset watching, photography, lighthouse visit",
+      "source_url": "travelingwithaga.com"
+    },
+    {
+      "name": "Praia do Guincho",
+      "locality": "Cascais (Sintra-Cascais Natural Park)",
+      "attraction_type": "Wild Atlantic beach & dunes",
+      "approximate_distance_km": "~35 km west",
+      "approximate_travel_time": "~40 min by car",
+      "principal_activities": "Surfing, kitesurfing, windsurfing, beach walks, birdwatching in surrounding dunes",
+      "source_url": "sintra-portugal.com"
+    },
+    {
+      "name": "Praia da Adraga",
+      "locality": "Almoçageme, Sintra (Sintra-Cascais Natural Park)",
+      "attraction_type": "Cliff-backed beach with rock formations",
+      "approximate_distance_km": "~40 km northwest",
+      "approximate_travel_time": "~45 min by car",
+      "principal_activities": "Swimming, coastal walks among sea stacks, photography, rock-pool exploration",
+      "source_url": "sintra-portugal.com"
+    },
+    {
+      "name": "Praia da Ursa",
+      "locality": "Cabo da Roca area, Sintra",
+      "attraction_type": "Remote wild beach (steep trail access)",
+      "approximate_distance_km": "~42 km west",
+      "approximate_travel_time": "~50 min by car + 20 min hike down",
+      "principal_activities": "Hiking (steep cliff trail), wild swimming, dramatic rock-formation viewing",
+      "source_url": "discover-portugal.com"
+    },
+    {
+      "name": "Serra de Sintra forests (Sintra-Cascais Natural Park)",
+      "locality": "Sintra",
+      "attraction_type": "Temperate rainforest & mountain trails",
+      "approximate_distance_km": "~30 km northwest",
+      "approximate_travel_time": "~40 min by train or car",
+      "principal_activities": "Forest hiking, trail running, visiting the Capuchos Convent (cork-lined hermitage in the woods), birdwatching",
+      "source_url": "lonelyplanet.com"
+    },
+    {
+      "name": "Berlengas Islands (UNESCO Biosphere Reserve)",
+      "locality": "Off Peniche",
+      "attraction_type": "Volcanic island archipelago & marine reserve",
+      "approximate_distance_km": "~100 km north (Peniche) + 10 km boat",
+      "approximate_travel_time": "~1 h 20 min drive to Peniche + 30 min boat",
+      "principal_activities": "Hiking to lighthouse, snorkelling, diving, kayaking through sea caves, birdwatching (seabird colonies), visiting São João Baptista fortress",
+      "source_url": "roughguides.com"
+    },
+    {
+      "name": "Cabo Espichel",
+      "locality": "Sesimbra",
+      "attraction_type": "Fossil cliffs & wild headland",
+      "approximate_distance_km": "~45 km south",
+      "approximate_travel_time": "~50 min by car",
+      "principal_activities": "Dinosaur-footprint fossil viewing, cliff walks, dramatic coastal scenery, photography",
+      "source_url": "nowinportugal.com"
+    },
+    {
+      "name": "Costa da Caparica beaches",
+      "locality": "Almada",
+      "attraction_type": "Long Atlantic beach strip backed by dunes & pine forest",
+      "approximate_distance_km": "~15 km south",
+      "approximate_travel_time": "~25–30 min by car/bus",
+      "principal_activities": "Beach-going, surfing, coastal dune walks, beach-hopping by mini-train along the coast",
+      "source_url": "getyourguide.com"
+    },
+    {
+      "name": "Lagoa de Albufeira",
+      "locality": "Sesimbra",
+      "attraction_type": "Coastal lagoon connected to the sea",
+      "approximate_distance_km": "~35 km south",
+      "approximate_travel_time": "~40 min by car",
+      "principal_activities": "Lagoon swimming, windsurfing, stand-up paddleboarding, birdwatching, beach walks",
+      "source_url": "portugalthings.com"
+    }
+  ],
+  "entities": null
+}

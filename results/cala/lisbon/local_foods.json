@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "name": "Pastel de Nata",
+      "category": "Pastry/Dessert",
+      "locality": "Lisbon (Belém district)",
+      "short_description": "Warm, flaky custard tart, iconic sweet treat of Lisbon, originally created by monks in Belém.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Ginjinha",
+      "category": "Liqueur/Drink",
+      "locality": "Lisbon",
+      "short_description": "Cherry liqueur made by steeping ginja berries in aguardente, a traditional Lisbon aperitif.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Bifana",
+      "category": "Sandwich",
+      "locality": "Lisbon",
+      "short_description": "Portuguese pork sandwich, often served hot in Lisbon taverns such as Bifanas do Afonso.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Ameijoas à Bulhão Pato",
+      "category": "Seafood/Appetizer",
+      "locality": "Lisbon",
+      "short_description": "Fresh clams cooked in white wine, garlic, and cilantro; a classic dish that originated in Lisbon.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Bacalhau à Brás",
+      "category": "Main (Cod)",
+      "locality": "Lisbon",
+      "short_description": "Shredded cod mixed with onions, fried potatoes, and eggs, a beloved cod dish in Lisbon.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Grilled Sardines",
+      "category": "Seafood/Main",
+      "locality": "Lisbon",
+      "short_description": "Grilled sardines, a traditional Portuguese dish and defining part of Lisbon’s culinary culture.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Octopus à Lagareiro",
+      "category": "Seafood/Main",
+      "locality": "Lisbon",
+      "short_description": "Octopus roasted with olive oil, garlic, and potatoes, featured among Lisbon’s top dishes.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Arroz de Marisco",
+      "category": "Seafood Rice",
+      "locality": "Lisbon",
+      "short_description": "Hearty rice cooked with a variety of fresh seafood, a staple of Lisbon’s coastal cuisine.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    },
+    {
+      "name": "Bacalhau com Natas",
+      "category": "Main (Cod with Cream)",
+      "locality": "Lisbon",
+      "short_description": "Baked cod with creamy béchamel sauce, often served with shrimp, popular in Lisbon restaurants.",
+      "strength_of_local_association": "High",
+      "source_url": null
+    }
+  ],
+  "entities": null
+}

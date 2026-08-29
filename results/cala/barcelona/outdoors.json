@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "name": "Park Güell",
+      "recommendation_type": "City park / Gaudí landmark",
+      "locality": "Gràcia, Barcelona",
+      "principal_activities": "Strolling mosaic-covered terraces, photography, panoramic city views",
+      "why_it_is_special": "A UNESCO-listed Gaudí masterpiece set on a hillside with sweeping 360° views of Barcelona and the sea from Turó de les Tres Creus",
+      "source_url": "https://mappingmegan.com/best-views-in-barcelona"
+    },
+    {
+      "name": "Collserola Natural Park",
+      "recommendation_type": "Urban natural park",
+      "locality": "Tibidabo / Serra de Collserola, Barcelona",
+      "principal_activities": "Hiking, trail running, forest walks, birdwatching",
+      "why_it_is_special": "Barcelona's green lung — miles of forested trails on the city's northern ridge, reaching 575 m at Tibidabo, with multiple free natural viewpoints",
+      "source_url": "https://www.tripsavvy.com/things-to-do-in-tibidabo-barcelona-1642817"
+    },
+    {
+      "name": "Montjuïc Hill & Gardens",
+      "recommendation_type": "Hill / botanical gardens",
+      "locality": "Montjuïc, Barcelona",
+      "principal_activities": "Garden walks, cable-car rides, castle visit, cycling",
+      "why_it_is_special": "A chain of themed gardens (Mossèn Costa i Llobera cactus garden, Mossèn Cinto Verdaguer water garden, Joan Brossa woodland walk) plus the Botanical Garden specialising in Mediterranean-climate plants, all linked by paths with harbour and city views",
+      "source_url": "https://gardentrip.co.uk/2019/09/16/a-journey-through-the-gardens-of-montj"
+    },
+    {
+      "name": "Barcelona Botanical Garden",
+      "recommendation_type": "Botanical garden",
+      "locality": "Montjuïc, Barcelona",
+      "principal_activities": "Guided and self-guided botanical walks, photography",
+      "why_it_is_special": "Opened in 1999 on Montjuïc between the Olympic Stadium and the castle; showcases flora from five Mediterranean-climate regions (Australia, Chile, California, South Africa, and the Mediterranean basin)",
+      "source_url": "https://barcelonahacks.com/barcelona-botanical-garden"
+    },
+    {
+      "name": "Barceloneta Beach & Passeig Marítim",
+      "recommendation_type": "Urban beach",
+      "locality": "La Barceloneta, Barcelona",
+      "principal_activities": "Swimming, sunbathing, beach volleyball, seaside promenade walks",
+      "why_it_is_special": "The city's most iconic beach, steps from the old town; the seafront promenade stretches north past Platja del Bogatell for a relaxed coastal walk",
+      "source_url": "https://lonelyplanet.com/articles/best-beaches-near-barcelona-train"
+    },
+    {
+      "name": "Montserrat Natural Park",
+      "recommendation_type": "Mountain / monastery day trip",
+      "locality": "Montserrat (≈ 1 h from Barcelona)",
+      "principal_activities": "Easy hiking, monastery visit, scenic cable-car or cog-wheel ride",
+      "why_it_is_special": "Dramatic serrated rock formations crowned by a Benedictine monastery; gentle downhill trails through the natural park offer stunning views, and visitors can see the Black Madonna (La Moreneta), patron saint of Catalonia",
+      "source_url": "https://www.getyourguide.com/barcelona-l45/barcelona-montserrat-monastery-and-natural-park-day-trip-t35793"
+    },
+    {
+      "name": "Sitges",
+      "recommendation_type": "Coastal town day trip",
+      "locality": "Sitges (≈ 30–40 min by train)",
+      "principal_activities": "Beach swimming, 3 km seaside promenade walk, old-town exploring",
+      "why_it_is_special": "A charming Mediterranean beach town reachable by a quick R2 Sud train; 17 beaches, a palm-lined Passeig Marítim with constant sea views, and a picturesque old quarter with the clifftop Church of Sant Bartomeu",
+      "source_url": "https://barcelonafrommyheart.com/barcelona-to-sitges-day-trip"
+    },
+    {
+      "name": "Costa Brava (Tossa de Mar / Begur area)",
+      "recommendation_type": "Coastal nature day trip",
+      "locality": "Costa Brava (≈ 1–1.5 h north of Barcelona)",
+      "principal_activities": "Cliff-top trail walking (Camí de Ronda), snorkelling, kayaking, cove-hopping",
+      "why_it_is_special": "A 200 km stretch of rugged coastline dotted with hidden coves, medieval villages, and crystal-clear waters — ideal for combining a coastal hike with a swim in a secluded bay",
+      "source_url": "https://www.lonelyplanet.com/articles/guide-to-costa-brava-spain"
+    },
+    {
+      "name": "Parc del Garraf",
+      "recommendation_type": "Natural park day trip",
+      "locality": "Garraf (between Barcelona and Sitges)",
+      "principal_activities": "Hiking, nature photography, Mediterranean-scrub landscape",
+      "why_it_is_special": "A hilly natural park behind the coast with trails rising above the sea, offering wide Mediterranean panoramas; easily combined with a beach stop in Sitges on the same train line",
+      "source_url": "https://lonelyplanet.com/articles/best-beaches-near-barcelona-train"
+    },
+    {
+      "name": "Carretera de les Aigües",
+      "recommendation_type": "Scenic walking / running path",
+      "locality": "Collserola hillside, Barcelona",
+      "principal_activities": "Flat-grade walking, jogging, cycling",
+      "why_it_is_special": "A virtually flat path carved into the Collserola hillside above the city, offering uninterrupted views over Barcelona and the sea — a favourite of local runners and a free, easily accessible nature escape",
+      "source_url": "https://barcaguide.com/enjoying-views-of-barcelona-from-tibidabo"
+    }
+  ],
+  "entities": null
+}

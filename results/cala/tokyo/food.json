@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "name": "Monjayaki on Monja Street",
+      "recommendation_type": "Dish + Area",
+      "locality_or_neighbourhood": "Tsukishima (Chūō-ku)",
+      "why_it_is_special": "Tokyo's own savory pancake — runnier and more interactive than Osaka's okonomiyaki. Monja Street has 60+ shops where you cook it yourself on a tabletop griddle with small metal spatulas. This is the dish's birthplace and a deeply local tradition.",
+      "source_url": "https://www.getyourguide.com/explorer/tokyo-ttd193/food-in-tokyo"
+    },
+    {
+      "name": "Tsukemen at Fuunji",
+      "recommendation_type": "Dish + Restaurant",
+      "locality_or_neighbourhood": "Yoyogi / Shinjuku",
+      "why_it_is_special": "Tsukemen (dipping ramen) is a Tokyo-born style where cold noodles are dipped into a concentrated broth. Fuunji is a pivotal shop in tsukemen history, famous for its rich fish-based broth, and still draws both locals and visitors.",
+      "source_url": "https://www.5amramen.com/post/fuunji-ramen-tsukemen-shinjuku"
+    },
+    {
+      "name": "Tonkatsu at Tonki",
+      "recommendation_type": "Dish + Restaurant",
+      "locality_or_neighbourhood": "Meguro",
+      "why_it_is_special": "Operating since 1939, Tonki is one of Tokyo's most celebrated tonkatsu (deep-fried pork cutlet) institutions. The stadium-like open kitchen on the first floor is part of the experience; listed on Tabelog's Top 100 tonkatsu restaurants in Japan.",
+      "source_url": "https://www.worldofmouth.app/restaurants/tonki"
+    },
+    {
+      "name": "Edomae Sushi at Tsukiji Outer Market",
+      "recommendation_type": "Dish + Area",
+      "locality_or_neighbourhood": "Tsukiji (Chūō-ku)",
+      "why_it_is_special": "Tokyo is the birthplace of Edomae (Edo-style) sushi, and Tsukiji Outer Market remains the city's most iconic spot for early-morning sushi using the freshest seasonal seafood — especially tuna, squid, and uni.",
+      "source_url": "https://mileasia.com/japan/what-to-eat-in-japan"
+    },
+    {
+      "name": "Yakitori under the tracks at Yurakucho",
+      "recommendation_type": "Dish + Area",
+      "locality_or_neighbourhood": "Yurakucho / Ginza",
+      "why_it_is_special": "The smoky yakitori stalls tucked beneath the JR railway tracks near Yurakucho Station are a quintessential after-work Tokyo experience. Salarymen have gathered here for decades to eat charcoal-grilled chicken skewers with tare sauce and cold beer.",
+      "source_url": "https://savorjapan.com/search?township_codes=13001&restaurant_types=121"
+    },
+    {
+      "name": "Spring Tonkatsu at Maisen",
+      "recommendation_type": "Dish + Restaurant",
+      "locality_or_neighbourhood": "Aoyama / Omotesandō",
+      "why_it_is_special": "Maisen changes its cabbage variety seasonally; the spring-cabbage tonkatsu elevates an everyday dish into something special. A local favourite that reflects Tokyo's deep connection between food and seasonality.",
+      "source_url": "https://harukitravel.com/articles/tokyo-seasonal-food-guide"
+    },
+    {
+      "name": "Ramen at Konjiki Hototogisu",
+      "recommendation_type": "Dish + Restaurant",
+      "locality_or_neighbourhood": "Shinjuku",
+      "why_it_is_special": "A Michelin-recognised ramen shop known for its clam shio (salt-based) broth — a refined, umami-rich style that represents the innovative end of Tokyo's 10,000-shop ramen scene.",
+      "source_url": "https://thestandardjapan.com/food/best-ramen-tokyo"
+    },
+    {
+      "name": "Izakaya hopping in Koenji / Shimokitazawa",
+      "recommendation_type": "Experience + Area",
+      "locality_or_neighbourhood": "Koenji & Shimokitazawa (Suginami / Setagaya)",
+      "why_it_is_special": "These neighbourhoods are where locals actually eat and drink — independent restaurants, tiny izakayas, and teishoku (set-meal) shops far from the tourist trail. Reliably good, affordable, and authentically Tokyo.",
+      "source_url": "https://mileasia.com/japan/what-to-eat-in-japan"
+    },
+    {
+      "name": "Taiyaki & Dango street snacks",
+      "recommendation_type": "Dish + Area",
+      "locality_or_neighbourhood": "Asakusa / Tsukiji Outer Market",
+      "why_it_is_special": "Fish-shaped taiyaki (filled with red bean, custard, or sweet potato) and dango (rice-flour dumplings with sweet soy glaze) are classic Tokyo street sweets best enjoyed while strolling through Asakusa's temple district or Tsukiji's outer stalls.",
+      "source_url": "https://getlostinjapan.com/tokyo-street-food"
+    },
+    {
+      "name": "Depachika seasonal bento",
+      "recommendation_type": "Experience + Area",
+      "locality_or_neighbourhood": "Ginza / Shinjuku / Shibuya (department-store basements)",
+      "why_it_is_special": "Department-store basement food halls (\"depachika\") are a uniquely Japanese institution. They offer exquisite seasonal bento, wagashi, and prepared foods that rotate with the calendar — a window into how Tokyoites actually eat day-to-day.",
+      "source_url": "https://harukitravel.com/articles/tokyo-seasonal-food-guide"
+    }
+  ],
+  "entities": null
+}

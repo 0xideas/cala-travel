@@ -1,0 +1,68 @@
+{
+  "results": [
+    {
+      "name": "Mount Takao (高尾山)",
+      "locality": "Hachiōji, Tokyo",
+      "attraction_type": "Mountain / forest",
+      "approximate_distance_km": 50,
+      "approximate_travel_time": "~1 h from Shinjuku (Keio Line)",
+      "principal_activities": "Hiking (multiple trails, 2.4–3.8 km), cable car / chair lift, temple visit (Yakuo-in), autumn leaf viewing, natural hot spring",
+      "source_url": "https://www.2aussietravellers.com/mount-takao-takaosan-tokyo"
+    },
+    {
+      "name": "Mount Mitake (御岳山)",
+      "locality": "Ōme, Tokyo",
+      "attraction_type": "Mountain / valley",
+      "approximate_distance_km": 70,
+      "approximate_travel_time": "~1 h 15 min from Shinjuku (JR Chūō → Ōme Line + cable car)",
+      "principal_activities": "Hiking, Rock Garden trail (mossy rocks, waterfalls, streams), birdwatching, seasonal wildflowers",
+      "source_url": "https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-tokyo_suburbs/article-a0001729"
+    },
+    {
+      "name": "Okutama (奥多摩)",
+      "locality": "Okutama, Tokyo",
+      "attraction_type": "River gorge / lake / forest",
+      "approximate_distance_km": 80,
+      "approximate_travel_time": "~1 h 30 min – 2 h from Shinjuku (JR Chūō → Ōme Line)",
+      "principal_activities": "Hiking along Tama River gorge, Lake Okutama walks, limestone caves (Nippara), river swimming, hot springs",
+      "source_url": "https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-tokyo_suburbs/article-a0001729"
+    },
+    {
+      "name": "Hakone – Lake Ashi & Owakudani",
+      "locality": "Hakone, Kanagawa",
+      "attraction_type": "Volcanic lake / geothermal valley",
+      "approximate_distance_km": 90,
+      "approximate_travel_time": "~2 h from Shinjuku (Odakyū Romancecar to Hakone-Yumoto + local transport)",
+      "principal_activities": "Lake cruise, Hakone Ropeway with Mt. Fuji views, Owakudani volcanic valley, lakeside hiking, hot springs",
+      "source_url": "https://www.klook.com/en-NZ/destination/p50301610-lake-ashi"
+    },
+    {
+      "name": "Lake Kawaguchiko (河口湖) – Fuji Five Lakes",
+      "locality": "Fujikawaguchiko, Yamanashi",
+      "attraction_type": "Lake / volcanic landscape",
+      "approximate_distance_km": 110,
+      "approximate_travel_time": "~2 h from Shinjuku (Fuji Excursion limited express or highway bus)",
+      "principal_activities": "Mt. Fuji viewing, panoramic ropeway, lakeside cycling, sightseeing boat, seasonal flower parks (shibazakura, lavender)",
+      "source_url": "https://www.japan-guide.com/e/e6900.html"
+    },
+    {
+      "name": "Nikko National Park – Kegon Falls & Lake Chūzenji",
+      "locality": "Nikkō, Tochigi",
+      "attraction_type": "Waterfall / mountain lake / forest",
+      "approximate_distance_km": 140,
+      "approximate_travel_time": "~2 h from Asakusa (Tōbu Railway) or Shinkansen + local bus",
+      "principal_activities": "Kegon Falls viewing, Lake Chūzenji lakeside walks, Akechidaira ropeway, forest hiking, hot springs",
+      "source_url": "https://japanstartshere.com/2024/06/29/tokyo-to-nikko"
+    },
+    {
+      "name": "Kamakura Trails",
+      "locality": "Kamakura, Kanagawa",
+      "attraction_type": "Coastal hills / forest trails",
+      "approximate_distance_km": 50,
+      "approximate_travel_time": "~1 h from Tokyo Station (JR Yokosuka Line)",
+      "principal_activities": "Ten-en Hiking Course (temple-to-temple ridge walk), coastal walks, beach strolling, seasonal foliage",
+      "source_url": "https://www.yahoo.com/lifestyle/articles/day-trip-hiking-nature-trails-234018566.html"
+    }
+  ],
+  "entities": null
+}

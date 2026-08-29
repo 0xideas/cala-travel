@@ -4,81 +4,49 @@
       "name": "Cassoulet de Toulouse",
       "category": "Main dish (stew)",
       "locality": "Toulouse",
-      "short_description": "Hearty casserole of white beans (lingots from the Lauragais plain), Toulouse sausage, duck or goose confit, pork belly, and pork rind, slow-cooked in an earthenware cassole.",
-      "strength_of_local_association": "★★★★★ — The city's most iconic dish; Toulouse is one of the three \"cassoulet capitals\" and claims its own distinct recipe.",
-      "source_url": "https://www.toulouse-tourisme.com/en/eat-and-drink/toulouse-culinary-specialties"
+      "short_description": "Hearty slow-cooked stew of white haricot beans, duck confit, Toulouse sausage, and pork cuts, simmered in a cassole (earthenware pot from nearby Issel). The Toulouse version is one of three canonical recipes (alongside Castelnaudary and Carcassonne) and is distinguished by its use of duck confit and saucisse de Toulouse.",
+      "strength_of_local_association": "★★★★★ — Signature dish of the city",
+      "source_url": "https://www.toulouse-tourisme.com/en?p=12255"
     },
     {
       "name": "Saucisse de Toulouse",
-      "category": "Charcuterie (fresh sausage)",
-      "locality": "Toulouse",
-      "short_description": "Thick, coiled pork sausage lightly seasoned with garlic, pepper, and nutmeg, sold in a characteristic snail-shaped coil. Grilled, pan-fried, or used in cassoulet.",
-      "strength_of_local_association": "★★★★★ — Bears the city's name; ubiquitous at every Toulouse market stall.",
-      "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
+      "category": "Charcuterie / Sausage",
+      "locality": "Toulouse & Haute-Garonne",
+      "short_description": "Thick, coarsely ground pork sausage (75 % lean shoulder/ham, 25 % fat) seasoned with salt and pepper. Sold in a continuous coil. Documented on Toulouse market stalls since the 18th century; awarded Label Rouge in 1992 and a stricter artisanal charter in 2001. A Confrérie de la Saucisse de Toulouse holds an annual competition.",
+      "strength_of_local_association": "★★★★★ — Bears the city's name; iconic product",
+      "source_url": "https://www.futura-sciences.com/planete/questions-reponses/culture-fabriquee-saucisse-toulouse-5211"
     },
     {
-      "name": "Violettes de Toulouse",
-      "category": "Confectionery / edible flower",
+      "name": "Violette de Toulouse",
+      "category": "Confectionery / Flavouring",
       "locality": "Toulouse",
-      "short_description": "Crystallised violet petals coated in sugar, used in bonbons, liqueurs, syrups, and pastries. Toulouse has cultivated violets since the 19th century.",
-      "strength_of_local_association": "★★★★★ — Trademarked Toulouse specialty; the violet is one of the city's official symbols.",
-      "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
+      "short_description": "Crystallised violet flowers and violet-flavoured sweets, chocolates, mustards, jams, syrups, and liqueurs. Violet cultivation in Toulouse began c. 1850; at its peak 600 families grew the flower. \"Violette de Toulouse\" is now a registered trademark. The city hosts an annual violet festival in February.",
+      "strength_of_local_association": "★★★★★ — Registered city symbol",
+      "source_url": "https://www.toulouse-tourisme.com/en/what-to-see-and-do/shopping/violets-and-pastel"
     },
     {
       "name": "Fénétra",
-      "category": "Pastry / cake",
+      "category": "Pastry / Cake",
       "locality": "Toulouse",
-      "short_description": "Medieval-origin layered tart with shortcrust pastry, almond cream, apricot or quince jam, and candied lemon. Traditionally baked for the Fête de la Fénétra.",
-      "strength_of_local_association": "★★★★★ — Unique to Toulouse; linked to the city's own annual festival.",
-      "source_url": "https://www.mollyjwilk.com/la-fenetra-french-apricot-tart-recipe-from-toulouse"
-    },
-    {
-      "name": "Confit de canard",
-      "category": "Main dish (preserved meat)",
-      "locality": "Toulouse & surrounding Haute-Garonne",
-      "short_description": "Duck legs slow-cooked and preserved in their own fat. A cornerstone of south-west French cuisine, prominently featured in Toulouse's cassoulet and market stalls.",
-      "strength_of_local_association": "★★★★ — Staple of Toulouse gastronomy, though shared with the wider south-west.",
-      "source_url": "https://www.toulouse-tourisme.com/en/eat-and-drink/toulouse-culinary-specialties"
-    },
-    {
-      "name": "Magret de canard",
-      "category": "Main dish (duck breast)",
-      "locality": "Toulouse & Lauragais",
-      "short_description": "Breast of a Moulard duck (raised for foie gras), seared like a steak and served pink. Often smoked as well.",
-      "strength_of_local_association": "★★★★ — A signature dish on virtually every Toulouse restaurant menu.",
-      "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
-    },
-    {
-      "name": "Foie gras de canard",
-      "category": "Charcuterie / delicacy",
-      "locality": "Toulouse & Haute-Garonne",
-      "short_description": "Fattened duck liver, served mi-cuit (semi-cooked) or in terrines. Toulouse's Marché Victor Hugo is one of France's premier foie gras markets.",
-      "strength_of_local_association": "★★★★ — Central to Toulouse's culinary identity, though produced across the wider south-west.",
-      "source_url": "https://www.toulouse-tourisme.com/en/eat-and-drink/toulouse-culinary-specialties"
-    },
-    {
-      "name": "Croustade aux pommes",
-      "category": "Pastry / dessert",
-      "locality": "Toulouse & Midi-Pyrénées",
-      "short_description": "Paper-thin, hand-stretched pastry layered with sliced apples, butter, and Armagnac. Also called *pastis gascon* or *tourtière* in neighbouring areas.",
-      "strength_of_local_association": "★★★★ — Widely sold in Toulouse bakeries and markets; closely tied to the city and its immediate hinterland.",
-      "source_url": "https://www.legourmeur.fr/specialites-de-toulouse/specialites-plats-toulouse"
+      "short_description": "Traditional Toulousain tart filled with apricot jam, candied lemon peel, and almond meringue. Its name also lends itself to the Grand Fénétra, a major annual folk festival in Toulouse.",
+      "strength_of_local_association": "★★★★☆ — Historic Toulouse pastry",
+      "source_url": "https://actu.fr/occitanie/toulouse_31555/gastronomie-toulouse-ce-n-est-pas-que-le-cassoulet-voici-cinq-sucreries-parfois-oubliees_61433882.html"
     },
     {
       "name": "Cachou Lajaunie",
-      "category": "Confectionery (liquorice pastille)",
+      "category": "Confectionery (pastilles)",
       "locality": "Toulouse",
-      "short_description": "Small liquorice-flavoured pastilles created in 1880 by Toulouse pharmacist Léon Lajaunie, sold in a distinctive yellow tin.",
-      "strength_of_local_association": "★★★★★ — Invented and historically produced in Toulouse; an iconic local sweet.",
-      "source_url": "https://www.legourmeur.fr/specialites-de-toulouse/specialites-epicerie-fine-de-toulouse"
+      "short_description": "Small black square pastilles flavoured with liquorice and catechu plant extract, invented in 1880 by Toulouse pharmacist Léon Lajaunie. Produced in the Fontaine-Lestang quarter of Toulouse for 145 years (up to 18 tonnes/year). Production was halted in early 2025 by owner Perfetti Van Melle; a petition to save them gathered over 46,000 signatures.",
+      "strength_of_local_association": "★★★★★ — Invented and produced in Toulouse",
+      "source_url": "https://www.capital.fr/conso/les-mythiques-pastilles-toulousaines-cachou-lajaunie-en-voie-de-disparition-1517935"
     },
     {
-      "name": "Pavé du Capitole",
-      "category": "Confectionery (chocolate)",
+      "name": "Brique du Capitole",
+      "category": "Confectionery",
       "locality": "Toulouse",
-      "short_description": "Small chocolate praline shaped like the cobblestones of the Place du Capitole, Toulouse's main square.",
-      "strength_of_local_association": "★★★★★ — Created as a tribute to Toulouse's most famous square; sold exclusively as a Toulouse souvenir.",
-      "source_url": "https://www.legourmeur.fr/specialites-de-toulouse/specialites-epicerie-fine-de-toulouse"
+      "short_description": "A praline-filled layered bonbon shaped like the iconic brique foraine (pink brick) that gives Toulouse its \"Ville Rose\" nickname. Created in 1951 by the Nougalet chocolate-confectionery house in Toulouse. Sold in a small brick-shaped cardboard box.",
+      "strength_of_local_association": "★★★★☆ — Named after Toulouse's Capitole",
+      "source_url": "https://actu.fr/occitanie/toulouse_31555/gastronomie-toulouse-ce-n-est-pas-que-le-cassoulet-voici-cinq-sucreries-parfois-oubliees_61433882.html"
     }
   ],
   "entities": null

@@ -1,0 +1,1548 @@
+{
+  "city": "Barcelona",
+  "entities": [
+    {
+      "name": "Bomba de la Barceloneta",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Bomba de la Barceloneta",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Barceloneta",
+            "why_it_is_special": "La Cova Fumada (open since 1944) claims to have invented the bomba — a deep-fried garlicky potato ball stuffed with ground beef, served with spicy sauce. Still priced at around €2.20, it's a working-class classic in a no-frills, cash-only bar packed with locals. Arrive by 11 am to avoid long waits.",
+            "source_url": "https://theinfatuation.com/barcelona/reviews/la-cova-fumada"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "62075c38-5fba-5abc-93f6-febb361bdf48",
+            "name": "Barceloneta",
+            "entity_type": "Municipality",
+            "description": "municipality in Puerto Rico"
+          },
+          {
+            "id": "98c064fc-0e80-55ba-ae76-eb25f71132d1",
+            "name": "Bomba",
+            "entity_type": "Municipality",
+            "description": "Italian comune"
+          },
+          {
+            "id": "561da87a-439b-43fe-9b0a-7ce82be97cd5",
+            "name": "LA BOMBA",
+            "entity_type": "Company",
+            "description": "Belgian company founded in 2017 and headquartered in Beauvechain, Belgium."
+          },
+          {
+            "id": "c0f9f83d-a9b8-44fc-84ae-0888add42d45",
+            "name": "La Barceloneta",
+            "entity_type": "Facility",
+            "description": "A beach located in the Barceloneta neighbourhood of Barcelona, Spain."
+          },
+          {
+            "id": "3527494f-f6c9-4c58-ae2f-d8dcf062f00f",
+            "name": "APRILANTE & BOMBA, INC.",
+            "entity_type": "Company",
+            "description": "a company"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "62075c38-5fba-5abc-93f6-febb361bdf48",
+        "name": "Barceloneta",
+        "entity_type": "Municipality",
+        "description": "municipality in Puerto Rico"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Pa amb Tomàquet",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Pa amb Tomàquet",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Gràcia",
+            "why_it_is_special": "Bread rubbed with ripe tomato, drizzled with olive oil and salt — the most elemental Catalan dish. Bodega Can Ros (Carrer de Roger de Flor 303, metro Joanic) is a small neighbourhood bar that makes one of the best versions in the city.",
+            "source_url": "https://barcelonahacks.com/what-to-eat-in-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "b84541ae-f99b-4322-ab98-f21b59f34689",
+            "name": "pa amb tomàquet",
+            "entity_type": "Product",
+            "description": null
+          },
+          {
+            "id": "70a89a69-f4d8-40da-99bc-9e4edeb7dad2",
+            "name": "AMB HOLDINGS LIMITED",
+            "entity_type": "Company",
+            "description": "Consulting company registered in Stockport, Cheshire since 2003."
+          },
+          {
+            "id": "e79e31fc-3201-4ddf-9959-24b2a2db4778",
+            "name": "AMB RECRUITMENT (NORTH) LIMITED",
+            "entity_type": "Company",
+            "description": "A UK-based recruitment and consulting firm incorporated in 2020 and located in Stockport, Cheshire."
+          },
+          {
+            "id": "ab2d2f26-0afa-4e17-b709-48f7d1093882",
+            "name": "AMB REMOVALS LIMITED",
+            "entity_type": "Company",
+            "description": "A company registered in Leicester, England in March 2022, operating in real estate, utilities, and transportation and logistics."
+          },
+          {
+            "id": "5f768361-8c1d-4ba9-b5fe-6db5a0222825",
+            "name": "Amb. Jorge Montaño",
+            "entity_type": "Person",
+            "description": "An ambassador serving as a board member of FirstCash Holdings, Inc."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "b84541ae-f99b-4322-ab98-f21b59f34689",
+        "name": "pa amb tomàquet",
+        "entity_type": "Product",
+        "description": null
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Esqueixada de Bacallà",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Esqueixada de Bacallà",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Gràcia",
+            "why_it_is_special": "A refreshing shredded salt-cod salad with tomatoes, onions, and olives — a Catalan summer staple. Polleria Fontana (Carrer de Sant Lluís 9, metro Joanic) is an informal, welcoming tapas spot in the heart of Gràcia.",
+            "source_url": "https://barcelonahacks.com/what-to-eat-in-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "b529d1db-385f-583c-8ed1-bdef8e29d11c",
+            "name": "Jaypee Marie Bacalla",
+            "entity_type": "Person",
+            "description": "Filipino individual born in 1986."
+          },
+          {
+            "id": "9819cb9b-5a72-5bd2-858c-14e7198765fb",
+            "name": "Nuno Álvaro De Castro Bacala",
+            "entity_type": "Person",
+            "description": "Portuguese individual born in 1975."
+          },
+          {
+            "id": "487ad956-92c0-4eb3-8299-5becaae216f5",
+            "name": "DE&DE SUPPORT LIMITED",
+            "entity_type": "Company",
+            "description": "British company founded in 2015 that operates in the healthcare and restaurant sectors, based in Birmingham, England."
+          },
+          {
+            "id": "a8743c41-a48c-4235-8771-3151fedf23e9",
+            "name": "COMPAÑIA INDUSTRIALIZADORA DE BACALAO SUCESORA DE ANDRES RODRIGUEZ DE DIOS HIJOS SL",
+            "entity_type": "Company",
+            "description": "A Spanish cod processing company based in Vilagarcía de Arousa, founded in 1961."
+          },
+          {
+            "id": "fe33870e-da56-4dc3-9c56-b9e7b5f8b3c4",
+            "name": "FONDO DE GARANTÍA DE DEPÓSITOS DE ENTIDADES DE CRÉDITO",
+            "entity_type": "Company",
+            "description": "Spanish deposit guarantee fund for credit institutions, headquartered in Madrid and founded in 2011."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "b529d1db-385f-583c-8ed1-bdef8e29d11c",
+        "name": "Jaypee Marie Bacalla",
+        "entity_type": "Person",
+        "description": "Filipino individual born in 1986."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Fideuà",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Fideuà",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Sarrià",
+            "why_it_is_special": "Fideuà is the Catalan noodle-based alternative to paella, cooked with short pasta and seafood. Restaurant Canet (Carrer Canet 38, metro Sarrià) is a quaint family restaurant in a quiet corner of the Sarrià neighbourhood, serving one of Barcelona's best versions.",
+            "source_url": "https://barcelonahacks.com/what-to-eat-in-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "3b841455-dd01-4c11-b2f8-a42374b42392",
+            "name": "FIDEA",
+            "entity_type": "Company",
+            "description": "Belgian company FIDEA NV based in Antwerp"
+          },
+          {
+            "id": "3a355489-5e21-53a3-b52f-bdab8d76c816",
+            "name": "Ileana Fideuan",
+            "entity_type": "Person",
+            "description": "Romanian person born in 1984."
+          },
+          {
+            "id": "06746728-6075-4fad-b4b6-d6f19acf2104",
+            "name": "FIDERA MANAGEMENT LIMITED",
+            "entity_type": "Company",
+            "description": "British consulting firm founded in 2021 and headquartered in London."
+          },
+          {
+            "id": "ce10797f-5265-40dc-b6fd-e9bab800f8a5",
+            "name": "FIDEA IMMOBILIER",
+            "entity_type": "Company",
+            "description": "French real estate company headquartered in Paris, founded in 2016."
+          },
+          {
+            "id": "dfa65dac-e2fa-4f1a-b4b4-c03cdeaa723b",
+            "name": "FIDECA",
+            "entity_type": "Company",
+            "description": "French company founded in 2002 and headquartered in Le Pian-Médoc, France."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "3b841455-dd01-4c11-b2f8-a42374b42392",
+        "name": "FIDEA",
+        "entity_type": "Company",
+        "description": "Belgian company FIDEA NV based in Antwerp"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Calçots amb Romesco",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Calçots amb Romesco",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Gràcia",
+            "why_it_is_special": "Calçots are flame-grilled sweet onions dipped in romesco or salvitxada sauce — a seasonal Catalan ritual (roughly November–March). Can Cargol is one of the best places in Barcelona proper to enjoy them in season.",
+            "source_url": "https://www.tripsavvy.com/food-you-have-to-try-in-barcelona-4693195"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "70a89a69-f4d8-40da-99bc-9e4edeb7dad2",
+            "name": "AMB HOLDINGS LIMITED",
+            "entity_type": "Company",
+            "description": "Consulting company registered in Stockport, Cheshire since 2003."
+          },
+          {
+            "id": "8d3d8c09-a268-4975-8301-605e38821ee2",
+            "name": "ROMESCO LIMITED",
+            "entity_type": "Company",
+            "description": "A British accounting services company incorporated in 1986 and based in Norwich, England."
+          },
+          {
+            "id": "e79e31fc-3201-4ddf-9959-24b2a2db4778",
+            "name": "AMB RECRUITMENT (NORTH) LIMITED",
+            "entity_type": "Company",
+            "description": "A UK-based recruitment and consulting firm incorporated in 2020 and located in Stockport, Cheshire."
+          },
+          {
+            "id": "27ca7bd4-c1f9-4e25-b515-b546ba01f479",
+            "name": "calçots",
+            "entity_type": "Product",
+            "description": null
+          },
+          {
+            "id": "ab2d2f26-0afa-4e17-b709-48f7d1093882",
+            "name": "AMB REMOVALS LIMITED",
+            "entity_type": "Company",
+            "description": "A company registered in Leicester, England in March 2022, operating in real estate, utilities, and transportation and logistics."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "70a89a69-f4d8-40da-99bc-9e4edeb7dad2",
+        "name": "AMB HOLDINGS LIMITED",
+        "entity_type": "Company",
+        "description": "Consulting company registered in Stockport, Cheshire since 2003."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Botifarra amb Mongetes",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Botifarra amb Mongetes",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Gothic Quarter (Barri Gòtic)",
+            "why_it_is_special": "Traditional Catalan pork sausage served with white beans — hearty, simple, and deeply local. Bar La Plata is a tiny, legendary bar with only four tapas on its menu, and botifarra is one of them. Its stripped-back approach is a hallmark of authentic Barcelona dining.",
+            "source_url": "https://www.tripsavvy.com/food-you-have-to-try-in-barcelona-4693195"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "70a89a69-f4d8-40da-99bc-9e4edeb7dad2",
+            "name": "AMB HOLDINGS LIMITED",
+            "entity_type": "Company",
+            "description": "Consulting company registered in Stockport, Cheshire since 2003."
+          },
+          {
+            "id": "e79e31fc-3201-4ddf-9959-24b2a2db4778",
+            "name": "AMB RECRUITMENT (NORTH) LIMITED",
+            "entity_type": "Company",
+            "description": "A UK-based recruitment and consulting firm incorporated in 2020 and located in Stockport, Cheshire."
+          },
+          {
+            "id": "ab2d2f26-0afa-4e17-b709-48f7d1093882",
+            "name": "AMB REMOVALS LIMITED",
+            "entity_type": "Company",
+            "description": "A company registered in Leicester, England in March 2022, operating in real estate, utilities, and transportation and logistics."
+          },
+          {
+            "id": "5f768361-8c1d-4ba9-b5fe-6db5a0222825",
+            "name": "Amb. Jorge Montaño",
+            "entity_type": "Person",
+            "description": "An ambassador serving as a board member of FirstCash Holdings, Inc."
+          },
+          {
+            "id": "e5a9c2b8-6344-4c6a-acac-e24a549186b3",
+            "name": "JAS AMB LTD",
+            "entity_type": "Company",
+            "description": "A British consulting firm headquartered in Nottingham, founded in 2025."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "70a89a69-f4d8-40da-99bc-9e4edeb7dad2",
+        "name": "AMB HOLDINGS LIMITED",
+        "entity_type": "Company",
+        "description": "Consulting company registered in Stockport, Cheshire since 2003."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Crema Catalana",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Crema Catalana",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Gothic Quarter (Barri Gòtic)",
+            "why_it_is_special": "Catalonia's answer to crème brûlée — a custard flavoured with cinnamon and lemon zest, with a caramelised sugar crust. Granja Dulcinea, a historic granja (milk bar) on Carrer de Petritxol, is a beloved local institution for this dessert.",
+            "source_url": "https://www.tasteatlas.com/crema-catalana"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "a142e057-eccb-453c-a616-53b1eff1f012",
+            "name": "Crema Catalana",
+            "entity_type": "Product",
+            "description": "A whey‑protein flavor inspired by the traditional Catalan dessert, manufactured by Quota Vita."
+          },
+          {
+            "id": "8a1eb326-74a4-4524-8d0d-7431153bdc83",
+            "name": "CREMA GROUP OÜ",
+            "entity_type": "Company",
+            "description": "Estonian company headquartered in Tallinn, founded in 2011."
+          },
+          {
+            "id": "83f35c3c-4701-431d-bef9-4a0fe65bf826",
+            "name": "Cervecería Catalana",
+            "entity_type": "Organization",
+            "description": "A Barcelona-based restaurant brand founded in 1999, operating in the food and beverage sector and owned by Grupo La Flauta."
+          },
+          {
+            "id": "349ace04-f64e-466b-bb94-e353431bb22c",
+            "name": "CREMA S.R.L. IN LIQUIDAZIONE",
+            "entity_type": "Company",
+            "description": "Italian company incorporated in 2009 and based in Assago, currently in liquidation"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "a142e057-eccb-453c-a616-53b1eff1f012",
+        "name": "Crema Catalana",
+        "entity_type": "Product",
+        "description": "A whey‑protein flavor inspired by the traditional Catalan dessert, manufactured by Quota Vita."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Vermouth hour",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Vermouth hour",
+            "recommendation_type": "Drink + Bar",
+            "locality_or_neighbourhood": "Sant Antoni",
+            "why_it_is_special": "The hora del vermut (vermouth hour) is a deeply Catalan pre-lunch ritual. Els Sortidors del Parlament, a beautiful old bar on Carrer del Parlament, specialises in vermouth and local wine alongside an extensive tapas menu — an ideal starting point for a vermouth crawl in the trendy Sant Antoni neighbourhood.",
+            "source_url": "https://www.eater.com/barcelona/22627931/vermouth-bar-guide-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "ea383c64-885e-417b-a79f-c6d1893cd990",
+            "name": "Hour Loop, Inc",
+            "entity_type": "Company",
+            "description": "a company operating in software and services, retail, apparel and luxury goods, household products, and consulting"
+          },
+          {
+            "id": "6db0bd57-2e0e-404c-8f14-23e24fa8d821",
+            "name": "HAPPY HOUR PRODUCTIONS LIMITED",
+            "entity_type": "Company",
+            "description": "A British entertainment and advertising company founded in 2003 and based in Bristol, England."
+          },
+          {
+            "id": "79986355-899d-47bc-8024-025a8767f5d6",
+            "name": "ELEVENTH HOUR FILMS LIMITED",
+            "entity_type": "Company",
+            "description": "A London‑based entertainment company founded in 2010."
+          },
+          {
+            "id": "58a6c386-74fb-44b7-bfce-6a3837e669ed",
+            "name": "1 HOUR AUTOMATION LTD",
+            "entity_type": "Company",
+            "description": "A UK company incorporated on 2 July 2021, also operating as KMH ONLINE SERVICES LTD, with its registered office in Bishops Stortford."
+          },
+          {
+            "id": "4e044a8e-320f-421c-a1c0-1bb6ec2eb357",
+            "name": "11TH HOUR EXTENSIONS & LOFTS LIMITED",
+            "entity_type": "Company",
+            "description": "A consulting company incorporated in 2019 in England operating as 11TH HOUR DESIGNS LTD at Flat 3, Avondale Gardens, Hounslow."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "ea383c64-885e-417b-a79f-c6d1893cd990",
+        "name": "Hour Loop, Inc",
+        "entity_type": "Company",
+        "description": "a company operating in software and services, retail, apparel and luxury goods, household products, and consulting"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Escalivada",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Escalivada",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Gothic Quarter (Barri Gòtic)",
+            "why_it_is_special": "Smoky grilled vegetables (aubergine, peppers, onions) — the name comes from the Catalan escalivar (\"to cook in ashes\"). Can Culleretes, founded in 1786 and one of Barcelona's oldest restaurants, serves classic Catalan dishes including escalivada, cannelloni, and Catalan-style piglet.",
+            "source_url": "https://mana75.es/en/blog/catalan-restaurants-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "d6236813-6ce0-4681-a70b-c55c4bc4ace6",
+            "name": "escalivada",
+            "entity_type": "Product",
+            "description": null
+          },
+          {
+            "id": "65f956e2-3248-44c9-8bb6-4e24e517821d",
+            "name": "Pirámide escalonada de Zoser",
+            "entity_type": "Facility",
+            "description": "An ancient Egyptian step pyramid tomb constructed around 2630 BCE for Pharaoh Zoser at Saqqara, representing the earliest known stepped pyramid."
+          },
+          {
+            "id": "018127ee-a31d-440a-a0a5-4ceb755b4416",
+            "name": "JOSE ANTONIO ESCALLADA SL",
+            "entity_type": "Company",
+            "description": "A Spanish company headquartered in El Astillero, Spain."
+          },
+          {
+            "id": "f245a839-be0f-470b-880d-79245456a6b8",
+            "name": "VERTIGO ROCÓDROMO - ESCALADA, LDA",
+            "entity_type": "Company",
+            "description": "A Portuguese rock climbing gym headquartered in Lisbon, founded in 2014."
+          },
+          {
+            "id": "3a9a9dfe-b0c0-459c-b3d9-5683f3f50612",
+            "name": "Escavada Company",
+            "entity_type": "Company",
+            "description": "A company that operates as a subsidiary of Tucson Electric Power Co."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "d6236813-6ce0-4681-a70b-c55c4bc4ace6",
+        "name": "escalivada",
+        "entity_type": "Product",
+        "description": null
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Suquet de Peix & classic Catalan menu",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Suquet de Peix & classic Catalan menu",
+            "recommendation_type": "Dish + Restaurant",
+            "locality_or_neighbourhood": "Port Vell / Barceloneta",
+            "why_it_is_special": "Suquet is a traditional Catalan fisherman's stew of fish and potatoes. 7 Portes, open since 1836 at Port Vell Marina, is a grand Catalan institution serving suquet, daily-changing paellas, and regional classics in a historic dining room.",
+            "source_url": "https://mana75.es/en/blog/catalan-restaurants-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "76bcc9ab-2c4c-45cd-a0ba-64a219dfd664",
+            "name": "suquet de peix",
+            "entity_type": "Product",
+            "description": null
+          },
+          {
+            "id": "482ab084-e4d6-4157-8586-747d74dc7278",
+            "name": "Menu",
+            "entity_type": "Company",
+            "description": "Danish interior design company and house of brands including Menu and by Lassen."
+          },
+          {
+            "id": "de5a5bff-25c2-4cdf-bec6-55db5b25397a",
+            "name": "José S. Suquet",
+            "entity_type": "Person",
+            "description": "Board member of Regions Financial Corp."
+          },
+          {
+            "id": "2665cd20-6efa-4d10-8bdd-dd4f137d81c1",
+            "name": "Catalan",
+            "entity_type": "Language",
+            "description": "A Romance language that is co‑official in Catalonia, Spain, and also spoken in Andorra, France, Italy, the Balearic Islands, Aragon, Occitanie and parts of Finland."
+          },
+          {
+            "id": "1818ee58-b8fb-4af2-847c-c2d2660e66aa",
+            "name": "CENTRO CATALAN DE GEOTECNIA SL",
+            "entity_type": "Company",
+            "description": "Spanish construction and engineering consulting firm based in Barcelona, founded in 2001."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "76bcc9ab-2c4c-45cd-a0ba-64a219dfd664",
+        "name": "suquet de peix",
+        "entity_type": "Product",
+        "description": null
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Park Güell",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Park Güell",
+            "recommendation_type": "Architecture / Park",
+            "locality_or_neighbourhood": "Gràcia (El Carmel)",
+            "why_it_is_special": "A Gaudí-designed public park and UNESCO World Heritage Site featuring mosaic-covered structures, organic forms, and panoramic views over the city.",
+            "source_url": "https://parkguell-entradas.org/en/tickets/gaudis-barcelona-tickets-sagrada-familia-park-guell-casa-batllo-pedrera"
+          }
+        },
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Park Güell",
+            "recommendation_type": "City park / Gaudí landmark",
+            "locality": "Gràcia, Barcelona",
+            "principal_activities": "Strolling mosaic-covered terraces, photography, panoramic city views",
+            "why_it_is_special": "A UNESCO-listed Gaudí masterpiece set on a hillside with sweeping 360° views of Barcelona and the sea from Turó de les Tres Creus",
+            "source_url": "https://mappingmegan.com/best-views-in-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 429: Too Many Requests"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Basílica de la Sagrada Família",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Basílica de la Sagrada Família",
+            "recommendation_type": "Architecture",
+            "locality_or_neighbourhood": "Eixample",
+            "why_it_is_special": "Antoni Gaudí's unfinished masterpiece and UNESCO World Heritage Site; an extraordinary fusion of Gothic and Art Nouveau forms inspired by nature, geometry, and spirituality — one of nine UNESCO sites in the city.",
+            "source_url": "https://parkguell-entradas.org/en/tickets/gaudis-barcelona-tickets-sagrada-familia-park-guell-casa-batllo-pedrera"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 429: Too Many Requests"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Casa Milà (La Pedrera)",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Casa Milà (La Pedrera)",
+            "recommendation_type": "Architecture",
+            "locality_or_neighbourhood": "Eixample (Passeig de Gràcia, 92)",
+            "why_it_is_special": "Gaudí's last civil work before dedicating himself to the Sagrada Família; a UNESCO-listed apartment building with a sculptural stone façade and a rooftop of surreal chimneys.",
+            "source_url": "https://app.architecturehelper.com/building_library/styles/modernism"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "c758fea1-1124-46ae-ad34-93fddf45221b",
+            "name": "La Pedrera",
+            "entity_type": "Facility",
+            "description": "an apartment building in Barcelona's 22@ tech district, designed by Antoni Gaudí and completed in 1912"
+          },
+          {
+            "id": "522fda68-ca8f-4c6e-bdce-d4033525c0da",
+            "name": "FUNDACIO CATALUNYA - LA PEDRERA, FUNDACIO ESPECIAL",
+            "entity_type": "Company",
+            "description": "Spanish foundation based in Barcelona, founded in 2012, that manages the cultural centre of La Pedrera, including the Gaudí Space exhibition area."
+          },
+          {
+            "id": "165b7cc5-1033-48fe-a605-063a7a826259",
+            "name": "LA PEDRERA",
+            "entity_type": "Company",
+            "description": "French company headquartered in Montastruc-la-Conseillère, founded in 2022."
+          },
+          {
+            "id": "7d5e5a6f-2daf-493d-bc15-7f3a9e352260",
+            "name": "LA CASA BAR & RESTAURANT LIMITED",
+            "entity_type": "Company",
+            "description": "British restaurant company founded in 2024 and based in Ashton‑under‑Lyne, Lancashire."
+          },
+          {
+            "id": "0987eb15-57a7-445b-8801-8e8edd4a1110",
+            "name": "LA CASA DE LA TORTILLA ESPAÑOLA LTD",
+            "entity_type": "Company",
+            "description": "British restaurant company founded in 2024, headquartered in London."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "c758fea1-1124-46ae-ad34-93fddf45221b",
+        "name": "La Pedrera",
+        "entity_type": "Facility",
+        "description": "an apartment building in Barcelona's 22@ tech district, designed by Antoni Gaudí and completed in 1912"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Casa Batlló",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Casa Batlló",
+            "recommendation_type": "Architecture",
+            "locality_or_neighbourhood": "Eixample (Passeig de Gràcia)",
+            "why_it_is_special": "Remodelled by Gaudí between 1904 and 1906 for textile industrialist Josep Batlló; its undulating façade, skeletal balconies, and dragon-scale roof make it one of the most imaginative buildings in European modernism.",
+            "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "1009d216-cf52-45bb-9d08-142da4ebec85",
+            "name": "Casa Batlló",
+            "entity_type": "Facility",
+            "description": "a modernist historic building in Barcelona, Spain, designed by Antoni Gaudí and completed in 1906"
+          },
+          {
+            "id": "93cfb9e4-51a5-48f2-8e7f-71d8fb8e68da",
+            "name": "Casa Batlló",
+            "entity_type": "WorkOfArt",
+            "description": "Renowned modernist building in Barcelona, Spain, commissioned by textile entrepreneur Josep Batlló."
+          },
+          {
+            "id": "1c93e0f5-42d7-4d7a-b98e-7f927293dc88",
+            "name": "Casa Batlló S.L.",
+            "entity_type": "Organization",
+            "description": "A Barcelona‑based organization that manages the modernist Casa Batlló building, one of Antoni Gaudí’s most celebrated works."
+          },
+          {
+            "id": "5efbcf9d-f1c2-46c7-90b5-a4f4ab31ccde",
+            "name": "Casa Batlló",
+            "entity_type": "Organization",
+            "description": "a Modernist building and UNESCO World Heritage site in Barcelona, Spain, designed by Antoni Gaudí"
+          },
+          {
+            "id": "34f5df06-7cdc-4a8c-b041-1ccbb0b9fd2a",
+            "name": "Casa Batlló, Light & Colour",
+            "entity_type": "WorkOfArt",
+            "description": "An illustrated book that explores the light and colour of Antoni Gaudí's Casa Batlló."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "1009d216-cf52-45bb-9d08-142da4ebec85",
+        "name": "Casa Batlló",
+        "entity_type": "Facility",
+        "description": "a modernist historic building in Barcelona, Spain, designed by Antoni Gaudí and completed in 1906"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Museu Picasso",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Museu Picasso",
+            "recommendation_type": "Museum",
+            "locality_or_neighbourhood": "Ciutat Vella (El Born / La Ribera)",
+            "why_it_is_special": "Housed in five medieval palaces, it holds one of the most extensive collections of Pablo Picasso's early works, offering deep insight into the artist's formative years in Barcelona.",
+            "source_url": "https://fr.barcelona-museum.com/les-musees-d-art.html"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "3a5f3fae-ecce-4fad-9462-e1129b893c63",
+            "name": "Museu Picasso",
+            "entity_type": "Organization",
+            "description": "Museum in Barcelona dedicated to Pablo Picasso, founded in 1963."
+          },
+          {
+            "id": "f44039df-84ca-444e-b893-40af1b5ecaa1",
+            "name": "Pablo Ruiz Picasso",
+            "entity_type": "Person",
+            "description": "Spanish painter and founder of the Cubist movement, known for the anti-war masterpiece Guernica."
+          },
+          {
+            "id": "d203c3d7-f0e3-489d-bdcd-df54e89b9068",
+            "name": "Museu Marítim",
+            "entity_type": "Organization",
+            "description": "A maritime museum located in the Royal Shipyards."
+          },
+          {
+            "id": "df9b6a1d-0fec-455a-ae26-5e2699616fd9",
+            "name": "PICASSO BIDCO LIMITED",
+            "entity_type": "Company",
+            "description": "A British banking company headquartered in Birmingham, founded in 2022."
+          },
+          {
+            "id": "cff0eaef-3281-4915-85c0-f1adf907fef3",
+            "name": "VC PICASSO LIMITED",
+            "entity_type": "Company",
+            "description": "A United Kingdom‑based real estate company founded in 2025 and headquartered in Knutsford, Cheshire."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "3a5f3fae-ecce-4fad-9462-e1129b893c63",
+        "name": "Museu Picasso",
+        "entity_type": "Organization",
+        "description": "Museum in Barcelona dedicated to Pablo Picasso, founded in 1963."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "MACBA (Museu d'Art Contemporani de Barcelona)",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "MACBA (Museu d'Art Contemporani de Barcelona)",
+            "recommendation_type": "Museum",
+            "locality_or_neighbourhood": "Ciutat Vella (El Raval)",
+            "why_it_is_special": "A striking white geometric building designed by Richard Meier; it showcases thought‑provoking contemporary art from the late 20th century to the present and anchors El Raval's creative scene.",
+            "source_url": "https://travelabc.org/places-to-visit-in-barcelona"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "9cf786ab-2e37-4348-9f91-2391e0287659",
+            "name": "FUNDACIO MUSEU D'ART CONTEMPORANI DE BARCELONA",
+            "entity_type": "Company",
+            "description": "a contemporary art museum in Barcelona, Spain, founded in 1987"
+          },
+          {
+            "id": "3587fdce-b88c-4492-9f23-cfdffd0095f1",
+            "name": "Museu Nacional d'Art de Catalunya (MNAC)",
+            "entity_type": "Organization",
+            "description": "A national art museum in Barcelona, Spain, founded in 1934."
+          },
+          {
+            "id": "3a5f3fae-ecce-4fad-9462-e1129b893c63",
+            "name": "Museu Picasso",
+            "entity_type": "Organization",
+            "description": "Museum in Barcelona dedicated to Pablo Picasso, founded in 1963."
+          },
+          {
+            "id": "3985680b-fed7-4437-976f-b9bbeb1f9c99",
+            "name": "Museu d'Història de Catalunya",
+            "entity_type": "Organization",
+            "description": "A history museum in Barcelona, Catalonia, Spain."
+          },
+          {
+            "id": "139717e1-15d2-44db-a360-031b319fa961",
+            "name": "Diputación de Barcelona",
+            "entity_type": "Organization",
+            "description": "Provincial government of Barcelona in Catalonia, Spain."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "9cf786ab-2e37-4348-9f91-2391e0287659",
+        "name": "FUNDACIO MUSEU D'ART CONTEMPORANI DE BARCELONA",
+        "entity_type": "Company",
+        "description": "a contemporary art museum in Barcelona, Spain, founded in 1987"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "MNAC (Museu Nacional d'Art de Catalunya)",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "MNAC (Museu Nacional d'Art de Catalunya)",
+            "recommendation_type": "Museum",
+            "locality_or_neighbourhood": "Montjuïc",
+            "why_it_is_special": "Occupying the Palau Nacional, it spans a thousand years of Catalan art — from Romanesque church murals to modernisme — making it the most comprehensive survey of regional art anywhere.",
+            "source_url": "https://fr.barcelona-museum.com/les-musees-d-art.html"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "3587fdce-b88c-4492-9f23-cfdffd0095f1",
+            "name": "Museu Nacional d'Art de Catalunya (MNAC)",
+            "entity_type": "Organization",
+            "description": "A national art museum in Barcelona, Spain, founded in 1934."
+          },
+          {
+            "id": "3985680b-fed7-4437-976f-b9bbeb1f9c99",
+            "name": "Museu d'Història de Catalunya",
+            "entity_type": "Organization",
+            "description": "A history museum in Barcelona, Catalonia, Spain."
+          },
+          {
+            "id": "9cf786ab-2e37-4348-9f91-2391e0287659",
+            "name": "FUNDACIO MUSEU D'ART CONTEMPORANI DE BARCELONA",
+            "entity_type": "Company",
+            "description": "a contemporary art museum in Barcelona, Spain, founded in 1987"
+          },
+          {
+            "id": "4e979555-db6f-4c84-b602-435c6b7f323c",
+            "name": "Catalunya [Cataluña]",
+            "entity_type": "CountrySubdivision",
+            "description": "Region in Spain with around 8 million people where Catalan is spoken and uses the euro."
+          },
+          {
+            "id": "ba380929-d69b-4065-b5e2-afbba7d3376d",
+            "name": "Federació Nacional d'Estudiants de Catalunya",
+            "entity_type": "Organization",
+            "description": "A national federation of Catalan student organisations based in Catalonia, Spain."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "3587fdce-b88c-4492-9f23-cfdffd0095f1",
+        "name": "Museu Nacional d'Art de Catalunya (MNAC)",
+        "entity_type": "Organization",
+        "description": "A national art museum in Barcelona, Spain, founded in 1934."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Mercat de la Boqueria",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Mercat de la Boqueria",
+            "recommendation_type": "Market",
+            "locality_or_neighbourhood": "Ciutat Vella (La Rambla)",
+            "why_it_is_special": "Barcelona's oldest and most famous food market, dating back to the 13th century; a sensory explosion of fresh produce, seafood, and local specialties that captures the city's deep relationship with food culture.",
+            "source_url": "https://barcelonahacks.com/is-barcelona-worth-visiting"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "999c05de-7bd6-47fc-bf1d-91ad5b0fa25a",
+            "name": "La Boqueria Market",
+            "entity_type": "Facility",
+            "description": "A historic public market in Barcelona, Spain, located off La Rambla."
+          },
+          {
+            "id": "632b55b6-8776-4c69-9da6-b9ce0ac768b2",
+            "name": "Mercat de la Concepció",
+            "entity_type": "Facility",
+            "description": "A historic market in Barcelona's Eixample district, renowned for its flower stalls."
+          },
+          {
+            "id": "48ce8b7c-849e-4c3b-9834-1a171b9e3014",
+            "name": "Mercat de Sant Adrià",
+            "entity_type": "Facility",
+            "description": "the primary municipal market serving Sant Adrià de Besòs, Spain"
+          },
+          {
+            "id": "f5cac28e-9ae9-4d97-9f7c-efd3ad65d2c0",
+            "name": "Mercat Municipal de Llefià",
+            "entity_type": "Facility",
+            "description": "a municipal market in the Llefià neighbourhood of Badalona, Spain"
+          },
+          {
+            "id": "965576ec-adcf-4809-9af9-807c5c95d591",
+            "name": "Mercat de Segona Mà de Sant Fost",
+            "entity_type": "Product",
+            "description": "A periodic second‑hand market in Sant Fost organized by a local association."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "999c05de-7bd6-47fc-bf1d-91ad5b0fa25a",
+        "name": "La Boqueria Market",
+        "entity_type": "Facility",
+        "description": "A historic public market in Barcelona, Spain, located off La Rambla."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Fundació Joan Miró",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Fundació Joan Miró",
+            "recommendation_type": "Museum",
+            "locality_or_neighbourhood": "Montjuïc",
+            "why_it_is_special": "Opened in 1975 in a light-filled building in Parc de Montjuïc, the foundation houses over 14,000 pieces by Joan Miró and hosts rotating temporary exhibitions — an intimate, curated experience overlooking the city.",
+            "source_url": "https://www.barcelona-metropolitan.com/locations/fundacio-joan-miro"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "c09fc782-8aa7-4b0f-914d-4b13e7b436bc",
+            "name": "Fundació Joan Miró",
+            "entity_type": "Organization",
+            "description": "a Barcelona-based foundation established in 1972 to preserve and exhibit the works of Joan Miró"
+          },
+          {
+            "id": "27ecfccf-3830-4b73-9448-b20a1fe8577b",
+            "name": "MIRO TRUST",
+            "entity_type": "Company",
+            "description": "Swiss software company founded in 2016 and creator of the Miro Developer Platform, Web SDK, and Miro Marketplace."
+          },
+          {
+            "id": "76d71869-f6e0-4c80-9f9f-21afe12b8daa",
+            "name": "Fundació Joan Oró",
+            "entity_type": "Organization",
+            "description": "A foundation that promotes the scientific legacy of biochemist Joan Oró, including his synthesis of adenine and work on origins-of-life research."
+          },
+          {
+            "id": "04d0bebe-3e71-48fa-841c-e040f2e73c9f",
+            "name": "Joan Miró",
+            "entity_type": "Person",
+            "description": "Spanish modernist artist renowned for his contributions to 20th‑century avant‑garde painting and sculpture."
+          },
+          {
+            "id": "43e8b3a7-f6b0-4552-9b11-0b85833aac04",
+            "name": "Miro Šmelko",
+            "entity_type": "Person",
+            "description": "Founder of the job-search platform Jobsider and the talent assessment firm TALENTIQA."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "c09fc782-8aa7-4b0f-914d-4b13e7b436bc",
+        "name": "Fundació Joan Miró",
+        "entity_type": "Organization",
+        "description": "a Barcelona-based foundation established in 1972 to preserve and exhibit the works of Joan Miró"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Mercat de Santa Caterina",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Mercat de Santa Caterina",
+            "recommendation_type": "Market",
+            "locality_or_neighbourhood": "Ciutat Vella (Sant Pere, Santa Caterina i la Ribera)",
+            "why_it_is_special": "Built in 1845 on the site of a former convent, it features a spectacular undulating mosaic roof by Enric Miralles and Benedetta Tagliabue — a less touristy alternative to La Boqueria with excellent local produce.",
+            "source_url": "https://www.meet.barcelona/en/visit-and-love-it/points-interest-city/mercat-de-santa-caterina-92086009448"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "d9a2d8e3-91a6-405e-91ee-2845a83995c9",
+            "name": "Mercat de Santa Caterina",
+            "entity_type": "Facility",
+            "description": "A public market in Barcelona, Spain, notable for its colorful undulating roof."
+          },
+          {
+            "id": "057ba60e-b0de-4e9d-9a32-75bc9d9a30de",
+            "name": "SANTA CATERINA COSTRUZIONI S.R.L. IN LIQUIDAZIONE",
+            "entity_type": "Company",
+            "description": "Italian company undergoing liquidation, headquartered in Corridonia, founded in 2004."
+          },
+          {
+            "id": "632b55b6-8776-4c69-9da6-b9ce0ac768b2",
+            "name": "Mercat de la Concepció",
+            "entity_type": "Facility",
+            "description": "A historic market in Barcelona's Eixample district, renowned for its flower stalls."
+          },
+          {
+            "id": "f5cac28e-9ae9-4d97-9f7c-efd3ad65d2c0",
+            "name": "Mercat Municipal de Llefià",
+            "entity_type": "Facility",
+            "description": "a municipal market in the Llefià neighbourhood of Badalona, Spain"
+          },
+          {
+            "id": "48ce8b7c-849e-4c3b-9834-1a171b9e3014",
+            "name": "Mercat de Sant Adrià",
+            "entity_type": "Facility",
+            "description": "the primary municipal market serving Sant Adrià de Besòs, Spain"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "d9a2d8e3-91a6-405e-91ee-2845a83995c9",
+        "name": "Mercat de Santa Caterina",
+        "entity_type": "Facility",
+        "description": "A public market in Barcelona, Spain, notable for its colorful undulating roof."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Palau de la Música Catalana",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Palau de la Música Catalana",
+            "recommendation_type": "Local Institution / Concert Hall",
+            "locality_or_neighbourhood": "Ciutat Vella (Sant Pere, Santa Caterina i la Ribera)",
+            "why_it_is_special": "A UNESCO World Heritage concert hall designed by Lluís Domènech i Montaner in the Catalan modernista style; its stained‑glass skylight and ornate interior make it one of the most beautiful music venues in the world.",
+            "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "0d7478f0-cfc7-4e6a-af15-9fd718bf0043",
+            "name": "Palau de la Música Catalana",
+            "entity_type": "Facility",
+            "description": "Concert hall built in 1908 in Catalonia, Spain."
+          },
+          {
+            "id": "49baf387-47b7-473e-96fc-d74444810df5",
+            "name": "Palau de la Música Catalana",
+            "entity_type": "Organization",
+            "description": "A modernist concert hall in Barcelona, Spain."
+          },
+          {
+            "id": "52a304bb-a4e4-4296-9faf-bbba470bce28",
+            "name": "Ryan Adams Concert at Palau de la Música",
+            "entity_type": "Event",
+            "description": "A 13 October 2026 live concert by American singer‑songwriter Ryan Adams at the Palau de la Música in Barcelona."
+          },
+          {
+            "id": "c0d5e24a-22a3-5bb4-af0b-5358eb71ab7d",
+            "name": "Palau-de-Cerdagne",
+            "entity_type": "Municipality",
+            "description": "commune in Pyrénées-Orientales, France"
+          },
+          {
+            "id": "ed63e363-631e-411a-8668-dcc430e366d1",
+            "name": "Butlletí de la Societat Catalana de Musicologia",
+            "entity_type": "WorkOfArt",
+            "description": "a Catalan musicology journal published by the Institut d'Estudis Catalans"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "0d7478f0-cfc7-4e6a-af15-9fd718bf0043",
+        "name": "Palau de la Música Catalana",
+        "entity_type": "Facility",
+        "description": "Concert hall built in 1908 in Catalonia, Spain."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Mercat dels Encants (Fira de Bellcaire)",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Mercat dels Encants (Fira de Bellcaire)",
+            "recommendation_type": "Market",
+            "locality_or_neighbourhood": "Eixample / Glòries",
+            "why_it_is_special": "One of Europe's oldest flea markets and a treasure trove for vintage lovers, now housed under a striking mirrored canopy — a Barcelona off-the-beaten-path favourite.",
+            "source_url": "https://barcelonahacks.com/is-barcelona-worth-visiting"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "3b0e9855-eb2b-41ba-b88a-a5076114f229",
+            "name": "Mercat Encants",
+            "entity_type": "Facility",
+            "description": "a large public market in Barcelona, Spain"
+          },
+          {
+            "id": "b179ad4f-865d-4266-9927-b3f5a4d81a83",
+            "name": "Fira de Bellcaire",
+            "entity_type": "Facility",
+            "description": "a public market facility in Barcelona, Spain"
+          },
+          {
+            "id": "b5230f57-bd4a-5e97-be85-73b5d9aec775",
+            "name": "Bellcaire d'Empordà",
+            "entity_type": "Municipality",
+            "description": "municipality in the comarca of Baix Empordà, in Catalonia, Spain"
+          },
+          {
+            "id": "0a184c18-1451-4c48-a5e9-2b1270d40808",
+            "name": "Fira de Barcelona",
+            "entity_type": "Facility",
+            "description": "A trade fair complex and exhibition centre in Barcelona, Spain."
+          },
+          {
+            "id": "0999ea14-842e-43f5-8530-1c8c55e212ca",
+            "name": "Fira de Barcelona",
+            "entity_type": "Organization",
+            "description": "a trade fair complex and institution headquartered in L'Hospitalet de Llobregat and Barcelona, Catalonia, Spain"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "3b0e9855-eb2b-41ba-b88a-a5076114f229",
+        "name": "Mercat Encants",
+        "entity_type": "Facility",
+        "description": "a large public market in Barcelona, Spain"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Recinte Modernista de Sant Pau",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Recinte Modernista de Sant Pau",
+            "recommendation_type": "Architecture / Local Institution",
+            "locality_or_neighbourhood": "El Guinardó (Sant Pau)",
+            "why_it_is_special": "Designed by Lluís Domènech i Montaner, this former hospital is a breathtaking Modernist complex and UNESCO World Heritage Site, now repurposed as a cultural centre and knowledge hub.",
+            "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "7750df86-21a3-44c2-a285-2067cb45114d",
+            "name": "Hospital de Sant Pau",
+            "entity_type": "Facility",
+            "description": "A historic modernist hospital complex in Barcelona, Spain, built in 1930."
+          },
+          {
+            "id": "bf166625-9959-56a0-a90b-95661d6f8fb9",
+            "name": "Sant Pau de Segúries",
+            "entity_type": "Municipality",
+            "description": "village in the province of Girona and autonomous community of Catalonia, Spain"
+          },
+          {
+            "id": "e1e5795b-9c5d-5c8c-ab73-4b6dd8fb1250",
+            "name": "Sant Pau de la Calçada",
+            "entity_type": "Municipality",
+            "description": "antiguo municipio español de la provincia de Gerona"
+          },
+          {
+            "id": "bcee898a-6315-44c1-9052-e4874cb83e4b",
+            "name": "INSTITUT DE RECERCA HOSPITAL DE LA SANTA CREU I SANT PAU",
+            "entity_type": "Company",
+            "description": "A Spanish biomedical research institute affiliated with the Hospital de la Santa Creu i Sant Pau, founded in 1992 and headquartered in Barcelona."
+          },
+          {
+            "id": "862e0204-ef41-4829-ba5b-bf8e7092dbb8",
+            "name": "Pau Ramon",
+            "entity_type": "Person",
+            "description": "Spanish technology executive, co‑founder and chief technology officer of Everyday Software and chief executive officer of Ramensoft."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "7750df86-21a3-44c2-a285-2067cb45114d",
+        "name": "Hospital de Sant Pau",
+        "entity_type": "Facility",
+        "description": "A historic modernist hospital complex in Barcelona, Spain, built in 1930."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "El Born Centre de Cultura i Memòria",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "El Born Centre de Cultura i Memòria",
+            "recommendation_type": "Local Institution / Cultural Centre",
+            "locality_or_neighbourhood": "Ciutat Vella (El Born / La Ribera)",
+            "why_it_is_special": "A 19th-century iron-and-glass market hall converted into a cultural centre after a €84 million renovation; beneath its floor lie archaeological remains of 18th-century Barcelona, making it both a museum and a monument to the city's memory.",
+            "source_url": "https://barcelonanavigator.com/category/cultural-attractions/page/7"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "ca184c31-0b4b-4873-b4d2-a3f161202873",
+            "name": "Centre de Cultura Contemporània de Barcelona",
+            "entity_type": "Organization",
+            "description": "A cultural institution in Barcelona, Spain, founded in 1994."
+          },
+          {
+            "id": "88ac74d8-4b0a-41dd-a6dc-b8800b4f5b0a",
+            "name": "Memoria de Labores 2025",
+            "entity_type": "Product",
+            "description": "the 2025 audited annual report of the Guatemalan rural development bank Banco de Desarrollo Rural, S.A., released in 2026"
+          },
+          {
+            "id": "8b8ba535-837f-4886-b094-6383dd701f63",
+            "name": "CENTRO IBEROAMERICANO DE CULTURA LTD",
+            "entity_type": "Company",
+            "description": "A London‑based UK company founded in 2024 that operates in the entertainment, consulting and education sectors."
+          },
+          {
+            "id": "e4aa7215-c3f8-49b9-80a7-997a3a572974",
+            "name": "Comisión de Cultura",
+            "entity_type": "Organization",
+            "description": "A standing committee of the Spanish Congress of Deputies that oversees cultural policy."
+          },
+          {
+            "id": "c2116192-08e4-479a-81a9-6ae27547eeac",
+            "name": "Museo Memoria de Andalucía",
+            "entity_type": "Facility",
+            "description": "A museum in Granada, Spain, dedicated to Andalusian history, opened in 2009."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "ca184c31-0b4b-4873-b4d2-a3f161202873",
+        "name": "Centre de Cultura Contemporània de Barcelona",
+        "entity_type": "Organization",
+        "description": "A cultural institution in Barcelona, Spain, founded in 1994."
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Collserola Natural Park",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Collserola Natural Park",
+            "recommendation_type": "Urban natural park",
+            "locality": "Tibidabo / Serra de Collserola, Barcelona",
+            "principal_activities": "Hiking, trail running, forest walks, birdwatching",
+            "why_it_is_special": "Barcelona's green lung — miles of forested trails on the city's northern ridge, reaching 575 m at Tibidabo, with multiple free natural viewpoints",
+            "source_url": "https://www.tripsavvy.com/things-to-do-in-tibidabo-barcelona-1642817"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "CaixaForum Barcelona",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "CaixaForum Barcelona",
+            "recommendation_type": "Museum / Cultural Centre",
+            "locality_or_neighbourhood": "Montjuïc (Av. Francesc Ferrer i Guàrdia)",
+            "why_it_is_special": "A former Modernist textile factory converted into a dynamic arts centre hosting world‑class travelling exhibitions, film cycles, and educational programmes — a top attraction on Barcelona's official tourism list.",
+            "source_url": "https://www.barcelonaturisme.com/wv3/en/prods/3/barcelona-top-attractions.html"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "7d7e89cd-567d-554c-9a67-7a4a0c9915ab",
+            "name": "Barcelona",
+            "entity_type": "Municipality",
+            "description": "city in Catalonia, Spain"
+          },
+          {
+            "id": "5d01eb1c-545f-467c-811e-8677985b5428",
+            "name": "Barcelona",
+            "entity_type": "Location",
+            "description": "A major Mediterranean port city that serves as the capital of Catalonia, Spain."
+          },
+          {
+            "id": "f1fa8c40-dee6-45ca-930d-1f884c1fc5c9",
+            "name": "FUTBOL CLUB BARCELONA",
+            "entity_type": "Company",
+            "description": "A Spanish professional football club based in Barcelona, founded in 1899."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "7d7e89cd-567d-554c-9a67-7a4a0c9915ab",
+        "name": "Barcelona",
+        "entity_type": "Municipality",
+        "description": "city in Catalonia, Spain"
+      },
+      "selection_strategy": "top_relevance"
+    },
+    {
+      "name": "Montjuïc Hill & Gardens",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Montjuïc Hill & Gardens",
+            "recommendation_type": "Hill / botanical gardens",
+            "locality": "Montjuïc, Barcelona",
+            "principal_activities": "Garden walks, cable-car rides, castle visit, cycling",
+            "why_it_is_special": "A chain of themed gardens (Mossèn Costa i Llobera cactus garden, Mossèn Cinto Verdaguer water garden, Joan Brossa woodland walk) plus the Botanical Garden specialising in Mediterranean-climate plants, all linked by paths with harbour and city views",
+            "source_url": "https://gardentrip.co.uk/2019/09/16/a-journey-through-the-gardens-of-montj"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Barcelona Botanical Garden",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Barcelona Botanical Garden",
+            "recommendation_type": "Botanical garden",
+            "locality": "Montjuïc, Barcelona",
+            "principal_activities": "Guided and self-guided botanical walks, photography",
+            "why_it_is_special": "Opened in 1999 on Montjuïc between the Olympic Stadium and the castle; showcases flora from five Mediterranean-climate regions (Australia, Chile, California, South Africa, and the Mediterranean basin)",
+            "source_url": "https://barcelonahacks.com/barcelona-botanical-garden"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Barceloneta Beach & Passeig Marítim",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Barceloneta Beach & Passeig Marítim",
+            "recommendation_type": "Urban beach",
+            "locality": "La Barceloneta, Barcelona",
+            "principal_activities": "Swimming, sunbathing, beach volleyball, seaside promenade walks",
+            "why_it_is_special": "The city's most iconic beach, steps from the old town; the seafront promenade stretches north past Platja del Bogatell for a relaxed coastal walk",
+            "source_url": "https://lonelyplanet.com/articles/best-beaches-near-barcelona-train"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Montserrat Natural Park",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Montserrat Natural Park",
+            "recommendation_type": "Mountain / monastery day trip",
+            "locality": "Montserrat (≈ 1 h from Barcelona)",
+            "principal_activities": "Easy hiking, monastery visit, scenic cable-car or cog-wheel ride",
+            "why_it_is_special": "Dramatic serrated rock formations crowned by a Benedictine monastery; gentle downhill trails through the natural park offer stunning views, and visitors can see the Black Madonna (La Moreneta), patron saint of Catalonia",
+            "source_url": "https://www.getyourguide.com/barcelona-l45/barcelona-montserrat-monastery-and-natural-park-day-trip-t35793"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Costa Brava (Tossa de Mar / Begur area)",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Costa Brava (Tossa de Mar / Begur area)",
+            "recommendation_type": "Coastal nature day trip",
+            "locality": "Costa Brava (≈ 1–1.5 h north of Barcelona)",
+            "principal_activities": "Cliff-top trail walking (Camí de Ronda), snorkelling, kayaking, cove-hopping",
+            "why_it_is_special": "A 200 km stretch of rugged coastline dotted with hidden coves, medieval villages, and crystal-clear waters — ideal for combining a coastal hike with a swim in a secluded bay",
+            "source_url": "https://www.lonelyplanet.com/articles/guide-to-costa-brava-spain"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Sitges",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Sitges",
+            "recommendation_type": "Coastal town day trip",
+            "locality": "Sitges (≈ 30–40 min by train)",
+            "principal_activities": "Beach swimming, 3 km seaside promenade walk, old-town exploring",
+            "why_it_is_special": "A charming Mediterranean beach town reachable by a quick R2 Sud train; 17 beaches, a palm-lined Passeig Marítim with constant sea views, and a picturesque old quarter with the clifftop Church of Sant Bartomeu",
+            "source_url": "https://barcelonafrommyheart.com/barcelona-to-sitges-day-trip"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Parc del Garraf",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Parc del Garraf",
+            "recommendation_type": "Natural park day trip",
+            "locality": "Garraf (between Barcelona and Sitges)",
+            "principal_activities": "Hiking, nature photography, Mediterranean-scrub landscape",
+            "why_it_is_special": "A hilly natural park behind the coast with trails rising above the sea, offering wide Mediterranean panoramas; easily combined with a beach stop in Sitges on the same train line",
+            "source_url": "https://lonelyplanet.com/articles/best-beaches-near-barcelona-train"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Carretera de les Aigües",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Carretera de les Aigües",
+            "recommendation_type": "Scenic walking / running path",
+            "locality": "Collserola hillside, Barcelona",
+            "principal_activities": "Flat-grade walking, jogging, cycling",
+            "why_it_is_special": "A virtually flat path carved into the Collserola hillside above the city, offering uninterrupted views over Barcelona and the sea — a favourite of local runners and a free, easily accessible nature escape",
+            "source_url": "https://barcaguide.com/enjoying-views-of-barcelona-from-tibidabo"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 402: Payment Required"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    }
+  ]
+}

@@ -1,112 +1,76 @@
 {
   "results": [
     {
+      "name": "Lac de Saint-Ferréol",
+      "locality": "Revel / Sorèze (Montagne Noire)",
+      "attraction_type": "Lake (UNESCO – Canal du Midi reservoir)",
+      "approximate_distance_km": "~60 km",
+      "approximate_travel_time": "~50 min",
+      "principal_activities": "Swimming (supervised in summer), hiking the 4.5 km lakeside loop, fishing, picnicking, water sports, cycling the Canal du Midi greenway",
+      "source_url": "https://www.auxsourcesducanaldumidi.com/le-lac-de-saint-ferreol"
+    },
+    {
       "name": "Cirque de Gavarnie",
-      "locality": "Gavarnie, Hautes-Pyrénées",
+      "locality": "Gavarnie-Gèdre (Hautes-Pyrénées)",
       "attraction_type": "Glacial cirque (UNESCO World Heritage)",
-      "approximate_distance_km": 195,
-      "approximate_travel_time": "2 h 00",
-      "principal_activities": "Hiking to the cirque floor, viewing Europe's tallest waterfall (423 m), photography",
-      "source_url": "https://www.visit-occitanie.com/en/discovering/major-sites"
+      "approximate_distance_km": "~190 km",
+      "approximate_travel_time": "~2 h",
+      "principal_activities": "Hiking to the cirque floor and its 422 m waterfall (highest in Europe), horse riding, canyoning, panoramic viewpoints",
+      "source_url": "https://www.lespyrenees.net/page/cirque-de-gavarnie"
+    },
+    {
+      "name": "Pont d'Espagne & Lac de Gaube",
+      "locality": "Cauterets (Hautes-Pyrénées)",
+      "attraction_type": "Waterfalls, mountain lake & Pyrenees National Park",
+      "approximate_distance_km": "~190 km",
+      "approximate_travel_time": "~2 h",
+      "principal_activities": "Hiking to Lac de Gaube with views of the Vignemale (3 298 m), waterfall viewing at Pont d'Espagne, cable-car ride, photography",
+      "source_url": "https://www.grands-sites-occitanie.fr/"
     },
     {
       "name": "Lac d'Oô",
-      "locality": "Oô, Haute-Garonne",
-      "attraction_type": "Mountain lake & waterfall",
-      "approximate_distance_km": 145,
-      "approximate_travel_time": "1 h 40",
-      "principal_activities": "Hiking (≈ 1 h 15 walk from car park), swimming viewpoint, picnicking",
-      "source_url": "https://www.komoot.com/guide/213063/natural-monuments-in-the-pyrenees"
-    },
-    {
-      "name": "Lac de Gaube",
-      "locality": "Cauterets, Hautes-Pyrénées",
-      "attraction_type": "Glacial lake",
-      "approximate_distance_km": 190,
-      "approximate_travel_time": "2 h 00",
-      "principal_activities": "Hiking, chairlift ride, views of the Vignemale (3 298 m)",
-      "source_url": "https://press.tourism-occitanie.co.uk/uploads/sites/11/2021/10/DP_GB_2020-Exp.pdf"
-    },
-    {
-      "name": "Lac de Saint-Ferréol",
-      "locality": "Saint-Ferréol, Haute-Garonne/Tarn",
-      "attraction_type": "Reservoir lake (Canal du Midi source)",
-      "approximate_distance_km": 60,
-      "approximate_travel_time": "0 h 50",
-      "principal_activities": "Swimming, walking trails, cycling, picnicking",
-      "source_url": "https://www.visit-occitanie.com/en/discovering/major-sites"
-    },
-    {
-      "name": "Gorges du Tarn",
-      "locality": "Sainte-Enimie / Le Rozier, Lozère",
-      "attraction_type": "River gorge",
-      "approximate_distance_km": 200,
-      "approximate_travel_time": "2 h 00",
-      "principal_activities": "Canoeing/kayaking, cliff-side hiking, scenic driving",
-      "source_url": "https://www.visit-occitanie.com/en/discovering/major-sites"
-    },
-    {
-      "name": "Cirque de Navacelles",
-      "locality": "Navacelles, Hérault/Gard",
-      "attraction_type": "Erosion cirque & canyon",
-      "approximate_distance_km": 190,
-      "approximate_travel_time": "1 h 50",
-      "principal_activities": "Hiking, panoramic viewpoints, river bathing",
-      "source_url": "https://www.visit-occitanie.com/en/discovering/major-sites"
-    },
-    {
-      "name": "Les Orgues d'Ille-sur-Têt",
-      "locality": "Ille-sur-Têt, Pyrénées-Orientales",
-      "attraction_type": "Fairy-chimney rock formations",
-      "approximate_distance_km": 210,
-      "approximate_travel_time": "2 h 00",
-      "principal_activities": "Geological trail walk, photography",
-      "source_url": "https://www.komoot.com/guide/213063/natural-monuments-in-the-pyrenees"
-    },
-    {
-      "name": "Gorges de Galamus",
-      "locality": "Saint-Paul-de-Fenouillet, Aude/Pyrénées-Orientales",
-      "attraction_type": "Limestone gorge",
-      "approximate_distance_km": 175,
-      "approximate_travel_time": "1 h 50",
-      "principal_activities": "Gorge walk, canyoning, visiting the Hermitage chapel",
-      "source_url": "https://www.komoot.com/guide/213063/natural-monuments-in-the-pyrenees"
-    },
-    {
-      "name": "Grotte du Mas-d'Azil",
-      "locality": "Le Mas-d'Azil, Ariège",
-      "attraction_type": "Natural cave & tunnel",
-      "approximate_distance_km": 95,
-      "approximate_travel_time": "1 h 15",
-      "principal_activities": "Cave visit (road passes through the cave), prehistory museum",
-      "source_url": "https://www.visit-occitanie.com/en/discovering/major-sites"
-    },
-    {
-      "name": "Gorges de l'Aveyron",
-      "locality": "Saint-Antonin-Noble-Val, Tarn-et-Garonne",
-      "attraction_type": "River gorge & cliffs",
-      "approximate_distance_km": 85,
-      "approximate_travel_time": "1 h 10",
-      "principal_activities": "Canoeing, rock climbing, hiking, swimming",
-      "source_url": "https://www.visit-occitanie.com/en/discovering/major-sites"
-    },
-    {
-      "name": "Forêt de Bouconne",
-      "locality": "Pibrac / Lévignac, Haute-Garonne",
-      "attraction_type": "Forest",
-      "approximate_distance_km": 25,
-      "approximate_travel_time": "0 h 30",
-      "principal_activities": "Forest walks, mountain biking, horse riding, orienteering",
-      "source_url": "https://toulouse-tourisme.prep.faire-savoir.eu/autour-de-toulouse"
+      "locality": "Oô / Bagnères-de-Luchon (Haute-Garonne)",
+      "attraction_type": "Mountain lake with waterfall",
+      "approximate_distance_km": "~150 km",
+      "approximate_travel_time": "~1 h 45",
+      "principal_activities": "Hiking (moderate trail to the lake), waterfall viewing, mountain photography",
+      "source_url": "https://www.la-poze-travel.com/roadtrip-pyrenees"
     },
     {
       "name": "Pic du Midi de Bigorre",
-      "locality": "La Mongie, Hautes-Pyrénées",
+      "locality": "La Mongie (Hautes-Pyrénées)",
       "attraction_type": "Mountain summit & observatory",
-      "approximate_distance_km": 190,
-      "approximate_travel_time": "1 h 50",
-      "principal_activities": "Cable-car ascent, panoramic terrace, stargazing, hiking",
+      "approximate_distance_km": "~185 km",
+      "approximate_travel_time": "~2 h",
+      "principal_activities": "Cable-car ascent to 2 877 m, 360° panorama of the Pyrenees chain, stargazing at the observatory, suspended sky-bridge walk",
+      "source_url": "https://presse.tourisme-occitanie.com/uploads/sites/9/2022/02/DP-Rugby-GB-2022.pdf"
+    },
+    {
+      "name": "Gorges du Tarn",
+      "locality": "Sainte-Enimie / La Malène (Lozère)",
+      "attraction_type": "River canyon",
+      "approximate_distance_km": "~210 km",
+      "approximate_travel_time": "~2 h",
+      "principal_activities": "Canoeing/kayaking (13–21 km circuits), swimming in turquoise pools, cliff-side hiking, wildlife watching (vultures, beavers)",
+      "source_url": "https://www.tourisme-occitanie.com/les-grands-sites-occitanie-a-la-campagne/gorges-du-tarn"
+    },
+    {
+      "name": "Gorges de l'Aveyron",
+      "locality": "Saint-Antonin-Noble-Val / Najac (Tarn-et-Garonne / Aveyron)",
+      "attraction_type": "River gorge & limestone cliffs",
+      "approximate_distance_km": "~85 km",
+      "approximate_travel_time": "~1 h 15",
+      "principal_activities": "Canoeing, rock climbing, hiking, swimming in the Aveyron river",
       "source_url": "https://www.visit-occitanie.com/en/discovering/major-sites"
+    },
+    {
+      "name": "Massif du Néouvielle",
+      "locality": "Vallée d'Aure / Vallée du Louron (Hautes-Pyrénées)",
+      "attraction_type": "Nature reserve with alpine lakes",
+      "approximate_distance_km": "~170 km",
+      "approximate_travel_time": "~1 h 50",
+      "principal_activities": "Hiking among high-altitude lakes (Lac d'Aubert, Lac d'Aumar), wildlife observation, mountain photography",
+      "source_url": "https://www.grands-sites-occitanie.fr/"
     }
   ],
   "entities": null

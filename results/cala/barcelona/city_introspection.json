@@ -1,0 +1,20 @@
+{
+  "properties": [
+    "aliases",
+    "description",
+    "name",
+    "population",
+    "wikidata_qid",
+    "id"
+  ],
+  "relationships": {
+    "outgoing": [
+      "WITHIN",
+      "BORDERS_WITH"
+    ],
+    "incoming": [
+      "BORDERS_WITH"
+    ]
+  },
+  "numerical_observations": {}
+}
