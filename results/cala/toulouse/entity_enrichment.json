@@ -1,0 +1,1874 @@
+{
+  "city": "toulouse",
+  "entities": [
+    {
+      "name": "Cassoulet de Toulouse",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Cassoulet de Toulouse",
+            "recommendation_type": "Le Colombier",
+            "locality_or_neighbourhood": "Rue Bayard, city centre (near Gare Matabiau)",
+            "why_it_is_special": "A Toulouse institution since 1873, originally stables for the Capitouls then a coaching inn. Widely regarded as the reference for cassoulet in the city — slow-cooked white beans, duck confit, pork, and saucisse de Toulouse in an earthenware cassole.",
+            "source_url": "https://www.restaurant-lecolombier.com/"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "dcc503da-d56f-442e-82aa-efcef5ccc413",
+            "name": "Cassoulet de Toulouse",
+            "entity_type": "Product",
+            "description": "A traditional French stew from Toulouse featuring white beans, duck confit, and sausage."
+          },
+          {
+            "id": "7ef93ee2-2e73-4993-aa2d-26dce592f90a",
+            "name": "Muséum de Toulouse",
+            "entity_type": "Facility",
+            "description": "A natural-history museum located in Toulouse, France."
+          },
+          {
+            "id": "2101a904-d52c-500a-b90f-85ca10bccf55",
+            "name": "Toulouse",
+            "entity_type": "Municipality",
+            "description": "A municipality in France that hosts the operational headquarters of Airbus SE."
+          },
+          {
+            "id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
+            "name": "saucisse de Toulouse",
+            "entity_type": "Product",
+            "description": "Traditional French pork sausage from Toulouse, commonly used as a key ingredient in cassoulet."
+          },
+          {
+            "id": "85de1f34-f845-48f5-af1c-d67a337a014f",
+            "name": "Toulouse d'Été",
+            "entity_type": "Event",
+            "description": "A multidisciplinary summer festival of concerts and cultural visits held in Toulouse, France."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "dcc503da-d56f-442e-82aa-efcef5ccc413",
+        "name": "Cassoulet de Toulouse",
+        "entity_type": "Product",
+        "description": "A traditional French stew from Toulouse featuring white beans, duck confit, and sausage."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "dcc503da-d56f-442e-82aa-efcef5ccc413",
+        "name": "Cassoulet de Toulouse",
+        "entity_type": "Product",
+        "description": "A traditional French stew from Toulouse featuring white beans, duck confit, and sausage.",
+        "properties": {},
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Saucisse de Toulouse",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Saucisse de Toulouse",
+            "recommendation_type": "Marché de Saint-Cyprien (butchers' stalls)",
+            "locality_or_neighbourhood": "Saint-Cyprien, left bank of the Garonne",
+            "why_it_is_special": "Buy the sausage fresh and uncooked from artisan charcutiers at this neighbourhood market. The authentic saucisse is coarse-ground pork shoulder seasoned with garlic and pepper, and has held a Label Rouge since 1992. Grill it at home or ask a market vendor to point you to a nearby grill spot.",
+            "source_url": "https://www.getyourguide.com/fr-fr/explorer/toulouse-ttd288/food-in-toulouse"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
+            "name": "saucisse de Toulouse",
+            "entity_type": "Product",
+            "description": "Traditional French pork sausage from Toulouse, commonly used as a key ingredient in cassoulet."
+          },
+          {
+            "id": "7ef93ee2-2e73-4993-aa2d-26dce592f90a",
+            "name": "Muséum de Toulouse",
+            "entity_type": "Facility",
+            "description": "A natural-history museum located in Toulouse, France."
+          },
+          {
+            "id": "2101a904-d52c-500a-b90f-85ca10bccf55",
+            "name": "Toulouse",
+            "entity_type": "Municipality",
+            "description": "A municipality in France that hosts the operational headquarters of Airbus SE."
+          },
+          {
+            "id": "85de1f34-f845-48f5-af1c-d67a337a014f",
+            "name": "Toulouse d'Été",
+            "entity_type": "Event",
+            "description": "A multidisciplinary summer festival of concerts and cultural visits held in Toulouse, France."
+          },
+          {
+            "id": "2479f3f3-d287-5343-a5f4-14cce63937bb",
+            "name": "Vieille-Toulouse",
+            "entity_type": "Municipality",
+            "description": "commune in Haute-Garonne, France"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
+        "name": "saucisse de Toulouse",
+        "entity_type": "Product",
+        "description": "Traditional French pork sausage from Toulouse, commonly used as a key ingredient in cassoulet."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
+        "name": "saucisse de Toulouse",
+        "entity_type": "Product",
+        "description": "Traditional French pork sausage from Toulouse, commonly used as a key ingredient in cassoulet.",
+        "properties": {
+          "aliases": {
+            "value": [
+              "Toulouse sausage"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Violettes de Toulouse",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Violettes de Toulouse",
+            "recommendation_type": "Violettes et Pastels",
+            "locality_or_neighbourhood": "10 Rue Saint-Pantaléon, historic centre (near Place du Capitole)",
+            "why_it_is_special": "A specialist boutique dedicated to Toulouse's floral emblem. Crystallised violets date back to the 19th century, when nomadic traders brought wild violets from the Tarn-et-Garonne to the city's markets. The shop stocks candies, liqueurs, jams, and cosmetics — all violet-based.",
+            "source_url": "https://www.toulouse-tourisme.com/en/commerce/violettes-et-pastels"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "6faaa564-3a9d-4fa0-a512-2d70dd540aaf",
+            "name": "Violettes de Toulouse",
+            "entity_type": "Product",
+            "description": "A French confection of candied violet petals and violet‑flavored treats originating from Toulouse."
+          },
+          {
+            "id": "7ef93ee2-2e73-4993-aa2d-26dce592f90a",
+            "name": "Muséum de Toulouse",
+            "entity_type": "Facility",
+            "description": "A natural-history museum located in Toulouse, France."
+          },
+          {
+            "id": "2101a904-d52c-500a-b90f-85ca10bccf55",
+            "name": "Toulouse",
+            "entity_type": "Municipality",
+            "description": "A municipality in France that hosts the operational headquarters of Airbus SE."
+          },
+          {
+            "id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
+            "name": "saucisse de Toulouse",
+            "entity_type": "Product",
+            "description": "Traditional French pork sausage from Toulouse, commonly used as a key ingredient in cassoulet."
+          },
+          {
+            "id": "85de1f34-f845-48f5-af1c-d67a337a014f",
+            "name": "Toulouse d'Été",
+            "entity_type": "Event",
+            "description": "A multidisciplinary summer festival of concerts and cultural visits held in Toulouse, France."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "6faaa564-3a9d-4fa0-a512-2d70dd540aaf",
+        "name": "Violettes de Toulouse",
+        "entity_type": "Product",
+        "description": "A French confection of candied violet petals and violet‑flavored treats originating from Toulouse."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "6faaa564-3a9d-4fa0-a512-2d70dd540aaf",
+        "name": "Violettes de Toulouse",
+        "entity_type": "Product",
+        "description": "A French confection of candied violet petals and violet‑flavored treats originating from Toulouse.",
+        "properties": {},
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Basilique Saint-Sernin",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Basilique Saint-Sernin",
+            "recommendation_type": "Historic building (UNESCO World Heritage)",
+            "locality_or_neighbourhood": "Place Saint-Sernin, city centre",
+            "why_it_is_special": "Built between 1070 and 1300, it is the largest Romanesque church in Europe. Its 115-metre length, five naves, 64-metre transept, and more than 400 sculpted capitals make it an architectural masterpiece and a key stop on the Santiago de Compostela pilgrimage route.",
+            "source_url": "https://basilique-saint-sernin.fr/saint-sernin-parcours1en"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "3458a53d-8257-4131-859a-50cf1b3e6208",
+            "name": "Basilique Saint-Sernin",
+            "entity_type": "Facility",
+            "description": "Romanesque basilica in Toulouse, France, noted for its octagonal bell tower."
+          },
+          {
+            "id": "cd53439a-ab88-5126-8235-76ea75b4aa88",
+            "name": "Larroque-Saint-Sernin",
+            "entity_type": "Municipality",
+            "description": "commune in Gers, France"
+          },
+          {
+            "id": "41a73d8a-c91c-5670-b72b-c1f1a80b721c",
+            "name": "Saint-Sernin-lès-Lavaur",
+            "entity_type": "Municipality",
+            "description": "commune in Tarn, France"
+          },
+          {
+            "id": "4200dd9c-681d-5d1f-8ae0-2bc352fbbe50",
+            "name": "Saint-Sernin-sur-Rance",
+            "entity_type": "Municipality",
+            "description": "commune in Aveyron, France"
+          },
+          {
+            "id": "0e82b05f-01d0-544b-ba1f-4c6e937aaa62",
+            "name": "Saint-Sernin",
+            "entity_type": "Municipality",
+            "description": "commune in Lot-et-Garonne, France"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "3458a53d-8257-4131-859a-50cf1b3e6208",
+        "name": "Basilique Saint-Sernin",
+        "entity_type": "Facility",
+        "description": "Romanesque basilica in Toulouse, France, noted for its octagonal bell tower."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "3458a53d-8257-4131-859a-50cf1b3e6208",
+        "name": "Basilique Saint-Sernin",
+        "entity_type": "Facility",
+        "description": "Romanesque basilica in Toulouse, France, noted for its octagonal bell tower.",
+        "properties": {
+          "aliases": {
+            "value": [
+              "Basilique Saint‑Sernin"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Fénétra",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Fénétra",
+            "recommendation_type": "Maison Pillon",
+            "locality_or_neighbourhood": "2 Rue Ozenne, Carmes quarter (also at 3 Place du Capitole)",
+            "why_it_is_special": "A Toulouse pâtisserie founded in 1967, now with seven shops across the city. Fénétra is a medieval-origin tart layered with shortcrust pastry, almond cream, candied apricot, and candied lemon — traditionally baked for the Fête de la Fénétra in late June. Maison Pillon prepares it canonically, as it has been made for decades.",
+            "source_url": "https://www.maison-pillon.fr/"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "5e752326-7919-4ec5-b4bd-e210075dbc3f",
+            "name": "Fenetra Spółka z ograniczoną odpowiedzialnością",
+            "entity_type": "Company",
+            "description": "Polish limited liability company founded in 2004 and headquartered in Ostrów Wielkopolski."
+          },
+          {
+            "id": "cab0d09a-5e7a-4081-ba1f-84c60bb54afb",
+            "name": "Fénétra",
+            "entity_type": "Product",
+            "description": null
+          },
+          {
+            "id": "c4e7e0cd-e80e-478e-b60f-14233a7528c2",
+            "name": "Fête du Grand Fénétra",
+            "entity_type": "Event",
+            "description": "A traditional local celebration held in Toulouse, France."
+          },
+          {
+            "id": "7a1676e7-299b-5c65-9206-b84a7c0a199f",
+            "name": "Fenegrò",
+            "entity_type": "Municipality",
+            "description": "Italian comune"
+          },
+          {
+            "id": "5af987c1-3888-4d33-a32c-038612e00a93",
+            "name": "Fenetrag AG",
+            "entity_type": "Company",
+            "description": "Swiss company headquartered in Wollerau, founded in 1982."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "5e752326-7919-4ec5-b4bd-e210075dbc3f",
+        "name": "Fenetra Spółka z ograniczoną odpowiedzialnością",
+        "entity_type": "Company",
+        "description": "Polish limited liability company founded in 2004 and headquartered in Ostrów Wielkopolski."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "5e752326-7919-4ec5-b4bd-e210075dbc3f",
+        "name": "Fenetra Spółka z ograniczoną odpowiedzialnością",
+        "entity_type": "Company",
+        "description": "Polish limited liability company founded in 2004 and headquartered in Ostrów Wielkopolski.",
+        "properties": {
+          "registered_address": {
+            "value": "Ostrów Wielkopolski Lewkowiec 15A, Ostrów Wielkopolski, PL-30, 63-400, PL",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/259400DVG1E10U9CLN69",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "aliases": {
+            "value": [
+              "Fenetra Społka z ograniczona odpowiedzialnoscia"
+            ],
+            "sources": []
+          },
+          "headquarters_address": {
+            "value": "Ostrów Wielkopolski Lewkowiec 15A, Ostrów Wielkopolski, PL-30, 63-400, PL",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/259400DVG1E10U9CLN69",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "founding_date": {
+            "value": "2004-02-20",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/259400DVG1E10U9CLN69",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "lei": {
+            "value": "259400DVG1E10U9CLN69",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/259400DVG1E10U9CLN69",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "legal_name": {
+            "value": "Fenetra Spółka z ograniczoną odpowiedzialnością",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/259400DVG1E10U9CLN69",
+                "date": "2026-04-08"
+              }
+            ]
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Magret de canard",
+      "recommendations": [
+        {
+          "category": "food",
+          "row": {
+            "name": "Magret de canard",
+            "recommendation_type": "Le J'Go",
+            "locality_or_neighbourhood": "Place Victor Hugo, city centre",
+            "why_it_is_special": "A bistro celebrated for its south-west French produce, sourcing duck directly from farms in the Gers — the very region where chef André Daguin \"invented\" the magret in the 1960s. The breast is scored, pan-seared until the skin is crispy, and served pink, often with seasonal accompaniments. Pair it with a Fronton or Madiran red.",
+            "source_url": "https://www.toulouse-tourisme.com/?p=8790"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "41421a8b-eedd-46cb-85af-6fdb772c80cc",
+            "name": "Magret de canard",
+            "entity_type": "Product",
+            "description": null
+          },
+          {
+            "id": "f4678f1a-cfa7-4e92-9567-e1dda380076a",
+            "name": "CANARD LTD",
+            "entity_type": "Company",
+            "description": "A British software, telecommunications and news services company founded in 2020 and headquartered in Thatcham, England."
+          },
+          {
+            "id": "1eb8448a-bec5-5f37-83f1-810a345153e2",
+            "name": "Magret Mvula",
+            "entity_type": "Person",
+            "description": "British person born in 1980."
+          },
+          {
+            "id": "470e4795-1d5f-5e53-acf7-c54c958af7f7",
+            "name": "Magret Kawodza",
+            "entity_type": "Person",
+            "description": "British person born in 1977."
+          },
+          {
+            "id": "3f2fd699-2a5b-5074-bd9e-51dd7cd2f362",
+            "name": "Magret Gotora",
+            "entity_type": "Person",
+            "description": "British person born in 1970."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "41421a8b-eedd-46cb-85af-6fdb772c80cc",
+        "name": "Magret de canard",
+        "entity_type": "Product",
+        "description": null
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "41421a8b-eedd-46cb-85af-6fdb772c80cc",
+        "name": "Magret de canard",
+        "entity_type": "Product",
+        "description": null,
+        "properties": {},
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Couvent des Jacobins",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Couvent des Jacobins",
+            "recommendation_type": "Historic monument / cultural venue",
+            "locality_or_neighbourhood": "Place des Jacobins, city centre",
+            "why_it_is_special": "A jewel of Southern Gothic architecture built in the 13th–14th centuries. Its double nave culminates in the famous \"Palmier des Jacobins\" — a spectacular stone column whose 22 ribs fan out across the ceiling. The convent houses the relics of Saint Thomas Aquinas and hosts concerts and exhibitions in its cloister and refectory.",
+            "source_url": "https://www.toulouse-tourisme.com/nos-incontournables/le-couvent-des-jacobins"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "7bd88675-8e15-49bb-beac-22c5a07d8324",
+            "name": "Couvent des Jacobins",
+            "entity_type": "Facility",
+            "description": "historic convent in Toulouse, France, renowned for its palm‑tree vaulted ceiling"
+          },
+          {
+            "id": "d6512103-143c-4ac1-a326-9b6a718b9926",
+            "name": "COUVENT DES DOMINICAINES",
+            "entity_type": "Company",
+            "description": "French company headquartered in Monteils, founded in 1900."
+          },
+          {
+            "id": "89a48aa3-2e76-4e44-b71c-0fcc46046ded",
+            "name": "Place des Jacobins",
+            "entity_type": "Location",
+            "description": null
+          },
+          {
+            "id": "616190ec-3c95-42ac-bd13-d44a711db596",
+            "name": "JACOBINS",
+            "entity_type": "Company",
+            "description": "A French company founded in 2016 and headquartered in Paris."
+          },
+          {
+            "id": "43d1ab0a-5bf7-49cb-85f6-e947e348e600",
+            "name": "COUVENT DES SAINTS COEURS",
+            "entity_type": "Company",
+            "description": "French company headquartered in Tournon-sur-Rhône, founded in 1900."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "7bd88675-8e15-49bb-beac-22c5a07d8324",
+        "name": "Couvent des Jacobins",
+        "entity_type": "Facility",
+        "description": "historic convent in Toulouse, France, renowned for its palm‑tree vaulted ceiling"
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "7bd88675-8e15-49bb-beac-22c5a07d8324",
+        "name": "Couvent des Jacobins",
+        "entity_type": "Facility",
+        "description": "historic convent in Toulouse, France, renowned for its palm‑tree vaulted ceiling",
+        "properties": {
+          "aliases": {
+            "value": [
+              "Jacobin Convent"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Musée des Augustins",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Musée des Augustins",
+            "recommendation_type": "Fine-arts museum",
+            "locality_or_neighbourhood": "Rue de Metz, historic centre",
+            "why_it_is_special": "Toulouse's fine-arts museum, housed in a 14th-century Gothic Augustinian convent. One of the oldest museums in France (founded 1793), it holds a unique collection of Romanesque and Gothic sculpture alongside paintings from the Middle Ages to the 20th century, including works by Rubens, Delacroix, and Corot.",
+            "source_url": "https://www.toulouse-tourisme.com/en/activite/the-musee-des-augustins"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "763b7d57-0c68-49e9-ba14-e3f65a4044a6",
+            "name": "Musée des Augustins",
+            "entity_type": "Facility",
+            "description": "A fine‑arts museum located in a former Augustinian monastery in Toulouse, France."
+          },
+          {
+            "id": "8d2e3b40-9eb0-4de8-9f4a-f1875abb2adf",
+            "name": "Musée des Augustins",
+            "entity_type": "Organization",
+            "description": null
+          },
+          {
+            "id": "c31f9223-a61e-4d68-a511-5703aba8a737",
+            "name": "Musée des Antiquités nationales",
+            "entity_type": "Organization",
+            "description": "a French museum in Saint‑Germain‑en‑Laye dedicated to the preservation and study of national antiquities"
+          },
+          {
+            "id": "60aed698-bd2a-41cf-893c-0c92cf9c89f8",
+            "name": "Musée des Arts Décoratifs",
+            "entity_type": "Organization",
+            "description": "A planned decorative arts museum in Paris, France, for which Auguste Rodin’s sculptural group “Las Puertas del Infierno” was commissioned in 1880."
+          },
+          {
+            "id": "409c2a54-ffab-4c79-b9af-6477d4edc4fb",
+            "name": "AUGUSTINS LTD",
+            "entity_type": "Company",
+            "description": "A British legal services company founded in 2013 and headquartered in Enfield, London."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "763b7d57-0c68-49e9-ba14-e3f65a4044a6",
+        "name": "Musée des Augustins",
+        "entity_type": "Facility",
+        "description": "A fine‑arts museum located in a former Augustinian monastery in Toulouse, France."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "763b7d57-0c68-49e9-ba14-e3f65a4044a6",
+        "name": "Musée des Augustins",
+        "entity_type": "Facility",
+        "description": "A fine‑arts museum located in a former Augustinian monastery in Toulouse, France.",
+        "properties": {
+          "aliases": {
+            "value": [
+              "Musee des Augustins"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Hôtel d'Assézat / Fondation Bemberg",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Hôtel d'Assézat / Fondation Bemberg",
+            "recommendation_type": "Renaissance mansion & art museum",
+            "locality_or_neighbourhood": "Place d'Assézat, city centre",
+            "why_it_is_special": "One of Toulouse's finest Renaissance hôtels particuliers, built in the 16th century for pastel-trade merchant Pierre II d'Assézat. It now houses the Fondation Bemberg, a major private art collection spanning five centuries — from Renaissance masters (Titian, Veronese) to French Impressionists and Post-Impressionists (Bonnard, Canaletto).",
+            "source_url": "https://www.fondation-bemberg.fr/musee/lhotel-dassezat"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "41e31b95-8d38-4ecc-995d-b10f32fd3296",
+            "name": "BEMBERG",
+            "entity_type": "Organization",
+            "description": "a Luxembourg-based financial group active in banking, asset management, real estate and private equity, owned by BEMBERG Capital."
+          },
+          {
+            "id": "ce765ed9-6e68-4a2d-b66f-81d5475c78f7",
+            "name": "BEMBERG CAPITAL",
+            "entity_type": "Company",
+            "description": "Luxembourg-based investment firm founded in 1969, active in banking, asset management and private equity."
+          },
+          {
+            "id": "57fd0ff7-5ff9-4fec-a2a7-c833f4098385",
+            "name": "Bemberg Family Group",
+            "entity_type": "Organization",
+            "description": "a family‑owned conglomerate founded in 1959 that operates in banking, asset management, real estate, food and beverage, and private equity"
+          },
+          {
+            "id": "9c3a02a3-a653-4c0e-a43a-4f3896b76170",
+            "name": "Miguens-Bemberg",
+            "entity_type": "Organization",
+            "description": "A family holding and investment group headquartered in Buenos Aires, Argentina."
+          },
+          {
+            "id": "24aaf7ff-9ae0-4c9f-b06d-a43633d91cb8",
+            "name": "Fondation Bemberg",
+            "entity_type": "Organization",
+            "description": "French art foundation in Toulouse that displays the collection of Georges Bemberg."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "41e31b95-8d38-4ecc-995d-b10f32fd3296",
+        "name": "BEMBERG",
+        "entity_type": "Organization",
+        "description": "a Luxembourg-based financial group active in banking, asset management, real estate and private equity, owned by BEMBERG Capital."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "41e31b95-8d38-4ecc-995d-b10f32fd3296",
+        "name": "BEMBERG",
+        "entity_type": "Organization",
+        "description": "a Luxembourg-based financial group active in banking, asset management, real estate and private equity, owned by BEMBERG Capital.",
+        "properties": {
+          "website": {
+            "value": "bembergcapital.com",
+            "sources": [
+              {
+                "name": "www.linkedin.com",
+                "document": "https://www.linkedin.com/company/bembergcapital",
+                "date": "2026-06-29"
+              },
+              {
+                "name": "Bemberg Capital - Independent global wealth management",
+                "document": "https://bembergcapital.com",
+                "date": "2025-03-04"
+              }
+            ]
+          },
+          "registered_address": {
+            "value": "9 Allée Scheffer, 2520 Luxembourg, Luxembourg",
+            "sources": [
+              {
+                "name": "www.verif.com",
+                "document": "https://www.verif.com/en/company/BEMBERG-CAPITAL-7a46d1adad70627d19b4aace88750669a9865fdb724e80b81e8cd73e6e8812e0",
+                "date": "2026-06-29"
+              },
+              {
+                "name": "www.codelei.fr",
+                "document": "https://www.codelei.fr/leicert/222100ZGCZA9VOWCZ375",
+                "date": "2026-06-29"
+              }
+            ]
+          },
+          "aliases": {
+            "value": [
+              "Bemberg Family Group",
+              "Miguens-Bemberg family",
+              "BEMBERG financial group"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Cité de l'Espace",
+      "recommendations": [
+        {
+          "category": "culture",
+          "row": {
+            "name": "Cité de l'Espace",
+            "recommendation_type": "Science & space museum / theme park",
+            "locality_or_neighbourhood": "South-east Toulouse (off the A61)",
+            "why_it_is_special": "A space-themed science centre featuring full-scale replicas of the Ariane 5 rocket, the Mir space station, and Soyuz modules, plus a planetarium and interactive exhibits including a mission-control mock-up. It reflects Toulouse's role as the capital of European aerospace and is the top-rated science museum in the city.",
+            "source_url": "https://whichmuseum.com/museum/cite-de-l-espace-toulouse-6865"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "fa9d86e4-33fc-42e0-921d-2ec77033825a",
+            "name": "Cité de l'Espace",
+            "entity_type": "Facility",
+            "description": null
+          },
+          {
+            "id": "fbfc12c9-68f0-4553-9c03-dd98fac9cec2",
+            "name": "Cité de l'Espace",
+            "entity_type": "Product",
+            "description": "A space‑themed museum in Toulouse, France, showcasing aeronautical heritage."
+          },
+          {
+            "id": "822e3a54-9778-4e04-9fe3-f69d0f3546ae",
+            "name": "FONDATION ENTREPRENEURS DE LA CITE",
+            "entity_type": "Company",
+            "description": "A French company founded in 2005 and headquartered in Villeurbanne."
+          },
+          {
+            "id": "03c47a6c-a2f5-428a-bf79-5ef828bd2f26",
+            "name": "École Nationale Supérieure de l'Aéronautique et de l'Espace (ISAE-SUPAERO)",
+            "entity_type": "EducationalInstitution",
+            "description": "a French aerospace engineering school"
+          },
+          {
+            "id": "c0f78679-8a48-41fd-8b04-c0972797183e",
+            "name": "Association Française des Tunnels et de l'Espace Souterrain",
+            "entity_type": "Organization",
+            "description": "A French professional association focused on tunnels and underground spaces."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "fa9d86e4-33fc-42e0-921d-2ec77033825a",
+        "name": "Cité de l'Espace",
+        "entity_type": "Facility",
+        "description": null
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 429: Too Many Requests"
+        }
+      }
+    },
+    {
+      "name": "Jardin des Plantes",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Jardin des Plantes",
+            "recommendation_type": "City park / Botanical garden",
+            "locality": "Toulouse centre (Allée Frédéric Mistral)",
+            "principal_activities": "Strolling, botanical discovery, picnicking",
+            "why_it_is_special": "An ancient botanical garden created in 1794 by naturalist Philippe Picot de Lapeyrouse, originally for medical students to study medicinal plants. Offers remarkable trees, themed botanical squares, and seasonal collections.",
+            "source_url": "https://www.toulouse-tourisme.com/en/activite/jardin-des-plantes"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 429: Too Many Requests"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Jardin Japonais Pierre-Baudis (Jardin Compans-Caffarelli)",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Jardin Japonais Pierre-Baudis (Jardin Compans-Caffarelli)",
+            "recommendation_type": "City park / Zen garden",
+            "locality": "Toulouse centre (Boulevard Lascrosses / Boulevard de la Marquette)",
+            "principal_activities": "Contemplative walks, photography, relaxation",
+            "why_it_is_special": "A tranquil Japanese-inspired garden inside the Compans-Caffarelli park featuring a Zen rock garden, Buddhist statues, a tea pavilion, a red bridge, a dragon sculpture, and a shimmering lake — a surprising oasis of exoticism near the old city ramparts.",
+            "source_url": "https://trip101.com/article/jardin-japonais-toulouse"
+          }
+        }
+      ],
+      "entity_search": {
+        "error": {
+          "type": "HTTPError",
+          "message": "HTTP Error 429: Too Many Requests"
+        }
+      },
+      "selected_entity": null,
+      "selection_strategy": "no_match"
+    },
+    {
+      "name": "Canal du Midi towpath",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Canal du Midi towpath",
+            "recommendation_type": "UNESCO heritage trail",
+            "locality": "Starts in Toulouse centre, extends southeast toward Avignonet-Lauragais and beyond",
+            "principal_activities": "Cycling, walking, jogging, boat cruises",
+            "why_it_is_special": "A UNESCO World Heritage waterway lined with plane trees. A 50 km flat, car-free greenway runs from Toulouse to Avignonet-Lauragais on the old towpath — ideal for a half-day or full-day cycling outing. Shorter strolls along the canal within the city are equally rewarding.",
+            "source_url": "https://www.toulouse-tourisme.com/en/cycling-on-the-canal-du-midi"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "dbb79b0a-6d76-4ed6-928b-69c0a0f661cc",
+            "name": "GROUPE LA DEPECHE DU MIDI",
+            "entity_type": "Company",
+            "description": "French media company headquartered in Toulouse, founded in 1957, that publishes a regional daily newspaper."
+          },
+          {
+            "id": "3ad662e5-6d97-49db-97fc-038615a7dd3b",
+            "name": "Canal du Midi",
+            "entity_type": "Product",
+            "description": "A historic 240 km French canal linking Toulouse with the Mediterranean Sea."
+          },
+          {
+            "id": "557bc025-82b5-4112-9ac4-e3fe19ce22a2",
+            "name": "Canal du Midi",
+            "entity_type": "Facility",
+            "description": "A historic waterway in southern France that passes through Toulouse."
+          },
+          {
+            "id": "576cde04-3b6b-418d-ba19-9494ae9b3fdc",
+            "name": "COMPAGNIE FONCIERE DU CANAL",
+            "entity_type": "Company",
+            "description": "A Belgian real‑estate investment company headquartered in Brussels."
+          },
+          {
+            "id": "c6fc282b-8028-49cd-a106-754ad5692058",
+            "name": "Compagnie Universelle du Canal Interocéanique",
+            "entity_type": "Organization",
+            "description": "French company founded in 1879 to design and construct a sea‑level Panama Canal"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "dbb79b0a-6d76-4ed6-928b-69c0a0f661cc",
+        "name": "GROUPE LA DEPECHE DU MIDI",
+        "entity_type": "Company",
+        "description": "French media company headquartered in Toulouse, founded in 1957, that publishes a regional daily newspaper."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "dbb79b0a-6d76-4ed6-928b-69c0a0f661cc",
+        "name": "GROUPE LA DEPECHE DU MIDI",
+        "entity_type": "Company",
+        "description": "French media company headquartered in Toulouse, founded in 1957, that publishes a regional daily newspaper.",
+        "properties": {
+          "registered_address": {
+            "value": "AVENUE JEAN BAYLET, TOULOUSE, 31100, FR",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500EGDNQZ6MUCZ543",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "aliases": {
+            "value": [
+              "LA DEPECHE DU MIDI"
+            ],
+            "sources": []
+          },
+          "headquarters_address": {
+            "value": "AVENUE JEAN BAYLET, TOULOUSE, 31100, FR",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500EGDNQZ6MUCZ543",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "founding_date": {
+            "value": "1957-01-01",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500EGDNQZ6MUCZ543",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "lei": {
+            "value": "969500EGDNQZ6MUCZ543",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500EGDNQZ6MUCZ543",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "legal_name": {
+            "value": "GROUPE LA DEPECHE DU MIDI",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500EGDNQZ6MUCZ543",
+                "date": "2026-04-08"
+              }
+            ]
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Prairie des Filtres",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Prairie des Filtres",
+            "recommendation_type": "Riverside green space",
+            "locality": "Toulouse centre (left bank of the Garonne, between Pont Neuf and Pont Saint-Michel)",
+            "principal_activities": "Picnicking, riverside walking, summer \"Toulouse Plage\" beach, open-air festivals",
+            "why_it_is_special": "One of the most popular green spaces in the city, stretching along the Garonne with magnificent views of the river and the pink-brick quays of Tounis. Named after the historic water-filtering system that once supplied Toulouse's fountains. Hosts the Rio Loco world-music festival each June.",
+            "source_url": "https://www.toulouse-tourisme.com/en/activite/prairie-des-filtres"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "8fc2683d-f0be-5b93-85c4-de27917fc9a2",
+            "name": "La Prairie",
+            "entity_type": "Municipality",
+            "description": "city in Montérégie Québec, Canada"
+          },
+          {
+            "id": "5a137624-d46e-573a-a8b6-0f0c56c195ca",
+            "name": "Eden Prairie",
+            "entity_type": "Municipality",
+            "description": "city in Hennepin County, Minnesota, United States"
+          },
+          {
+            "id": "52358d80-d9a9-54df-a090-a78a7cd17342",
+            "name": "Prairie Village",
+            "entity_type": "Municipality",
+            "description": "city in Johnson County, Kansas, United States"
+          },
+          {
+            "id": "b1f99683-228b-552a-a7dd-75ce91a0c3b8",
+            "name": "Prairie Grove",
+            "entity_type": "Municipality",
+            "description": "village in McHenry County, Illinois, United States of America"
+          },
+          {
+            "id": "a9e6798c-ec4c-5cd3-9444-8f8f6f22292d",
+            "name": "Grand Prairie",
+            "entity_type": "Municipality",
+            "description": "city in Dallas, Tarrant, and Ellis counties in Texas, United States"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "8fc2683d-f0be-5b93-85c4-de27917fc9a2",
+        "name": "La Prairie",
+        "entity_type": "Municipality",
+        "description": "city in Montérégie Québec, Canada"
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "8fc2683d-f0be-5b93-85c4-de27917fc9a2",
+        "name": "La Prairie",
+        "entity_type": "Municipality",
+        "description": "city in Montérégie Québec, Canada",
+        "properties": {
+          "aliases": {
+            "value": [
+              "La Prairie, Quebec",
+              "La Prairie, QC",
+              "La Prairie (Québec)",
+              "Prairie-de-la-Madeleine",
+              "Laprairie",
+              "Laprairie de la Magdeleine",
+              "Laprairie-de-la-Magdeleine",
+              "Ville de La Prairie",
+              "La Prairie (Quebec)"
+            ],
+            "sources": []
+          },
+          "wikidata_qid": {
+            "value": "Q142092",
+            "sources": [
+              {
+                "name": "Wikidata",
+                "document": "https://www.wikidata.org/wiki/Q142092",
+                "date": "2026-07-09"
+              }
+            ]
+          },
+          "population": {
+            "value": 27015,
+            "sources": [
+              {
+                "name": "Wikidata",
+                "document": "https://www.wikidata.org/wiki/Q142092",
+                "date": "2026-07-09"
+              }
+            ]
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Base de Loisirs de La Ramée",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Base de Loisirs de La Ramée",
+            "recommendation_type": "Lakeside leisure park",
+            "locality": "Tournefeuille (≈ 10 km west of Toulouse centre)",
+            "principal_activities": "Walking, swimming (summer beach), paddle sports, picnicking, golf",
+            "why_it_is_special": "A 243-hectare outdoor recreation area built around a 44-hectare lake fed by the Canal de Saint-Martory. Includes woodland, play areas, and a public beach with fine sand in summer — a quick escape from the city accessible by bus.",
+            "source_url": "https://www.toulouse-tourisme.com/activite/base-de-sports-et-de-loisirs-de-la-ramee"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "9d96eb87-7088-4cf9-8306-3aecebf3856a",
+            "name": "Base de la Fuerza Aérea de Vandenberg",
+            "entity_type": "Facility",
+            "description": "A United States space launch base in California, built in 1941."
+          },
+          {
+            "id": "b75d81e0-a942-46af-93ec-e9b0c4df8c26",
+            "name": "Base Aérea de Talavera la Real",
+            "entity_type": "Facility",
+            "description": "an air base located in Badajoz province"
+          },
+          {
+            "id": "a321a1f1-f80a-4632-9d27-b010185e8308",
+            "name": "Base de Bótoa",
+            "entity_type": "Facility",
+            "description": "A mechanized brigade army base located in Badajoz."
+          },
+          {
+            "id": "4310d8f0-da6f-4710-80c0-0672d1923203",
+            "name": "base de datos de residuos de plaguicidas de la UE",
+            "entity_type": "Organization",
+            "description": "an official European Union database for consulting maximum pesticide residue limits"
+          },
+          {
+            "id": "688a5035-255e-404d-9e4f-f0ae80c8499e",
+            "name": "La seguridad nacional de Cuba y la cuestión de la base naval",
+            "entity_type": "WorkOfArt",
+            "description": "A work of art featuring Rafael Hernández."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "9d96eb87-7088-4cf9-8306-3aecebf3856a",
+        "name": "Base de la Fuerza Aérea de Vandenberg",
+        "entity_type": "Facility",
+        "description": "A United States space launch base in California, built in 1941."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "9d96eb87-7088-4cf9-8306-3aecebf3856a",
+        "name": "Base de la Fuerza Aérea de Vandenberg",
+        "entity_type": "Facility",
+        "description": "A United States space launch base in California, built in 1941.",
+        "properties": {
+          "aliases": {
+            "value": [
+              "Base de la Fuerza Aerea de Vandenberg",
+              "Vandenberg"
+            ],
+            "sources": []
+          },
+          "capacity": {
+            "value": "99604 acres",
+            "sources": [
+              {
+                "name": "www.vandenberg.spaceforce.mil",
+                "document": "https://www.vandenberg.spaceforce.mil/About-Us/History",
+                "date": "2026-06-06"
+              },
+              {
+                "name": "www.islapedia.com",
+                "document": "https://www.islapedia.com/index.php?title=%2A_Vandenberg_Air_Force_Base",
+                "date": "2026-06-06"
+              }
+            ]
+          },
+          "year_built": {
+            "value": 1941,
+            "sources": [
+              {
+                "name": "Homepage",
+                "document": "https://www.alaskasnewssource.com/2021/05/14/vandenberg-air-force-base-to-be-renamed-space-force-base/",
+                "date": "2021-05-14"
+              },
+              {
+                "name": "Wayback Machine",
+                "document": "https://web.archive.org/web/20200628211741/https://www.vandenberg.af.mil/About-Us/Fact-Sheets/Display/Article/736798/vandenberg-air-force-base",
+                "date": "2020-02-20"
+              }
+            ]
+          },
+          "facility_type": {
+            "value": "space launch base",
+            "sources": [
+              {
+                "name": "en.wikipedia.org",
+                "document": "https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base",
+                "date": "2026-06-06"
+              },
+              {
+                "name": "Vandenberg SFB Overview",
+                "document": "https://rocketlaunch.org/rocket-launch-sites/vandenberg-sfb",
+                "date": "2024-01-03"
+              }
+            ]
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Lac du Bocage",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Lac du Bocage",
+            "recommendation_type": "Lakeside nature area",
+            "locality": "≈ 10 km from Toulouse centre",
+            "principal_activities": "Trail walking, water sports, tennis, picnicking",
+            "why_it_is_special": "A green setting offering trails, water activities, and sports courts — an easy half-day outing from the city centre.",
+            "source_url": "https://www.toulouse-tourisme.com/en/activite/lac-du-bocage"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "5cc0ca68-299b-4378-b2f9-d300e887e36f",
+            "name": "Lac du Bocage",
+            "entity_type": "Location",
+            "description": null
+          },
+          {
+            "id": "01078460-3d2f-56f2-b4bc-28a3491b5706",
+            "name": "Beaumont-du-Lac",
+            "entity_type": "Municipality",
+            "description": "commune in Haute-Vienne, France"
+          },
+          {
+            "id": "b6c41cf1-05d7-530b-aeda-ed56372a4e31",
+            "name": "Coteau-du-Lac",
+            "entity_type": "Municipality",
+            "description": "town in Montérégie, Quebec, Canada"
+          },
+          {
+            "id": "971087e1-e375-52ed-962b-3598e8f4ef8f",
+            "name": "Puy-du-Lac",
+            "entity_type": "Municipality",
+            "description": "commune in Charente-Maritime, France"
+          },
+          {
+            "id": "8e4513a2-b684-5f7b-bd2b-ba83c77e545a",
+            "name": "Fond du Lac",
+            "entity_type": "Municipality",
+            "description": "city in and county seat of Fond du Lac County, Wisconsin, United States"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "5cc0ca68-299b-4378-b2f9-d300e887e36f",
+        "name": "Lac du Bocage",
+        "entity_type": "Location",
+        "description": null
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "5cc0ca68-299b-4378-b2f9-d300e887e36f",
+        "name": "Lac du Bocage",
+        "entity_type": "Location",
+        "description": null,
+        "properties": {},
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Lac d'Oô hike (Pyrenees)",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Lac d'Oô hike (Pyrenees)",
+            "recommendation_type": "Mountain day hike",
+            "locality": "Granges d'Astau, near Bagnères-de-Luchon (≈ 2 h drive south of Toulouse)",
+            "principal_activities": "Hiking, swimming in a mountain lake, picnicking",
+            "why_it_is_special": "A gentle 6.6 km round-trip hike with about 440 m elevation gain, rated easy-to-moderate and suitable for families. Ends at a stunning mountain lake with a waterfall — the most popular nature destination in the Haute-Garonne Pyrenees. Allow 2½–3 hours for the walk.",
+            "source_url": "https://www.pyrenees31.com/en/inspiration/hike-to-lac-doo"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "90a94086-afaa-47f2-b7f6-0d950b4dbf2a",
+            "name": "Lac d'Oô",
+            "entity_type": "Location",
+            "description": null
+          },
+          {
+            "id": "780f07c9-9c87-4f24-97a6-b928b6342d4a",
+            "name": "HIKE PYRENEES LTD",
+            "entity_type": "Company",
+            "description": "A British hospitality and tourism company founded in 2007."
+          },
+          {
+            "id": "91628a54-de2c-436a-95bb-3549eeeaff5e",
+            "name": "HIKE INNS LTD",
+            "entity_type": "Company",
+            "description": "British company headquartered in Carlisle, founded in 2014."
+          },
+          {
+            "id": "16bc1ccd-18bf-489b-a40d-515db376b8bd",
+            "name": "HIKE SERVICES LIMITED",
+            "entity_type": "Company",
+            "description": "British consulting, education and transportation and logistics company headquartered in Ashton-under-Lyne, England, founded in 2020."
+          },
+          {
+            "id": "a990063a-ead6-5f73-875f-727ff7f94d73",
+            "name": "Lac-Supérieur",
+            "entity_type": "Municipality",
+            "description": "municipality in Laurentides, Quebec, Canada"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "90a94086-afaa-47f2-b7f6-0d950b4dbf2a",
+        "name": "Lac d'Oô",
+        "entity_type": "Location",
+        "description": null
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "90a94086-afaa-47f2-b7f6-0d950b4dbf2a",
+        "name": "Lac d'Oô",
+        "entity_type": "Location",
+        "description": null,
+        "properties": {
+          "aliases": {
+            "value": [
+              "Lac d'Oo"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Balnéa Spa & Paragliding (Loudenville valley, Pyrenees)",
+      "recommendations": [
+        {
+          "category": "outdoors",
+          "row": {
+            "name": "Balnéa Spa & Paragliding (Loudenville valley, Pyrenees)",
+            "recommendation_type": "Mountain wellness & adventure",
+            "locality": "Valley of Loudenville (≈ 2 h south of Toulouse)",
+            "principal_activities": "Outdoor thermal pools, indoor spa, tandem paragliding",
+            "why_it_is_special": "An open-air spa complex with indoor and outdoor pools set against a dramatic Pyrenean mountain backdrop. The same valley is home to paragliding operators offering tandem flights — combine relaxation with an aerial adventure in a single day trip.",
+            "source_url": "https://elonthemove.com/top-10-day-trips-from-toulouse"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "8087ee7e-df94-4d10-80db-7624b2eb6848",
+            "name": "Balnéa Spa & Paragliding",
+            "entity_type": "Facility",
+            "description": null
+          },
+          {
+            "id": "6ce5a2ea-ac55-49e7-a4de-dafcd04f67a1",
+            "name": "DORSET PARAGLIDING LTD",
+            "entity_type": "Company",
+            "description": "A UK retail company founded in 2002 and headquartered in West Bexington, Dorset."
+          },
+          {
+            "id": "9f4ec447-c737-4403-9e8d-20ce46de66a2",
+            "name": "Loudenville valley",
+            "entity_type": "Location",
+            "description": null
+          },
+          {
+            "id": "eeae49ea-4e99-44ab-a427-d4fc60669443",
+            "name": "FLYING FRENZY PARAGLIDING LTD",
+            "entity_type": "Company",
+            "description": "British entertainment company founded in 2002 and based in West Bexington, Dorset."
+          },
+          {
+            "id": "140fcaf6-ad76-4334-8bb0-6e19f2135df0",
+            "name": "CRICKHOWELL PARAGLIDING LIMITED",
+            "entity_type": "Company",
+            "description": "A Welsh entertainment company founded in 2017 and based in Crickhowell, Powys."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "8087ee7e-df94-4d10-80db-7624b2eb6848",
+        "name": "Balnéa Spa & Paragliding",
+        "entity_type": "Facility",
+        "description": null
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "8087ee7e-df94-4d10-80db-7624b2eb6848",
+        "name": "Balnéa Spa & Paragliding",
+        "entity_type": "Facility",
+        "description": null,
+        "properties": {
+          "aliases": {
+            "value": [
+              "Balnea Spa & Paragliding"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Les Carmes",
+      "recommendations": [
+        {
+          "category": "neighbourhoods",
+          "row": {
+            "name": "Les Carmes",
+            "character": "Medieval old town with narrow streets and a calm, historic atmosphere",
+            "what_to_do_there": "Browse the covered Carmes market, admire Renaissance mansions (Hôtel du Vieux-Raisin), and discover the Miss Van \"Songes\" street-art fresco on rue du Pont de Tounis",
+            "why_it_is_special": "Toulouse's essential old quarter — bordered by the Garonne and threaded by a Roman road, every street and square is packed with architectural wonders",
+            "source_url": "https://foodandtravel.com/travel/48hours/les-carmes-toulouse"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "de0fc4ad-c4bb-4558-b81c-220d99f0d257",
+            "name": "LES CARMES CONSTRUCTION LCC",
+            "entity_type": "Company",
+            "description": "a French construction company founded in 1996 and headquartered in Senlis"
+          },
+          {
+            "id": "f92a1b8c-c67e-4e21-b553-17dc9c6a4b8f",
+            "name": "CHATEAU LES CARMES HAUT BRION",
+            "entity_type": "Company",
+            "description": "A French company based in Pessac, founded in 1987."
+          },
+          {
+            "id": "5a75831b-28aa-43a9-81ab-2ecc12785c9e",
+            "name": "Carmes",
+            "entity_type": "Location",
+            "description": "A central neighbourhood of Toulouse, France, noted for its nightlife."
+          },
+          {
+            "id": "59c9b7a6-4cbb-4e07-815d-aa38ed45c01d",
+            "name": "ASSOCIATION LES AMIS DES GRANDS CARMES",
+            "entity_type": "Company",
+            "description": "French company headquartered in Nantes, founded in 2000."
+          },
+          {
+            "id": "965c0f4e-01f6-566f-981a-0ef17e26d7f7",
+            "name": "Les Corvées-les-Yys",
+            "entity_type": "Municipality",
+            "description": "commune in Eure-et-Loir, France"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "de0fc4ad-c4bb-4558-b81c-220d99f0d257",
+        "name": "LES CARMES CONSTRUCTION LCC",
+        "entity_type": "Company",
+        "description": "a French construction company founded in 1996 and headquartered in Senlis"
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "de0fc4ad-c4bb-4558-b81c-220d99f0d257",
+        "name": "LES CARMES CONSTRUCTION LCC",
+        "entity_type": "Company",
+        "description": "a French construction company founded in 1996 and headquartered in Senlis",
+        "properties": {
+          "registered_address": {
+            "value": "3 AVENUE ALBERT 1ER, SENLIS, 60300, FR",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500OEG9C0O8DLR365",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "headquarters_address": {
+            "value": "3 AVENUE ALBERT 1ER, SENLIS, 60300, FR",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500OEG9C0O8DLR365",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "founding_date": {
+            "value": "1996-01-26",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500OEG9C0O8DLR365",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "lei": {
+            "value": "969500OEG9C0O8DLR365",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500OEG9C0O8DLR365",
+                "date": "2026-04-08"
+              }
+            ]
+          },
+          "legal_name": {
+            "value": "LES CARMES CONSTRUCTION LCC",
+            "sources": [
+              {
+                "name": "GLEIF",
+                "document": "https://search.gleif.org/#/record/969500OEG9C0O8DLR365",
+                "date": "2026-04-08"
+              }
+            ]
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Saint-Étienne",
+      "recommendations": [
+        {
+          "category": "neighbourhoods",
+          "row": {
+            "name": "Saint-Étienne",
+            "character": "Chic, bourgeois centre-ville with imposing portals hiding private hôtels particuliers",
+            "what_to_do_there": "Visit the striking Cathédrale Saint-Étienne, stroll Place Saint-Étienne, and wander narrow lanes that feel straight out of the Middle Ages",
+            "why_it_is_special": "The quarter of the Renaissance merchants and the Capitouls (former city rulers); a photographer's dream of hidden courtyards and quiet elegance",
+            "source_url": "https://www.toulouse-tourisme.com/a-voir-a-faire/les-quartiers-a-visiter"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "682cf6b0-7cc5-422e-870d-33d6de07002c",
+            "name": "SAINT ETIENNE LIMITED",
+            "entity_type": "Company",
+            "description": "British entertainment company founded in 2003 and based in Leeds, West Yorkshire."
+          },
+          {
+            "id": "c1afb071-60bc-42e9-bab9-1af6e8ba8f0f",
+            "name": "COMMUNITY OF SAINT ETIENNE SA LTD",
+            "entity_type": "Company",
+            "description": "London-based company founded May 22, 2022 at 141 Somerset Gardens, N17 8JX"
+          },
+          {
+            "id": "ea0a3f4f-cacd-461c-b4b9-6db78645ebca",
+            "name": "SAINT-ETIENNE INVESTISSEMENTS",
+            "entity_type": "Company",
+            "description": "A French investment company headquartered in Saint‑Étienne, founded in 2017."
+          },
+          {
+            "id": "fcd621e0-4ca1-4853-9432-8647ed1fe2a6",
+            "name": "SAINT ETIENNE AS",
+            "entity_type": "Company",
+            "description": "Norwegian company headquartered in Stavanger, founded in 2001."
+          },
+          {
+            "id": "da146083-e01d-4ae4-8149-1e893ad21581",
+            "name": "PLANTATION SAINT-ETIENNE",
+            "entity_type": "Company",
+            "description": "A French company founded in 1994 and headquartered in Gros-Morne, Martinique."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "682cf6b0-7cc5-422e-870d-33d6de07002c",
+        "name": "SAINT ETIENNE LIMITED",
+        "entity_type": "Company",
+        "description": "British entertainment company founded in 2003 and based in Leeds, West Yorkshire."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "682cf6b0-7cc5-422e-870d-33d6de07002c",
+        "name": "SAINT ETIENNE LIMITED",
+        "entity_type": "Company",
+        "description": "British entertainment company founded in 2003 and based in Leeds, West Yorkshire.",
+        "properties": {
+          "registered_address": {
+            "value": "LEIGH HOUSE, 28-32 ST PAULS STREET, LEEDS, WEST YORKSHIRE, LS1 2JT",
+            "sources": [
+              {
+                "name": "Companies House UK",
+                "document": "https://find-and-update.company-information.service.gov.uk/company/04971789",
+                "date": "2026-08-01"
+              }
+            ]
+          },
+          "operational_status": {
+            "value": "ACTIVE",
+            "sources": [
+              {
+                "name": "Companies House UK",
+                "document": "https://find-and-update.company-information.service.gov.uk/company/04971789",
+                "date": "2026-08-01"
+              }
+            ]
+          },
+          "companies_house_uk_company_number": {
+            "value": "04971789",
+            "sources": [
+              {
+                "name": "Companies House UK",
+                "document": "https://find-and-update.company-information.service.gov.uk/company/04971789",
+                "date": "2026-08-01"
+              }
+            ]
+          },
+          "founding_date": {
+            "value": "2003-11-20",
+            "sources": [
+              {
+                "name": "Companies House UK",
+                "document": "https://find-and-update.company-information.service.gov.uk/company/04971789",
+                "date": "2026-08-01"
+              }
+            ]
+          },
+          "legal_name": {
+            "value": "SAINT ETIENNE LIMITED",
+            "sources": [
+              {
+                "name": "Companies House UK",
+                "document": "https://find-and-update.company-information.service.gov.uk/company/04971789",
+                "date": "2026-08-01"
+              }
+            ]
+          },
+          "company_ownership_status": {
+            "value": "Private Limited Company",
+            "sources": [
+              {
+                "name": "Companies House UK",
+                "document": "https://find-and-update.company-information.service.gov.uk/company/04971789",
+                "date": "2026-08-01"
+              }
+            ]
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Arnaud-Bernard",
+      "recommendations": [
+        {
+          "category": "neighbourhoods",
+          "row": {
+            "name": "Arnaud-Bernard",
+            "character": "Multicultural, lively quarter packed into just 4 hectares north of the centre",
+            "what_to_do_there": "Visit the Basilique Saint-Sernin (UNESCO), browse the small-producers' market, and discover jasmine-lined pavements and a secret public garden",
+            "why_it_is_special": "A historic gateway — once the Porte Royale where kings received the city's keys — with layers of Italian, Spanish and North African heritage and the tiny Théâtre du Fil à Plomb",
+            "source_url": "https://www.toulouse-tourisme.com/en/agenda/petites-histoires-de-quartier-arnaud-bernard"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "f59b67ad-00bc-418a-af00-3af506798cdf",
+            "name": "Arnaud-Bernard",
+            "entity_type": "Location",
+            "description": null
+          },
+          {
+            "id": "e2f50d88-4ab0-5cef-ba27-a73e954c3e19",
+            "name": "Arnaud Bernard Levacher",
+            "entity_type": "Person",
+            "description": "British and Saint Pierre and Miquelon national born in 1977."
+          },
+          {
+            "id": "23a7d642-0cae-5a11-aacd-9a0a3343db13",
+            "name": "Arnaud Bernard Bonnel",
+            "entity_type": "Person",
+            "description": "Belgian person born in 1970."
+          },
+          {
+            "id": "851f8c98-b1aa-50be-a725-f236e3d84e9d",
+            "name": "Arnaud Béglé",
+            "entity_type": "Person",
+            "description": "Swiss-Mexican national born in 1979."
+          },
+          {
+            "id": "a469f33f-5935-4059-9dc0-57fa4bd54c36",
+            "name": "Arnaud Développement",
+            "entity_type": "Company",
+            "description": "A French company headquartered in Bellicourt, founded in 2009."
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "f59b67ad-00bc-418a-af00-3af506798cdf",
+        "name": "Arnaud-Bernard",
+        "entity_type": "Location",
+        "description": null
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "f59b67ad-00bc-418a-af00-3af506798cdf",
+        "name": "Arnaud-Bernard",
+        "entity_type": "Location",
+        "description": null,
+        "properties": {},
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Saint-Cyprien",
+      "recommendations": [
+        {
+          "category": "neighbourhoods",
+          "row": {
+            "name": "Saint-Cyprien",
+            "character": "Village-like left-bank neighbourhood with a cosmopolitan, bohemian vibe",
+            "what_to_do_there": "Explore the Abattoirs modern-art museum, shop at the original covered market, walk along the Garonne riverbanks, and end with cocktails at a local bar",
+            "why_it_is_special": "Toulouse's oldest cemetery (Rapas), the iconic Hôpital de la Grave dome, and a thriving food scene make it the city's hottest left-bank district",
+            "source_url": "https://www.barnes-toulouse.com/en/sectors-of-toulouse/saint-cyprien-8"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "7040cb96-4692-5a1d-9878-10674b8fc041",
+            "name": "Saint-Cyprien",
+            "entity_type": "Municipality",
+            "description": "commune in Loire, France"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "7040cb96-4692-5a1d-9878-10674b8fc041",
+        "name": "Saint-Cyprien",
+        "entity_type": "Municipality",
+        "description": "commune in Loire, France"
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "7040cb96-4692-5a1d-9878-10674b8fc041",
+        "name": "Saint-Cyprien",
+        "entity_type": "Municipality",
+        "description": "commune in Loire, France",
+        "properties": {
+          "aliases": {
+            "value": [
+              "Saint Cyprien"
+            ],
+            "sources": []
+          },
+          "wikidata_qid": {
+            "value": "Q1116219",
+            "sources": [
+              {
+                "name": "Wikidata",
+                "document": "https://www.wikidata.org/wiki/Q1116219",
+                "date": "2026-07-09"
+              }
+            ]
+          },
+          "population": {
+            "value": 2415,
+            "sources": [
+              {
+                "name": "Wikidata",
+                "document": "https://www.wikidata.org/wiki/Q1116219",
+                "date": "2026-07-09"
+              }
+            ]
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    },
+    {
+      "name": "Capitole / Saint-Georges",
+      "recommendations": [
+        {
+          "category": "neighbourhoods",
+          "row": {
+            "name": "Capitole / Saint-Georges",
+            "character": "Grand civic heart of Toulouse, buzzing with café terraces and pink-brick elegance",
+            "what_to_do_there": "Admire the Place du Capitole and its painted ceilings, visit the Jacobin Convent, and linger on the restaurant-lined Place Saint-Georges",
+            "why_it_is_special": "The monumental square is the symbolic centre of the \"Ville Rose\"; the surrounding pedestrian streets lead to the Daurade basilica and the Pont Neuf with Garonne views",
+            "source_url": "https://www.toulouse-tourisme.com/a-voir-a-faire/les-quartiers-a-visiter"
+          }
+        }
+      ],
+      "entity_search": {
+        "entities": [
+          {
+            "id": "ba5ea294-2878-439e-94a1-59207d59beb7",
+            "name": "Place du Capitole",
+            "entity_type": "Location",
+            "description": "A central square in Toulouse, France."
+          },
+          {
+            "id": "208e7b45-5908-5dad-8c49-32c1a68e447f",
+            "name": "Saint-Georges",
+            "entity_type": "Municipality",
+            "description": "commune in Moselle, France"
+          },
+          {
+            "id": "c59660f3-b685-5163-858b-d8707706c437",
+            "name": "Saint-Georges-d'Espéranche",
+            "entity_type": "Municipality",
+            "description": "commune in Isère, France"
+          }
+        ]
+      },
+      "selected_entity": {
+        "id": "ba5ea294-2878-439e-94a1-59207d59beb7",
+        "name": "Place du Capitole",
+        "entity_type": "Location",
+        "description": "A central square in Toulouse, France."
+      },
+      "selection_strategy": "top_relevance",
+      "entity_profile": {
+        "id": "ba5ea294-2878-439e-94a1-59207d59beb7",
+        "name": "Place du Capitole",
+        "entity_type": "Location",
+        "description": "A central square in Toulouse, France.",
+        "properties": {
+          "aliases": {
+            "value": [
+              "Capitole / Saint‑Georges"
+            ],
+            "sources": []
+          }
+        },
+        "relationships": {
+          "outgoing": {},
+          "incoming": {}
+        },
+        "numerical_observations": []
+      }
+    }
+  ]
+}

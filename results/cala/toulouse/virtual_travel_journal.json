@@ -1,0 +1,213 @@
+{
+  "city": "toulouse",
+  "model": "gpt-5.6-luna",
+  "entries": [
+    {
+      "name": "Cassoulet de Toulouse",
+      "entity_id": "dcc503da-d56f-442e-82aa-efcef5ccc413",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I had cassoulet at Le Colombier on Rue Bayard, not far from Gare Matabiau. The earthenware cassole arrived quietly, its surface browned and beans soft beneath it, with duck confit, pork, and saucisse de Toulouse settled into the stew. The room carried the restrained murmur of lunch. I ate slowly, letting the dish’s warmth and unhurried richness set the pace."
+    },
+    {
+      "name": "Saucisse de Toulouse",
+      "entity_id": "03d7c3e8-ae1d-4f76-b9ad-69dc6d48768b",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I crossed to Saint-Cyprien and lingered at the butchers’ stalls, where the coarse-ground pork was arranged in pale coils, flecked with pepper. Garlic came through gently as the sausage cooked, its casing tightening over the heat. I ate it simply, with bread, while market voices and the Garonne’s open light carried on beyond the square. It felt suitably local without needing much explanation."
+    },
+    {
+      "name": "Violettes de Toulouse",
+      "entity_id": "6faaa564-3a9d-4fa0-a512-2d70dd540aaf",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I paused at Violettes de Toulouse on Rue Saint-Pantaléon, near Place du Capitole, and looked over the small assortment of violet sweets, jams, liqueurs, and cosmetics. The crystallised petals caught the light like fine sugar. A gentle floral scent lingered around the shelves, delicate rather than perfumed. It felt like a quiet introduction to one of Toulouse’s emblems, with the historic centre moving softly beyond the door."
+    },
+    {
+      "name": "Basilique Saint-Sernin",
+      "entity_id": "3458a53d-8257-4131-859a-50cf1b3e6208",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet part of the afternoon in Basilique Saint-Sernin, following the long perspective of its five naves beneath the muted stone vaults. Light gathered softly around the sculpted capitals, while footsteps thinned near the transept. Outside, Place Saint-Sernin carried on at its ordinary pace. The octagonal bell tower rose above it all, familiar yet carefully proportioned."
+    },
+    {
+      "name": "Fénétra",
+      "entity_id": "5e752326-7919-4ec5-b4bd-e210075dbc3f",
+      "entity_type": "Company",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I stopped at Maison Pillon on Rue Ozenne in the Carmes quarter and shared a slice of Fénétra. The shortcrust gave way to almond cream, then the brighter notes of candied apricot and lemon. It was a quiet pastry, considered rather than showy, and seemed well suited to the slow rhythm of the surrounding streets. The tart is traditionally associated with Toulouse’s late-June Fête de la Fénétra."
+    },
+    {
+      "name": "Magret de canard",
+      "entity_id": "41421a8b-eedd-46cb-85af-6fdb772c80cc",
+      "entity_type": "Product",
+      "categories": [
+        "food"
+      ],
+      "journal_entry": "I stopped at Le J’Go on Place Victor Hugo for magret de canard, a fitting pause in Toulouse’s city centre. The duck, sourced from farms in the Gers, arrived pink beneath a crisp, carefully scored skin, with seasonal accompaniments alongside. A glass of Fronton suited the dish: dark, steady, and quietly expressive. Around me, conversation gathered and faded while the bistro kept its unhurried rhythm."
+    },
+    {
+      "name": "Couvent des Jacobins",
+      "entity_id": "7bd88675-8e15-49bb-beac-22c5a07d8324",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet part of the afternoon at the Couvent des Jacobins on Place des Jacobins, moving from the cool, muted church into the cloister. The double nave drew my attention upward to the Palmier des Jacobins, whose stone ribs spread across the ceiling with measured elegance. In the shaded passages, footsteps softened and the convent’s age seemed present without needing explanation."
+    },
+    {
+      "name": "Musée des Augustins",
+      "entity_id": "763b7d57-0c68-49e9-ba14-e3f65a4044a6",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet hour at the Musée des Augustins on Rue de Metz, moving through the former Augustinian convent and its cool Gothic spaces. The Romanesque and Gothic sculptures held my attention before the paintings, which ranged from the Middle Ages to the twentieth century. Footsteps softened beneath the high stone arches; outside, Toulouse continued in its usual measured rhythm."
+    },
+    {
+      "name": "Hôtel d'Assézat / Fondation Bemberg",
+      "entity_id": "41e31b95-8d38-4ecc-995d-b10f32fd3296",
+      "entity_type": "Organization",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent a quiet hour at the Hôtel d’Assézat on Place d’Assézat, moving through its Renaissance courtyard before looking around the Fondation Bemberg. The stonework held the afternoon light softly, while the collection shifted from Titian and Veronese to Bonnard and other later painters. It was pleasant to let the building set the pace, with the city centre’s murmur just beyond the rooms."
+    },
+    {
+      "name": "Cité de l'Espace",
+      "entity_id": "fa9d86e4-33fc-42e0-921d-2ec77033825a",
+      "entity_type": "Facility",
+      "categories": [
+        "culture"
+      ],
+      "journal_entry": "I spent part of the afternoon at the Cité de l’Espace in south-east Toulouse, moving between the full-scale Ariane 5, Mir, and Soyuz replicas. The planetarium dimmed the room to a quiet blue-black, while nearby screens and controls invited patient experimentation in the mission-control mock-up. It offered a measured introduction to the aerospace work associated with Toulouse, without needing much explanation."
+    },
+    {
+      "name": "Jardin des Plantes",
+      "entity_id": null,
+      "entity_type": null,
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I wandered through the Jardin des Plantes along Allée Frédéric Mistral, where Toulouse’s traffic softened behind mature trees and orderly botanical squares. The garden’s origins in 1794, as a place for studying medicinal plants, felt present in its careful arrangement rather than displayed. Seasonal flowers added small notes of colour; nearby, a few visitors picnicked quietly beneath the leaves. I left unhurried, with the scent of warm earth lingering."
+    },
+    {
+      "name": "Jardin Japonais Pierre-Baudis (Jardin Compans-Caffarelli)",
+      "entity_id": null,
+      "entity_type": null,
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I wandered through the Japanese garden within Compans-Caffarelli, close to Toulouse’s old city ramparts, letting the paths set an unhurried pace. The Zen rock garden held its spare arrangement quietly, while the lake caught small movements of light beneath the red bridge. A tea pavilion and Buddhist statues gave the garden a measured stillness, softened by the ordinary sounds of the surrounding park."
+    },
+    {
+      "name": "Canal du Midi towpath",
+      "entity_id": "dbb79b0a-6d76-4ed6-928b-69c0a0f661cc",
+      "entity_type": "Company",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I followed the Canal du Midi towpath out from Toulouse, walking beneath the long rows of plane trees. The route stayed flat and car-free, with bicycles passing quietly and occasional ripples moving across the water. I turned back after a few hours, content with the unhurried rhythm and the gradual thinning of the city behind me."
+    },
+    {
+      "name": "Prairie des Filtres",
+      "entity_id": "8fc2683d-f0be-5b93-85c4-de27917fc9a2",
+      "entity_type": "Municipality",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I walked through the Prairie des Filtres along Toulouse’s left bank, between Pont Neuf and Pont Saint-Michel. The Garonne moved steadily beside the paths, while the pink-brick quays of Tounis caught the softer light. Families spread blankets across the grass, and the river breeze carried fragments of conversation. I lingered a while, content to watch the city settle into its afternoon rhythm."
+    },
+    {
+      "name": "Base de Loisirs de La Ramée",
+      "entity_id": "9d96eb87-7088-4cf9-8306-3aecebf3856a",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I walked the paths around the lake at La Ramée, in Tournefeuille, about ten kilometres west of Toulouse. The 44-hectare water, fed by the Canal de Saint-Martory, lay quietly beyond the woodland, while cyclists and families moved between the play areas and picnic spots. Fine sand marked the summer beach. It felt like an easy change of pace, without needing to leave the city far behind."
+    },
+    {
+      "name": "Lac du Bocage",
+      "entity_id": "5cc0ca68-299b-4378-b2f9-d300e887e36f",
+      "entity_type": "Location",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I spent a quiet half-day at Lac du Bocage, about 10 kilometres from Toulouse’s centre. The trail followed the lake through a green, open setting, with occasional sounds from the water sports area and tennis courts. I paused beside the shore for a simple picnic, watching the surface shift in the light. It felt like an easy change of pace from the city."
+    },
+    {
+      "name": "Lac d'Oô hike (Pyrenees)",
+      "entity_id": "90a94086-afaa-47f2-b7f6-0d950b4dbf2a",
+      "entity_type": "Location",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I drove south from Toulouse to Granges d’Astau and followed the 6.6-kilometre path towards Lac d’Oô. The climb was steady rather than demanding, with the sound of water often nearby. At the lake, a waterfall fell against the enclosing Pyrenean slopes. I ate a simple picnic beside the shore, where the air felt cooler and the afternoon remained pleasantly unhurried."
+    },
+    {
+      "name": "Balnéa Spa & Paragliding (Loudenville valley, Pyrenees)",
+      "entity_id": "8087ee7e-df94-4d10-80db-7624b2eb6848",
+      "entity_type": "Facility",
+      "categories": [
+        "outdoors"
+      ],
+      "journal_entry": "I drove south from Toulouse into the Loudenville valley, where Balnéa’s outdoor thermal pools sat beneath the Pyrenees. Steam gathered lightly above the water while the mountains held their quiet outline beyond it. Later, a tandem paraglide lifted over the valley, replacing conversation with wind and a broad, unhurried view. The contrast suited the day: warmth below, open air above, with neither needing much explanation."
+    },
+    {
+      "name": "Les Carmes",
+      "entity_id": "de0fc4ad-c4bb-4558-b81c-220d99f0d257",
+      "entity_type": "Company",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through Les Carmes in the late morning, following its narrow medieval streets towards the covered market. The air carried the quiet rustle of paper bags and the scent of produce. Renaissance façades, including the Hôtel du Vieux-Raisin, appeared between ordinary shopfronts. On rue du Pont de Tounis, Miss Van’s “Songes” fresco added a measured, contemporary note before the streets opened towards the Garonne."
+    },
+    {
+      "name": "Saint-Étienne",
+      "entity_id": "682cf6b0-7cc5-422e-870d-33d6de07002c",
+      "entity_type": "Company",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through Saint-Étienne in Toulouse, pausing at the Cathédrale Saint-Étienne before crossing the quiet square beside it. Narrow lanes led between imposing portals, some opening onto glimpsed courtyards and the restrained façades of former hôtels particuliers. The quarter’s Renaissance mercantile past felt present in its proportions rather than its noise; footsteps softened on the stone, and the afternoon light settled gently along the walls."
+    },
+    {
+      "name": "Arnaud-Bernard",
+      "entity_id": "f59b67ad-00bc-418a-af00-3af506798cdf",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through Arnaud-Bernard’s compact streets towards the Basilique Saint-Sernin, letting the quarter’s overlapping languages and shopfronts set the pace. At the small-producers’ market, fruit, herbs, and conversation gathered beneath the late-morning light. Jasmine traced parts of the pavement, and a quiet public garden offered a brief pause. The neighbourhood felt lively without demanding attention, its older gateways and newer rhythms sitting comfortably together."
+    },
+    {
+      "name": "Saint-Cyprien",
+      "entity_id": "7040cb96-4692-5a1d-9878-10674b8fc041",
+      "entity_type": "Municipality",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I wandered through Saint-Cyprien at an unhurried pace, beginning among the stalls of its original covered market. The neighbourhood felt village-like despite the city nearby, with conversations drifting between food counters and the occasional bicycle passing. Later, I followed the Garonne riverbanks, where the light softened around the dome of Hôpital de la Grave. I ended at a local bar, lingering over a quiet cocktail."
+    },
+    {
+      "name": "Capitole / Saint-Georges",
+      "entity_id": "ba5ea294-2878-439e-94a1-59207d59beb7",
+      "entity_type": "Location",
+      "categories": [
+        "neighbourhoods"
+      ],
+      "journal_entry": "I spent a late morning around Place du Capitole, watching café terraces fill beneath the pale pink façades. Inside the Capitole, painted ceilings offered a quieter change of scale, their details easy to miss if I hurried. Later, I walked towards the Jacobin Convent and let the pedestrian streets lead me on, with the soft clatter of dishes lingering around Place Saint-Georges."
+    }
+  ]
+}
