@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "name": "Paella Valenciana (Casa Carmela)",
+      "recommendation_type": "food",
+      "locality_or_neighbourhood": "Cabanyal (near La Malvarrosa beach)",
+      "why_it_is_special": "Traditional wood‑fire paella using orange wood, chicken, rabbit, beans and saffron; a family‑run institution preserving Valencia’s iconic rice dish.",
+      "source_url": null
+    },
+    {
+      "name": "All i Pebre (Bon Aire Restaurante)",
+      "recommendation_type": "food",
+      "locality_or_neighbourhood": "El Palmar (Albufera Natural Park)",
+      "why_it_is_special": "Classic eel stew seasoned with garlic, paprika and potatoes; a signature dish of the Albufera region that reflects local fishing heritage.",
+      "source_url": null
+    },
+    {
+      "name": "Horchata & Fartons (Horchatería Daniel)",
+      "recommendation_type": "drink/snack",
+      "locality_or_neighbourhood": "Avenida de la Horchata, central Valencia",
+      "why_it_is_special": "Iconic chufa‑based horchata served with freshly baked fartons; a beloved Valencian tradition celebrated since 1949.",
+      "source_url": null
+    },
+    {
+      "name": "Horchata & Fartons (Horchatería Alboraya)",
+      "recommendation_type": "drink/snack",
+      "locality_or_neighbourhood": "Alboraya (suburb of Valencia)",
+      "why_it_is_special": "100 % Chufa Denominación de Origen Valencia, artisanal preparation; the go‑to spot for authentic horchata and fartons.",
+      "source_url": null
+    },
+    {
+      "name": "Fideuà (Mercat Central)",
+      "recommendation_type": "food",
+      "locality_or_neighbourhood": "City centre (Mercat Central)",
+      "why_it_is_special": "Seafood noodle dish cooked with fresh local seafood; a staple of Valencian cuisine available at stalls inside the historic market.",
+      "source_url": null
+    },
+    {
+      "name": "Buñuelos de Calabaza (Horchatería Daniel)",
+      "recommendation_type": "snack",
+      "locality_or_neighbourhood": "Avenida de la Horchata",
+      "why_it_is_special": "Pumpkin‑flavoured fritters, a traditional sweet treat that showcases Valencia’s festive pastry heritage.",
+      "source_url": null
+    },
+    {
+      "name": "Paella (Restaurante El Palmar)",
+      "recommendation_type": "food",
+      "locality_or_neighbourhood": "El Palmar (Albufera Natural Park)",
+      "why_it_is_special": "Offers a range of paellas, including seafood and traditional versions, in a setting surrounded by rice fields and the Albufera lagoon.",
+      "source_url": null
+    }
+  ],
+  "entities": null
+}

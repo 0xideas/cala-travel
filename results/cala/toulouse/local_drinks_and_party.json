@@ -1,112 +1,148 @@
 {
   "results": [
     {
-      "name": "Le N°5 Wine Bar",
+      "name": "Au Père Louis",
+      "item_type": "Bar / Wine bar",
+      "locality_or_neighbourhood": "Rue des Tourneurs, Centre-ville",
+      "short_description": "Historic bar and restaurant since 1889; barrels as tables, known for beer, wine, and cinchona in a convivial atmosphere",
+      "current_status": "Listed as open (Toulouse Tourisme official listing)",
+      "source_url": "https://www.toulouse-tourisme.com/en/commerce/au-pere-louis",
+      "source_date": "2026"
+    },
+    {
+      "name": "N5 Wine Bar",
       "item_type": "Wine bar",
-      "locality_or_neighbourhood": "Bourse / Centre-ville (5 rue de la Bourse)",
-      "short_description": "Voted \"Best Wine Bar in Europe\" by The World of Fine Wine; offers ~2,500 wine references alongside tapas",
-      "current_status": "Operating",
-      "source_url": "france.fr/en/article/best-bars-toulouse",
-      "source_date": "2016 (still referenced in current guides)"
+      "locality_or_neighbourhood": "5 Rue de la Bourse, Centre-ville",
+      "short_description": "Upscale wine bar offering 500+ wines by the glass and over 4,000 bottles; open Tuesday to Saturday including public holidays",
+      "current_status": "Listed as open (Toulouse Tourisme official listing)",
+      "source_url": "https://www.toulouse-tourisme.com/en/restaurant/n5-wine-bar",
+      "source_date": "2026"
     },
     {
-      "name": "Le Fat Cat",
-      "item_type": "Cocktail bar",
-      "locality_or_neighbourhood": "Capitole (4 rue de Rémusat)",
-      "short_description": "1930s-inspired speakeasy with leather club chairs, seasonal cocktails, and regular piano-bar evenings",
-      "current_status": "Operating",
-      "source_url": "france.fr/en/article/best-bars-toulouse",
-      "source_date": "2016 (still referenced in current guides)"
+      "name": "Bar Basque",
+      "item_type": "Bar",
+      "locality_or_neighbourhood": "Place Saint-Pierre",
+      "short_description": "Popular watering hole among the many bars lining Place Saint-Pierre, Toulouse's iconic open-air nightlife square",
+      "current_status": "Referenced as operating (Fodor's)",
+      "source_url": "https://www.fodors.com/world/europe/france/the-midi-pyrenees-and-languedoc-roussillon/things-to-do/nightlife",
+      "source_date": "2025–2026"
     },
     {
-      "name": "Le Marché Noir",
-      "item_type": "Cocktail bar",
-      "locality_or_neighbourhood": "Place des Carmes (14 place des Carmes)",
-      "short_description": "Minimalist interior behind the Carmes market; known for fresh, creative cocktails and a pleasant terrace",
-      "current_status": "Operating",
-      "source_url": "france.fr/en/article/best-bars-toulouse",
-      "source_date": "2016 (still referenced in current guides)"
+      "name": "Place Saint-Pierre (bar strip)",
+      "item_type": "Nightlife area / Open-air bar district",
+      "locality_or_neighbourhood": "Place Saint-Pierre, Centre-ville",
+      "short_description": "Toulouse's most famous nightlife square, described as a \"bistrot à ciel ouvert\" (open-air bistro) with numerous bars and terraces",
+      "current_status": "Active nightlife hub (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
     },
     {
-      "name": "La Maison",
-      "item_type": "Cocktail bar",
-      "locality_or_neighbourhood": "Jean Jaurès (9 rue Gabriel Péri)",
-      "short_description": "Cosy cocktail lounge with exposed stone walls, armchairs, and an open-hearth fireplace",
-      "current_status": "Operating",
-      "source_url": "france.fr/en/article/best-bars-toulouse",
-      "source_date": "2016 (still referenced in current guides)"
-    },
-    {
-      "name": "Le Soulier",
-      "item_type": "Cocktail & tapas bar",
-      "locality_or_neighbourhood": "Arnaud Bernard (4-8 rue Arnaud Bernard)",
-      "short_description": "Located inside the Aux Pieds Sous la Table restaurant; high-quality cocktails served in soft armchairs with subdued lighting",
-      "current_status": "Operating",
-      "source_url": "france.fr/en/article/best-bars-toulouse",
-      "source_date": "2016 (still referenced in current guides)"
-    },
-    {
-      "name": "Délirium Café Toulouse",
-      "item_type": "Beer bar / pub",
+      "name": "Le Roof",
+      "item_type": "Rooftop bar / Lounge",
       "locality_or_neighbourhood": "Centre-ville",
-      "short_description": "Extensive beer selection, outdoor terrace, beer-pong tournaments, and a dancing-friendly atmosphere",
-      "current_status": "Operating",
-      "source_url": "threebestrated.fr/bars-in-toulouse",
-      "source_date": "2026 update confirmed"
+      "short_description": "Rooftop venue listed among Toulouse's notable evening spots for drinks",
+      "current_status": "Referenced as operating (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
     },
     {
-      "name": "Le Bar Basque Toulouse",
-      "item_type": "Bar / terrace",
+      "name": "L'Ubu",
+      "item_type": "Bar / Nightlife venue",
       "locality_or_neighbourhood": "Centre-ville",
-      "short_description": "Large terrace (300+ seats); cocktails, wine, beer, and citrus vodka; popular for afterworks and group events",
-      "current_status": "Operating",
-      "source_url": "threebestrated.fr/bars-in-toulouse",
-      "source_date": "2026 update confirmed"
+      "short_description": "Well-known Toulouse nightlife establishment for drinks and evening entertainment",
+      "current_status": "Referenced as operating (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
     },
     {
-      "name": "Chez Vicente",
-      "item_type": "Bodega / wine bar",
-      "locality_or_neighbourhood": "Place de la Dalbade, Carmes",
-      "short_description": "French-style bodega serving wines from nearby Fronton and Languedoc with hearty tapas (duck hearts, octopus, bone marrow)",
-      "current_status": "Operating",
-      "source_url": "theguardian.com (Toulouse city guide)",
-      "source_date": "2017 (still referenced)"
-    },
-    {
-      "name": "Le Filochard",
-      "item_type": "Bar / live music",
-      "locality_or_neighbourhood": "Place du Pont Neuf",
-      "short_description": "Hole-in-the-wall bar on the Garonne bridge; happy-hour mojitos, reggae & French techno, regular live bands from 6 pm daily",
-      "current_status": "Operating",
-      "source_url": "theguardian.com (Toulouse city guide)",
-      "source_date": "2017 (still referenced)"
-    },
-    {
-      "name": "La Tantina de Burgos",
-      "item_type": "Bodega / nightlife bar",
-      "locality_or_neighbourhood": "Avenue de la Garonette",
-      "short_description": "Lively fiesta atmosphere after midnight with flamenco, Cuban salsa, sangria, tequila shots, and generous tapas",
-      "current_status": "Operating",
-      "source_url": "theguardian.com (Toulouse city guide)",
-      "source_date": "2017 (still referenced)"
-    },
-    {
-      "name": "Le Bazar Club",
-      "item_type": "Nightclub",
+      "name": "La Terrasse Lounge du Florida",
+      "item_type": "Lounge bar",
       "locality_or_neighbourhood": "Centre-ville",
-      "short_description": "One of Toulouse's flagship nightclubs; open Mon–Sun 1 am–7 am; industrial setting with eclectic music",
-      "current_status": "Operating (listed on toulouse-tourisme.com)",
-      "source_url": "toulouse-tourisme.com/en/activite/le-bazar-club",
-      "source_date": "Current listing"
+      "short_description": "Lounge terrace venue popular for evening drinks in Toulouse",
+      "current_status": "Referenced as operating (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
     },
     {
-      "name": "Downtown Factory",
-      "item_type": "Nightclub",
+      "name": "Les Coulisses",
+      "item_type": "Bar",
       "locality_or_neighbourhood": "Centre-ville",
-      "short_description": "Multi-level club open Wed 7 pm–3 am, Thu–Sat 7 pm–7 am; industrial décor, varied DJ sets, ideal for starting the evening",
-      "current_status": "Operating",
-      "source_url": "coliving.joivy.com/fr/blog/top-5-nightclubs-in-toulouse",
-      "source_date": "Current listing"
+      "short_description": "Evening bar listed among Toulouse's recommended nightlife spots",
+      "current_status": "Referenced as operating (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
+    },
+    {
+      "name": "Le Pyrénéen",
+      "item_type": "Bar / Brasserie",
+      "locality_or_neighbourhood": "Centre-ville",
+      "short_description": "Traditional Toulouse bar and brasserie popular for evening outings",
+      "current_status": "Referenced as operating (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
+    },
+    {
+      "name": "Le Tex",
+      "item_type": "Bar",
+      "locality_or_neighbourhood": "Centre-ville",
+      "short_description": "Bar listed among Toulouse's nightlife recommendations for the over-30 crowd",
+      "current_status": "Referenced as operating (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
+    },
+    {
+      "name": "Café Authié",
+      "item_type": "Bar / Café",
+      "locality_or_neighbourhood": "Centre-ville",
+      "short_description": "Evening café-bar among Toulouse's recommended going-out spots",
+      "current_status": "Referenced as operating (toulouse.evous.fr)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
+    },
+    {
+      "name": "The Imperial",
+      "item_type": "Night bar",
+      "locality_or_neighbourhood": "Toulouse (31000)",
+      "short_description": "Night bar accommodating up to 30 guests, bookable for private events",
+      "current_status": "Listed as open (reserverunbar.fr)",
+      "source_url": "https://www.reserverunbar.fr/ambiance/45/ville/11719/page-1/bars-de-nuit-toulouse",
+      "source_date": "2026"
+    },
+    {
+      "name": "Le Bon Coup",
+      "item_type": "Night bar",
+      "locality_or_neighbourhood": "Toulouse (31000)",
+      "short_description": "Night bar for up to 30 guests in central Toulouse",
+      "current_status": "Listed as open (reserverunbar.fr)",
+      "source_url": "https://www.reserverunbar.fr/ambiance/45/ville/11719/page-1/bars-de-nuit-toulouse",
+      "source_date": "2026"
+    },
+    {
+      "name": "Baraka Jeux Toulouse",
+      "item_type": "Bar à jeux (game bar)",
+      "locality_or_neighbourhood": "Toulouse (31000)",
+      "short_description": "Night bar with board games, accommodating up to 30 guests",
+      "current_status": "Listed as open (reserverunbar.fr)",
+      "source_url": "https://www.reserverunbar.fr/ambiance/45/ville/11719/page-1/bars-de-nuit-toulouse",
+      "source_date": "2026"
+    },
+    {
+      "name": "Liquides resto à boire",
+      "item_type": "Bar / Restaurant-bar",
+      "locality_or_neighbourhood": "Toulouse",
+      "short_description": "Concept venue combining drinks and dining in a nightlife setting",
+      "current_status": "Listed as open (reserverunbar.fr)",
+      "source_url": "https://www.reserverunbar.fr/ambiance/45/ville/11719/page-1/bars-de-nuit-toulouse",
+      "source_date": "2026"
+    },
+    {
+      "name": "Toulouse nightclubs (general)",
+      "item_type": "Nightclubs / Discothèques",
+      "locality_or_neighbourhood": "Various, Toulouse",
+      "short_description": "Toulouse's clubs and discothèques have been fully open since February 2022; the city is described as \"populaire et festive\" with bars, pubs, and clubs animating the Ville Rose every night",
+      "current_status": "Active (toulouse.evous.fr guide)",
+      "source_url": "https://toulouse.evous.fr/sortir",
+      "source_date": "2026"
     }
   ],
   "entities": null

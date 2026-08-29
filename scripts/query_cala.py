@@ -1,26 +1,39 @@
 #!/usr/bin/env python3
-"""Query Cala for structured travel recommendations for a city."""
+"""Prefetch structured, natural-language Cala travel research for demo cities."""
 
 import argparse
 import json
+import os
 import re
+import socket
 import unicodedata
-from datetime import date
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+from time import monotonic, sleep
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://api.cala.ai/v1/knowledge/query"
+DEMO_CITIES = ["Valencia", "Barcelona", "Mexico City", "Tokyo"]
+STARTER_REQUESTS_PER_MINUTE = 10
 
 
-def queries(city: str) -> dict[str, str]:
-    today = date.today().isoformat()
-    return {
-        "local_foods": f"""Return at most 10 foods specifically associated with {city} or its immediate surrounding region, excluding items associated only with distant parts of the wider region. Return one row per food with: name, category, locality, short_description, strength_of_local_association, source_url.""",
-        "local_drinks_and_party": f"""Return at most 12 drinks and nightlife experiences specifically associated with {city} or its immediate surrounding region. Return one row per item with: name, item_type, locality_or_neighbourhood, short_description, current_status, source_url, source_date. For venues, include only those shown to be operating as of {today}.""",
-        "natural_attractions": f"""Return at most 12 natural attractions suitable for a day trip from {city}, limited to approximately two hours of travel each way. Return one row per attraction with: name, locality, attraction_type, approximate_distance_km, approximate_travel_time, principal_activities, source_url. Exclude urban monuments and overnight destinations.""",
-        "cultural_attractions_and_events": f"""Return at most 15 cultural attractions and recurring cultural events physically located in {city}. Return one row per item with: name, item_type, locality_or_venue, short_description, current_status_or_confirmed_dates, official_url, source_url, source_date. For events, include only editions confirmed on or after {today}; omit unverified events.""",
-    }
+def cala_api_key() -> str:
+    """Read CALA_API_KEY from the environment or the local .env.local file."""
+    if api_key := os.environ.get("CALA_API_KEY"):
+        return api_key
+
+    env_file = ROOT / ".env.local"
+    if env_file.exists():
+        for line in env_file.read_text().splitlines():
+            match = re.match(r"\s*(?:export\s+)?CALA_API_KEY\s*=\s*(.*?)\s*$", line)
+            if match:
+                return match.group(1).strip().strip("\"'")
+
+    raise SystemExit(
+        "CALA_API_KEY is required. Add it to .env.local or export it in the environment."
+    )
 
 
 def city_slug(city: str) -> str:
@@ -28,32 +41,130 @@ def city_slug(city: str) -> str:
     return re.sub(r"[^a-z0-9]+", "_", ascii_name.lower()).strip("_")
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("city_name", help='City to query, for example "Toulouse"')
-    city = parser.parse_args().city_name.strip()
-    slug = city_slug(city)
-    if not slug:
-        parser.error("city_name must contain letters or numbers")
+def output_file(city: str, category: str) -> Path:
+    directory = ROOT / "results" / "cala" / city_slug(city)
+    directory.mkdir(parents=True, exist_ok=True)
+    return directory / f"{category}.json"
 
-    secret = (ROOT / "secrets").read_text().strip()
-    api_key = secret.partition(":")[2].strip() if ":" in secret else secret
-    output_dir = ROOT / "results" / "cala" / slug
-    output_dir.mkdir(parents=True, exist_ok=True)
 
-    for name, query in queries(city).items():
-        request = Request(
-            API_URL,
-            data=json.dumps({"input": query, "return_entities": False}).encode(),
-            headers={"Content-Type": "application/json", "X-API-KEY": api_key},
-            method="POST",
-        )
-        with urlopen(request, timeout=180) as response:
+def queries(city: str) -> dict[str, str]:
+    return {
+        "food": (
+            f"For {city}, recommend its most distinctive local foods and essential "
+            "places to try them. Return one structured row per recommendation with: "
+            "name, recommendation_type, locality_or_neighbourhood, why_it_is_special, "
+            "and source_url. Prioritize locally meaningful choices over generic tourist lists."
+        ),
+        "culture": (
+            f"For {city}, recommend distinctive cultural places worth visiting, including "
+            "museums, architecture, markets, and local institutions. Return one structured "
+            "row per recommendation with: name, recommendation_type, locality_or_neighbourhood, "
+            "why_it_is_special, and source_url."
+        ),
+        "outdoors": (
+            f"For {city}, recommend worthwhile outdoor and nature experiences in the city "
+            "or suitable for an easy day outing. Return one structured row per recommendation "
+            "with: name, recommendation_type, locality, principal_activities, why_it_is_special, "
+            "and source_url."
+        ),
+        "neighbourhoods": (
+            f"For {city}, recommend the most characterful neighbourhoods to explore for a "
+            "visitor who wants a local feel. Return one structured row per neighbourhood with: "
+            "name, character, what_to_do_there, why_it_is_special, and source_url. Avoid generic "
+            "tourist advice."
+        ),
+    }
+
+
+def is_successful_result(result: object) -> bool:
+    if not isinstance(result, dict) or result.get("error"):
+        return False
+    rows = result.get("results")
+    return bool(rows) and not (
+        isinstance(rows[0], dict) and "error" in rows[0]
+    )
+
+
+def fetch_query(city: str, category: str, query: str, api_key: str, timeout: int) -> Path:
+    request = Request(
+        API_URL,
+        data=json.dumps({"input": query, "return_entities": True}).encode(),
+        headers={"Content-Type": "application/json", "X-API-KEY": api_key},
+        method="POST",
+    )
+    try:
+        with urlopen(request, timeout=timeout) as response:
             result = json.load(response)
-        (output_dir / f"{name}.json").write_text(
-            json.dumps(result, indent=2, ensure_ascii=False) + "\n"
-        )
-        print(f"Wrote {output_dir / f'{name}.json'}")
+    except (HTTPError, URLError, socket.timeout, TimeoutError) as error:
+        result = {
+            "results": [],
+            "entities": None,
+            "error": {"type": type(error).__name__, "message": str(error)},
+        }
+
+    file = output_file(city, category)
+    file.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
+    return file
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Prefetch Cala travel recommendations for demo cities."
+    )
+    parser.add_argument(
+        "cities",
+        nargs="*",
+        help="Cities to prefetch. Defaults to Valencia, Barcelona, Mexico City, and Tokyo.",
+    )
+    parser.add_argument(
+        "--timeout",
+        type=int,
+        default=180,
+        help="Maximum seconds to wait for each Cala request (default: 180).",
+    )
+    parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="Skip categories that already have a non-error response file.",
+    )
+    args = parser.parse_args()
+    cities = [city.strip() for city in args.cities] or DEMO_CITIES
+    if invalid_cities := [city for city in cities if not city_slug(city)]:
+        parser.error(f"Cities must contain letters or numbers: {', '.join(invalid_cities)}")
+
+    api_key = cala_api_key()
+    jobs = []
+    for city in cities:
+        for category, query in queries(city).items():
+            file = output_file(city, category)
+            if args.resume and file.exists():
+                try:
+                    if is_successful_result(json.loads(file.read_text())):
+                        print(f"Skipping {file}", flush=True)
+                        continue
+                except json.JSONDecodeError:
+                    pass
+            jobs.append((city, category, query))
+
+    for batch_number, offset in enumerate(
+        range(0, len(jobs), STARTER_REQUESTS_PER_MINUTE), start=1
+    ):
+        batch = jobs[offset : offset + STARTER_REQUESTS_PER_MINUTE]
+        batch_started = monotonic()
+        print(f"Starting batch {batch_number}: {len(batch)} requests", flush=True)
+        with ThreadPoolExecutor(max_workers=len(batch)) as executor:
+            futures = [
+                executor.submit(fetch_query, city, category, query, api_key, args.timeout)
+                for city, category, query in batch
+            ]
+            for future in as_completed(futures):
+                print(f"Wrote {future.result()}", flush=True)
+
+        if offset + STARTER_REQUESTS_PER_MINUTE < len(jobs):
+            delay = max(0, 60 - (monotonic() - batch_started))
+            if delay:
+                print(f"Waiting {delay:.0f}s for the rate-limit window", flush=True)
+                sleep(delay)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "name": "Ruzafa",
+      "character": "Vibrant, hipster, artistic, mixing tradition and modernity",
+      "what_to_do_there": "Wander the colorful streets to see street art, browse quirky boutiques, sip coffee in trendy cafés, visit the Mercadillo de Ruzafa market for vintage finds",
+      "why_it_is_special": "Known for its lively creative scene, it blends historic architecture with a youthful, multicultural vibe, attracting locals and artists",
+      "source_url": null
+    },
+    {
+      "name": "El Carmen",
+      "character": "Historic heart, open‑air museum of street art, lively nightlife",
+      "what_to_do_there": "Explore narrow medieval lanes, admire murals, hop between tapas bars and cafés, climb the Serranos and Quart towers, visit the Cathedral (Holy Grail)",
+      "why_it_is_special": "The oldest part of Valencia, it juxtaposes centuries‑old stone with contemporary graffiti, offering an authentic local atmosphere",
+      "source_url": null
+    },
+    {
+      "name": "Benimaclet",
+      "character": "Village‑like, progressive, multicultural, youthful “independent republic”",
+      "what_to_do_there": "Meet locals at Plaza de Benimaclet, enjoy poetry nights and live music in bars like La Murta, browse the Saturday market, admire ever‑changing murals",
+      "why_it_is_special": "Retains a tight‑knit community spirit from its former village roots while hosting a vibrant student and artistic scene",
+      "source_url": null
+    },
+    {
+      "name": "El Cabanyal",
+      "character": "Seaside neighbourhood with colorful houses, maritime heritage, up‑and‑coming",
+      "what_to_do_there": "Stroll historic streets, admire the colourful façades, visit Casa Montaña for traditional tapas, enjoy cultural events at La Fábrica de Hielo and Naves, relax on the nearby beach",
+      "why_it_is_special": "Once a poor fishing district, it now offers a blend of authentic maritime culture, colourful architecture and a growing creative scene",
+      "source_url": null
+    },
+    {
+      "name": "Arrancapins",
+      "character": "Authentic, family‑friendly, old‑town charm with renovated buildings",
+      "what_to_do_there": "Walk the central plaza, shop in local stores, admire the renovated Finca Roja, enjoy the quiet residential atmosphere",
+      "why_it_is_special": "Preserves a genuine Valencian neighbourhood feel, with traditional shops and a sense of community away from tourist crowds",
+      "source_url": null
+    }
+  ],
+  "entities": null
+}

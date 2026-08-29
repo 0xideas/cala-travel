@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "name": "Desierto de los Leones National Park",
+      "locality": "Cuajimalpa, Mexico City (SW)",
+      "attraction_type": "National park / Highland forest",
+      "approximate_distance_km": 25,
+      "approximate_travel_time": "30–40 min by car",
+      "principal_activities": "Hiking, mountain biking, trail running, horseback riding, zip-lining, picnicking amid pine-oak forests",
+      "source_url": "https://www.mexico-travel-concierge.com/desierto-de-los-leones"
+    },
+    {
+      "name": "Los Dinamos (Parque Eco-turístico)",
+      "locality": "Magdalena Contreras, Mexico City (S)",
+      "attraction_type": "Ecological park / River canyon",
+      "approximate_distance_km": 20,
+      "approximate_travel_time": "40 min by car",
+      "principal_activities": "Hiking along the Magdalena River, waterfalls, horseback riding, camping, fishing, picnicking",
+      "source_url": "https://en.wikivoyage.org/wiki/Mexico_City/Magdalena_Contreras"
+    },
+    {
+      "name": "Cumbres del Ajusco National Park",
+      "locality": "Tlalpan, Mexico City (S)",
+      "attraction_type": "National park / Volcanic peak",
+      "approximate_distance_km": 35,
+      "approximate_travel_time": "60–90 min by car",
+      "principal_activities": "Summit hiking (Pico del Águila, 3,930 m), trekking, mountain biking, scenic views of Mexico City",
+      "source_url": "https://mexicocity.cdmx.gob.mx/venues/cumbres-del-ajusco-national-park"
+    },
+    {
+      "name": "La Marquesa National Park",
+      "locality": "Ocoyoacac, State of Mexico (W)",
+      "attraction_type": "National park / Conifer forest",
+      "approximate_distance_km": 34,
+      "approximate_travel_time": "30–40 min by car",
+      "principal_activities": "Hiking through oyamel and pine forests, horseback riding, ATV rides, trout fishing, picnicking",
+      "source_url": "https://www.alltrails.com/en-gb/trail/mexico/state-of-mexico-4/potrero-cerro-muneco"
+    },
+    {
+      "name": "El Tepozteco National Park",
+      "locality": "Tepoztlán, Morelos (S)",
+      "attraction_type": "National park / Mountain & pre-Hispanic pyramid",
+      "approximate_distance_km": 85,
+      "approximate_travel_time": "1.5–2 h by car",
+      "principal_activities": "Hiking to the Tepozteco Pyramid, panoramic mountain views, birdwatching, exploring cloud forest",
+      "source_url": "https://www.natureretreats.org/mexico-city-hiking-guide"
+    },
+    {
+      "name": "Nevado de Toluca National Park",
+      "locality": "Zinacantepec, State of Mexico (W)",
+      "attraction_type": "Volcanic crater with alpine lakes",
+      "approximate_distance_km": 80,
+      "approximate_travel_time": "~2 h by car",
+      "principal_activities": "Crater hiking to Laguna del Sol and Laguna de la Luna, summit climb (Pico del Fraile, 4,680 m), photography",
+      "source_url": "https://yacanaoutdoors.com/tripsnevadodetoluca"
+    },
+    {
+      "name": "El Chico National Park",
+      "locality": "Mineral del Chico, Hidalgo (N)",
+      "attraction_type": "National park / Rocky forest",
+      "approximate_distance_km": 120,
+      "approximate_travel_time": "~2 h by car",
+      "principal_activities": "Rock climbing, hiking, mountain biking, rappelling, camping amid dramatic rock formations and forests",
+      "source_url": "https://www.southernxposure.com.mx/mexico-blogs/the-best-rock-climbing-destinations-in-mexico"
+    },
+    {
+      "name": "Iztaccíhuatl–Popocatépetl National Park (Paso de Cortés)",
+      "locality": "Amecameca, State of Mexico (SE)",
+      "attraction_type": "Volcanic national park",
+      "approximate_distance_km": 75,
+      "approximate_travel_time": "~1.5–2 h by car",
+      "principal_activities": "Day hiking to Paso de Cortés and lower slopes of Iztaccíhuatl, alpine meadow walks, volcano photography",
+      "source_url": "https://www.natureretreats.org/mexico-city-hiking-guide"
+    }
+  ],
+  "entities": null
+}

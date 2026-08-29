@@ -1,0 +1,69 @@
+{
+  "results": [
+    {
+      "name": "Turia Gardens (Jardín del Turia)",
+      "recommendation_type": "Urban park",
+      "locality": "Valencia city centre",
+      "principal_activities": "Cycling, walking, jogging, inline skating, picnicking",
+      "why_it_is_special": "One of the largest urban parks in Spain (~9 km long), built on the former riverbed of the Turia river. It winds through the city from Cabecera Park to the City of Arts and Sciences, passing under historic bridges, through palm groves, orange trees, fountains, and rose gardens.",
+      "source_url": "https://www.visitvalencia.com/en/what-to-do-valencia/nature-in-valencia/parks-and-gardens-valencia"
+    },
+    {
+      "name": "L'Albufera Natural Park",
+      "recommendation_type": "Natural park / easy day trip",
+      "locality": "El Palmar, ~15 km south of Valencia",
+      "principal_activities": "Boat ride on the lagoon, birdwatching, nature walks, paella tasting, sunset viewing",
+      "why_it_is_special": "A 21,000-hectare wetland with Spain's largest freshwater lagoon, rice paddies, dune beaches, and Mediterranean forest. A Ramsar-recognised site and the birthplace of paella. Traditional boat rides (*albuferenc*) glide through the lagoon at sunset. Reachable by city bus (lines 24/25).",
+      "source_url": "https://www.visitvalencia.com/en/what-to-see-valencia/albufera-natural-park"
+    },
+    {
+      "name": "Montanejos Thermal Springs & Girlfriend Waterfall",
+      "recommendation_type": "Day trip (~2 h from Valencia)",
+      "locality": "Montanejos, Castellón province",
+      "principal_activities": "Swimming in natural thermal pools, hiking canyon trails, visiting the Girlfriend Waterfall (Salto de la Novia)",
+      "why_it_is_special": "Turquoise thermal waters surrounded by lush cliffs and pine forests. The water stays warm year-round, and the Mijares River gorge offers scenic hiking. Combines relaxation with light adventure.",
+      "source_url": "https://thingstodoinvalencia.net/montanejos-hot-springs"
+    },
+    {
+      "name": "Chulilla Hanging Bridges & Turia Canyon",
+      "recommendation_type": "Day trip (~1 h from Valencia)",
+      "locality": "Chulilla, Valencia province",
+      "principal_activities": "Canyon hiking, crossing suspended bridges, photography, swimming in river pools",
+      "why_it_is_special": "Two dramatic hanging bridges span the narrow Turia River canyon with sheer limestone walls. The well-marked trail is moderate and rewards with stunning views and a charming whitewashed village at the end. Often cited as the highlight of a Valencia trip.",
+      "source_url": "https://www.theadventuremanual.com/hanging-bridges-of-chulilla"
+    },
+    {
+      "name": "Sierra Calderona Natural Park",
+      "recommendation_type": "Day trip (~30 min from Valencia)",
+      "locality": "Náquera / Serra / Estivella area",
+      "principal_activities": "Hiking, mountain biking, birdwatching, visiting historic monasteries",
+      "why_it_is_special": "18,019 hectares of Mediterranean ravines, pine and cork-oak forests. The El Garbí peak (601 m) offers panoramic views over the Gulf of Valencia and the Albufera. Five colour-coded trails range from easy to moderate. A ZEPA bird-protection zone home to Bonelli's eagle and eagle owl.",
+      "source_url": "https://www.visitvalencia.com/en/what-to-do-valencia/nature-in-valencia/sierra-calderona"
+    },
+    {
+      "name": "Malvarrosa Beach",
+      "recommendation_type": "Urban beach",
+      "locality": "Valencia seafront",
+      "principal_activities": "Swimming, sunbathing, beach volleyball, paddleboarding, windsurfing, kayaking",
+      "why_it_is_special": "Valencia's most iconic city beach with fine golden sand and Blue Flag-certified clean water. It has a dedicated channel for water sports (surfing, SUP, canoeing) and a lively promenade lined with restaurants. Easily reached by tram.",
+      "source_url": "https://www.spain.info/en/beach/malvarrosa-valencia"
+    },
+    {
+      "name": "Botanical Garden of Valencia (Jardí Botànic)",
+      "recommendation_type": "Urban garden",
+      "locality": "Valencia city centre (near Torres de Quart)",
+      "principal_activities": "Leisurely walks, plant discovery, photography",
+      "why_it_is_special": "A six-hectare garden housing around 5,000 plant species, one of the most important botanical collections in Spain. A peaceful oasis steps from the old town, ideal for a relaxed morning or afternoon stroll.",
+      "source_url": "https://www.spain.info/en/top/some-impressive-botanical-gardens-spain"
+    },
+    {
+      "name": "Bocairent & Pou Clar Pools",
+      "recommendation_type": "Day trip (~1.5 h from Valencia)",
+      "locality": "Bocairent, Valencia province",
+      "principal_activities": "Hiking, swimming in natural pools, exploring cave dwellings (Covetes dels Moros)",
+      "why_it_is_special": "A picturesque mountain village with Moorish cave dwellings carved into cliffs and the crystal-clear Pou Clar natural pools fed by mountain springs — perfect for a refreshing dip after exploring the old town.",
+      "source_url": "https://travelandchatter.com/day-trips-from-valencia-spain"
+    }
+  ],
+  "entities": null
+}

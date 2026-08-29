@@ -1,0 +1,22 @@
+{
+  "entities": [
+    {
+      "id": "315258d6-a136-439b-ab08-a99933c84e97",
+      "name": "Barcelona [Barcelona]",
+      "entity_type": "CountrySubdivision",
+      "description": "Major city in Spain with over 1.7 million people and home to MNAC."
+    },
+    {
+      "id": "7d7e89cd-567d-554c-9a67-7a4a0c9915ab",
+      "name": "Barcelona",
+      "entity_type": "Municipality",
+      "description": "city in Catalonia, Spain"
+    },
+    {
+      "id": "9f1b6fff-61fd-4adb-8a2e-314ae714f172",
+      "name": "Barcelona",
+      "entity_type": "GPE",
+      "description": "A province in Spain containing the city of Mataró, with a population of about 5.9 million and using the euro."
+    }
+  ]
+}
